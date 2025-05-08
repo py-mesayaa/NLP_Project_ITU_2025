@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "tag": "-"
+    },
+    {
+        "id": 1,
+        "tag": "African"
+    },
+    {
+        "id": 2,
+        "tag": "Eastern Asian"
+    },
+    {
+        "id": 3,
+        "tag": "European"
+    },
+    {
+        "id": 4,
+        "tag": "Latin"
+    },
+    {
+        "id": 5,
+        "tag": "Middle Asian"
+    },
+    {
+        "id": 6,
+        "tag": "Middle Eastern"
+    },
+    {
+        "id": 7,
+        "tag": "Non-cultural"
+    },
+    {
+        "id": 8,
+        "tag": "North American"
+    },
+    {
+        "id": 9,
+        "tag": "Oceanian"
+    }
+]

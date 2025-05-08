@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "tag": "B-LOC"
+    },
+    {
+        "id": 1,
+        "tag": "B-MISC"
+    },
+    {
+        "id": 2,
+        "tag": "B-ORG"
+    },
+    {
+        "id": 3,
+        "tag": "B-PER"
+    },
+    {
+        "id": 4,
+        "tag": "I-LOC"
+    },
+    {
+        "id": 5,
+        "tag": "I-MISC"
+    },
+    {
+        "id": 6,
+        "tag": "I-ORG"
+    },
+    {
+        "id": 7,
+        "tag": "I-PER"
+    },
+    {
+        "id": 8,
+        "tag": "O"
+    }
+]
