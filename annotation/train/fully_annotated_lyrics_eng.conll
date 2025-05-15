@@ -1,0 +1,11980 @@
+1-6	O	-
+-	O	-
+6	O	-
+
+Santan	B-PER	European
+from	O	-
+the	O	-
+V-V	B-LOC	European
+x	O	-
+AJ	B-PER	European
+
+Man	O	-
+mystic	O	-
+with	O	-
+the	O	-
+pen	O	-
+like	O	-
+J	B-PER	European
+.	I-PER	European
+K	I-PER	European
+
+True	O	-
+say	O	-
+,	O	-
+I	O	-
+ain't	O	-
+really	O	-
+a	O	-
+drinker	O	-
+
+But	O	-
+I	O	-
+got	O	-
+love	O	-
+for	O	-
+brandy	B-MISC	European
+like	O	-
+Ray	B-PER	North America
+J	I-PER	European
+
+Champagne	O	-
+popper	O	-
+,	O	-
+.	O	-
+44	O	-
+chopper	B-MISC	North America
+
+In	O	-
+a	O	-
+black	O	-
+Nike	B-ORG	North America
+bomber	O	-
+,	O	-
+heartbeat	O	-
+stopper	O	-
+
+Half-heart	O	-
+MC	B-MISC	North America
+dropper	O	-
+
+.	O	-
+45	O	-
+wapper	O	-
+,	O	-
+leave	O	-
+you	O	-
+in	O	-
+the	O	-
+states	O	-
+like	O	-
+Kaká	B-PER	Latin
+
+AJ	B-PER	European
+from	O	-
+the	O	-
+l-l	B-LOC	
+x	O	-
+Santan	B-PER	European
+
+Man's	O	-
+got	O	-
+style	O	-
+on	O	-
+the	O	-
+riddim	B-MISC	North America
+like	O	-
+Gangnam	B-MISC	Eastern Asian
+
+Two	O	-
+young	O	-
+bruddas	B-MISC	European
+tryna	O	-
+eat	O	-
+off	O	-
+of	O	-
+music	O	-
+
+But	O	-
+we	O	-
+used	O	-
+to	O	-
+eat	O	-
+off	O	-
+of	O	-
+pebs	O	-
+and	O	-
+the	O	-
+sand	O	-
+bags	O	-
+
+Now	O	-
+we	O	-
+get	O	-
+money	O	-
+,	O	-
+music	O	-
+money	O	-
+
+Money	O	-
+that	O	-
+could	O	-
+put	O	-
+your	O	-
+girlfriend	O	-
+in	O	-
+a	O	-
+handbag	O	-
+
+White	O	-
+tee	O	-
+,	O	-
+Balenciagas	B-ORG	European
+,	O	-
+man	O	-
+bag	O	-
+
+Left-winger	O	-
+with	O	-
+a	O	-
+long	O	-
+stick	O	-
+like	O	-
+a	O	-
+granddad	O	-
+
+AJ	B-PER	European
+Tizzy	I-PER	European
+from	O	-
+T-H	B-LOC	European
+-	O	-
+E	O	-
+lizzy	O	-
+
+And	O	-
+I'm	O	-
+all	O	-
+out	O	-
+for	O	-
+the	O	-
+Lizzy	B-PER	European
+
+I	O	-
+don't	O	-
+wanna	O	-
+look	O	-
+like	O	-
+you	O	-
+,	O	-
+you're	O	-
+broke	O	-
+
+And	O	-
+I've	O	-
+been	O	-
+telling	O	-
+broke	O	-
+bruddas	O	-
+"	O	-
+move	O	-
+"	O	-
+like	O	-
+Grizzy	B-PER	European
+
+Still	O	-
+brandy	B-MISC	European
+but	O	-
+the	O	-
+hand	O	-
+ting	O	-
+fizzy	O	-
+
+Probs	O	-
+be	O	-
+in	O	-
+bin	O	-
+if	O	-
+a	O	-
+man	O	-
+weren't	O	-
+busy	O	-
+
+I'm	O	-
+a	O	-
+mic	O	-
+king	O	-
+,	O	-
+I'm	O	-
+a	O	-
+king	O	-
+on	O	-
+the	O	-
+mic	O	-
+
+And	O	-
+I'll	O	-
+spin	O	-
+bruddas	O	-
+til	O	-
+the	O	-
+whole	O	-
+scene	O	-
+gets	O	-
+dizzy	O	-
+
+Walk	O	-
+in	O	-
+the	O	-
+rave	O	-
+,	O	-
+smile	O	-
+on	O	-
+my	O	-
+face	O	-
+
+Drink	O	-
+in	O	-
+my	O	-
+cup	O	-
+,	O	-
+hand	O	-
+in	O	-
+my	O	-
+jeans	O	-
+
+Man	O	-
+talk	O	-
+tough	O	-
+,	O	-
+man	O	-
+look	O	-
+up	O	-
+,	O	-
+down	O	-
+,	O	-
+left	O	-
+,	O	-
+right	O	-
+
+Straight	O	-
+to	O	-
+a	O	-
+bang	O	-
+in	O	-
+the	O	-
+teeth	O	-
+
+Man	O	-
+still	O	-
+talk	O	-
+tough	O	-
+,	O	-
+man	O	-
+saw	O	-
+man	O	-
+in	O	-
+the	O	-
+flesh	O	-
+
+Now	O	-
+man's	O	-
+tryna	O	-
+talk	O	-
+to	O	-
+my	O	-
+Gs	B-MISC	North America
+
+Nah	O	-
+,	O	-
+none	O	-
+of	O	-
+that	O	-
+,	O	-
+none	O	-
+,	O	-
+.	O	-
+45	O	-
+drum	O	-
+
+Run	O	-
+you	O	-
+right	O	-
+out	O	-
+of	O	-
+your	O	-
+street	O	-
+
+Walk	O	-
+in	O	-
+the	O	-
+dance	O	-
+,	O	-
+chicks	O	-
+wanna	O	-
+glance	O	-
+
+Hand	O	-
+on	O	-
+my	O	-
+hip	O	-
+,	O	-
+shank	B-MISC	European
+for	O	-
+the	O	-
+dip	O	-
+
+If	O	-
+I	O	-
+shout	O	-
+"	O	-
+oi	O	-
+"	O	-
+,	O	-
+them	O	-
+man	O	-
+there	O	-
+best	O	-
+skip	O	-
+
+Better	O	-
+tie	O	-
+up	O	-
+your	O	-
+laces	O	-
+tight	O	-
+and	O	-
+don't	O	-
+trip	O	-
+
+Trip	O	-
+,	O	-
+get	O	-
+splashed	O	-
+
+Couldn't	O	-
+care	O	-
+less	O	-
+about	O	-
+my	O	-
+man's	O	-
+gang	B-MISC	North America
+
+We're	O	-
+not	O	-
+fam	B-MISC	European
+,	O	-
+we're	O	-
+not	O	-
+friends	O	-
+or	O	-
+bredrins	B-MISC	European
+
+You'll	O	-
+get	O	-
+tanned	O	-
+and	O	-
+binned	B-MISC	European
+,	O	-
+cock	O	-
+,	O	-
+then	O	-
+blam	O	-
+
+Santan	B-PER	European
+Dave	I-PER	European
+from	O	-
+the	O	-
+Vale	B-LOC	European
+and	O	-
+Tracey	B-PER	European
+
+Duck	O	-
+man	O	-
+down	O	-
+on	O	-
+the	O	-
+road	O	-
+,	O	-
+I'm	O	-
+pacey	O	-
+
+Two	O	-
+lighties	O	-
+on	O	-
+the	O	-
+phone	O	-
+,	O	-
+so	O	-
+facety	O	-
+
+One	O	-
+named	O	-
+Jordan	B-PER	North American
+and	O	-
+one	O	-
+named	O	-
+Stacey	B-PER	North American
+
+S	O	-
+with	O	-
+the	O	-
+S	O	-
+from	O	-
+the	O	-
+S	O	-
+,	O	-
+ask	O	-
+Showkey	B-PER	European
+
+Dust	O	-
+man	O	-
+down	O	-
+with	O	-
+a	O	-
+mask	O	-
+like	O	-
+Tobi	B-PER	European
+
+Tell	O	-
+a	O	-
+boy	O	-
+cotch	O	-
+,	O	-
+my	O	-
+man's	O	-
+telling	O	-
+me	O	-
+lots	O	-
+
+But	O	-
+we	O	-
+are	O	-
+not	O	-
+Gs	B-MISC	North America
+so	O	-
+don't	O	-
+watch	O	-
+my	O	-
+face	O	-
+
+Ladbroke	B-LOC	European
+Grove	I-LOC	European
+is	O	-
+where	O	-
+I	O	-
+re	O	-
+-	O	-
+who	O	-
+?	O	-
+
+Man	O	-
+get	O	-
+burst	O	-
+up	O	-
+in	O	-
+the	O	-
+G	B-MISC	North America
+-	O	-
+who	O	-
+?	O	-
+
+Came	O	-
+back	O	-
+with	O	-
+a	O	-
+fresh	O	-
+one	O	-
+,	O	-
+it's	O	-
+new	O	-
+
+Don't	O	-
+come	O	-
+around	O	-
+for	O	-
+a	O	-
+two	O	-
+of	O	-
+the	O	-
+blue	O	-
+
+I	O	-
+don't	O	-
+give	O	-
+a	O	-
+fuck	O	-
+if	O	-
+you're	O	-
+old	O	-
+or	O	-
+new	O	-
+
+I'll	O	-
+just	O	-
+yawn	O	-
+like	O	-
+"	O	-
+blackball	O	-
+who	O	-
+?	O	-
+"	O	-
+
+Put	O	-
+a	O	-
+couple	O	-
+dead	O	-
+MCs	B-MISC	North America
+in	O	-
+the	O	-
+grave	O	-
+
+Trust	O	-
+me	O	-
+,	O	-
+darg	B-MISC	European
+,	O	-
+you	O	-
+can	O	-
+go	O	-
+there	O	-
+too	O	-
+
+Trust	O	-
+me	O	-
+,	O	-
+darg	B-MISC	European
+,	O	-
+you	O	-
+can	O	-
+go	O	-
+there	O	-
+free	O	-
+
+I	O	-
+don't	O	-
+ever	O	-
+watch	O	-
+F-A	O	-
+-	O	-
+C-E	O	-
+
+AJT	B-PER	European
+from	O	-
+MTP	O	-
+
+NikeLab	B-ORG	North America
+tracksuit	O	-
+,	O	-
+Nike	B-ORG	North America
+ID	O	-
+
+Man	O	-
+got	O	-
+overly	O	-
+fucked	O	-
+in	O	-
+the	O	-
+beef	O	-
+
+Pretty	O	-
+sure	O	-
+I	O	-
+landed	O	-
+a	O	-
+bang	O	-
+to	O	-
+his	O	-
+teeth	O	-
+
+Man	O	-
+will	O	-
+get	O	-
+banged	O	-
+in	O	-
+the	O	-
+face	O	-
+by	O	-
+me	O	-
+
+Not	O	-
+my	O	-
+bredrin	B-MISC	European
+,	O	-
+banged	O	-
+in	O	-
+the	O	-
+face	O	-
+by	O	-
+me	O	-
+
+And	O	-
+me	O	-
+
+Man	O	-
+talk	O	-
+tough	O	-
+,	O	-
+we'll	O	-
+see	O	-
+
+Hit	O	-
+him	O	-
+with	O	-
+the	O	-
+left-right	O	-
+,	O	-
+left-right	O	-
+,	O	-
+left-right	O	-
+-	O	-
+right	O	-
+
+One	O	-
+jab	O	-
+,	O	-
+then	O	-
+I	O	-
+duck	O	-
+,	O	-
+then	O	-
+weave	O	-
+
+Come	O	-
+like	O	-
+Trevor	B-MISC	North America
+from	O	-
+GTA	B-ORG	North America
+
+If	O	-
+I	O	-
+bang	O	-
+man's	O	-
+face	O	-
+,	O	-
+man	O	-
+bop	O	-
+,	O	-
+then	O	-
+lean	O	-
+
+Kun	B-PER	Latin
+Aguero	I-PER	Latin
+,	O	-
+man	O	-
+dropped	O	-
+the	O	-
+shoulder	O	-
+feint	O	-
+once	O	-
+
+Quick	O	-
+kick	O	-
+then	O	-
+I	O	-
+drop	O	-
+man's	O	-
+G	B-MISC	North America
+
+First	O	-
+time	O	-
+I	O	-
+link	O	-
+her	O	-
+,	O	-
+Nando's	B-ORG	African
+,	O	-
+sweet	O	-
+
+£	O	-
+9	O	-
+.	O	-
+95	O	-
+,	O	-
+I	O	-
+swipe	O	-
+,	O	-
+then	O	-
+eat	O	-
+
+I	O	-
+one-two	O	-
+rap	O	-
+,	O	-
+she	O	-
+don't	O	-
+give	O	-
+hat	O	-
+
+Thiago	B-PER	Latin
+Silva	I-PER	Latin
+,	O	-
+man	O	-
+block	O	-
+,	O	-
+then	O	-
+skeet	O	-
+
+Had	O	-
+man	O	-
+screaming	O	-
+"	O	-
+look	O	-
+,	O	-
+there's	O	-
+my	O	-
+man	O	-
+"	O	-
+
+Hand	O	-
+in	O	-
+my	O	-
+pouch	O	-
+like	O	-
+"	O	-
+where	O	-
+?	O	-
+It's	O	-
+not	O	-
+me	O	-
+"	O	-
+
+Hand	O	-
+in	O	-
+my	O	-
+pouch	O	-
+like	O	-
+"	O	-
+where	O	-
+?	O	-
+It's	O	-
+not	O	-
+us	O	-
+"	O	-
+
+Turned	O	-
+to	O	-
+my	O	-
+G	B-MISC	North America
+like	O	-
+"	O	-
+where	O	-
+?	O	-
+It's	O	-
+not	O	-
+we	O	-
+"	O	-
+
+So	O	-
+if	O	-
+you	O	-
+get	O	-
+boom	O	-
+with	O	-
+the	O	-
+.	O	-
+45	O	-
+long	O	-
+
+It's	O	-
+a	O	-
+critical	O	-
+hit	O	-
+,	O	-
+no	O	-
+chance	O	-
+to	O	-
+repeat	O	-
+
+And	O	-
+if	O	-
+you	O	-
+see	O	-
+Arge	B-PER	European
+in	O	-
+the	O	-
+cut	O	-
+with	O	-
+the	O	-
+dip	O	-
+
+You're	O	-
+pissed	O	-
+so	O	-
+quick	O	-
+your	O	-
+team	O	-
+should	O	-
+retreat	O	-
+
+But	O	-
+if	O	-
+you	O	-
+see	O	-
+Juss	B-PER	European
+in	O	-
+the	O	-
+cut	O	-
+with	O	-
+his	O	-
+right	O	-
+hand	O	-
+tucked	O	-
+
+You're	O	-
+fucked	O	-
+,	O	-
+your	O	-
+team	O	-
+should	O	-
+leave	O	-
+,	O	-
+G	B-MISC	North America
+
+If	O	-
+you	O	-
+see	O	-
+Rapz	B-PER	European
+in	O	-
+the	O	-
+back	O	-
+with	O	-
+his	O	-
+hand	O	-
+in	O	-
+the	O	-
+bag	O	-
+
+It's	O	-
+mad	O	-
+,	O	-
+we	O	-
+came	O	-
+to	O	-
+see	O	-
+Ps	B-MISC	European
+
+Walk	O	-
+in	O	-
+the	O	-
+rave	O	-
+,	O	-
+smile	O	-
+on	O	-
+my	O	-
+face	O	-
+
+Drink	O	-
+in	O	-
+my	O	-
+cup	O	-
+,	O	-
+hand	O	-
+in	O	-
+my	O	-
+jeans	O	-
+
+Man	O	-
+talk	O	-
+tough	O	-
+,	O	-
+man	O	-
+look	O	-
+up	O	-
+,	O	-
+down	O	-
+,	O	-
+left	O	-
+,	O	-
+right	O	-
+
+Straight	O	-
+to	O	-
+a	O	-
+bang	O	-
+in	O	-
+the	O	-
+teeth	O	-
+
+Man	O	-
+still	O	-
+talk	O	-
+tough	O	-
+,	O	-
+man	O	-
+saw	O	-
+man	O	-
+in	O	-
+the	O	-
+flesh	O	-
+
+Now	O	-
+man's	O	-
+tryna	O	-
+talk	O	-
+to	O	-
+my	O	-
+Gs	B-MISC	North America
+
+Nah	O	-
+,	O	-
+none	O	-
+of	O	-
+that	O	-
+,	O	-
+none	O	-
+,	O	-
+.	O	-
+45	O	-
+drum	O	-
+
+Run	O	-
+you	O	-
+right	O	-
+out	O	-
+of	O	-
+your	O	-
+street	O	-
+
+Walk	O	-
+in	O	-
+the	O	-
+dance	O	-
+,	O	-
+chicks	O	-
+wanna	O	-
+glance	O	-
+
+Hand	O	-
+on	O	-
+my	O	-
+hip	O	-
+,	O	-
+shank	B-MISC	European
+for	O	-
+the	O	-
+dip	O	-
+
+If	O	-
+I	O	-
+shout	O	-
+"	O	-
+oi	O	-
+"	O	-
+,	O	-
+them	O	-
+man	O	-
+there	O	-
+best	O	-
+skip	O	-
+
+Better	O	-
+tie	O	-
+up	O	-
+your	O	-
+laces	O	-
+tight	O	-
+and	O	-
+don't	O	-
+trip	O	-
+
+Trip	O	-
+,	O	-
+get	O	-
+splashed	O	-
+
+Couldn't	O	-
+care	O	-
+less	O	-
+about	O	-
+my	O	-
+man's	O	-
+gang	B-MISC	North America
+
+We're	O	-
+not	O	-
+fam	B-MISC	European
+,	O	-
+we're	O	-
+not	O	-
+friends	O	-
+or	O	-
+bredrins	B-MISC	European
+
+You'll	O	-
+get	O	-
+tanned	O	-
+and	O	-
+binned	O	-
+,	O	-
+cock	O	-
+,	O	-
+then	O	-
+blam	O	-
+
+(	O	-
+169	O	-
+)	O	-
+
+Trap	O	-
+,	O	-
+TrapMoneyBenny	B-PER	North America
+
+This	O	-
+shit	O	-
+got	O	-
+me	O	-
+in	O	-
+my	O	-
+feelings	O	-
+
+Gotta	O	-
+be	O	-
+real	O	-
+with	O	-
+it	O	-
+,	O	-
+yeah	O	-
+
+Kiki	B-PER	North America
+,	O	-
+do	O	-
+you	O	-
+love	O	-
+me	O	-
+?	O	-
+Are	O	-
+you	O	-
+riding	O	-
+?	O	-
+
+Say	O	-
+you'll	O	-
+never	O	-
+ever	O	-
+leave	O	-
+from	O	-
+beside	O	-
+me	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+want	O	-
+ya	O	-
+,	O	-
+and	O	-
+I	O	-
+need	O	-
+ya	O	-
+
+And	O	-
+I'm	O	-
+down	O	-
+for	O	-
+you	O	-
+always	O	-
+
+KB	B-PER	North America
+,	O	-
+do	O	-
+you	O	-
+love	O	-
+me	O	-
+?	O	-
+Are	O	-
+you	O	-
+riding	O	-
+?	O	-
+
+Say	O	-
+you'll	O	-
+never	O	-
+ever	O	-
+leave	O	-
+from	O	-
+beside	O	-
+me	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+want	O	-
+ya	O	-
+,	O	-
+and	O	-
+I	O	-
+need	O	-
+ya	O	-
+
+And	O	-
+I'm	O	-
+down	O	-
+for	O	-
+you	O	-
+always	O	-
+
+Look	O	-
+,	O	-
+the	O	-
+new	O	-
+me	O	-
+is	O	-
+really	O	-
+still	O	-
+the	O	-
+real	O	-
+me	O	-
+
+I	O	-
+swear	O	-
+you	O	-
+gotta	O	-
+feel	O	-
+me	O	-
+before	O	-
+they	O	-
+try	O	-
+and	O	-
+kill	O	-
+me	O	-
+
+They	O	-
+gotta	O	-
+make	O	-
+some	O	-
+choices	O	-
+,	O	-
+they	O	-
+runnin'	O	-
+out	O	-
+of	O	-
+options	O	-
+
+'	O	-
+Cause	O	-
+I've	O	-
+been	O	-
+goin'	O	-
+off	O	-
+and	O	-
+they	O	-
+don't	O	-
+know	O	-
+when	O	-
+it's	O	-
+stoppin'	O	-
+
+And	O	-
+when	O	-
+you	O	-
+get	O	-
+to	O	-
+toppin'	O	-
+,	O	-
+I	O	-
+see	O	-
+that	O	-
+you've	O	-
+been	O	-
+learnin'	O	-
+
+And	O	-
+when	O	-
+I	O	-
+take	O	-
+you	O	-
+shoppin'	O	-
+,	O	-
+you	O	-
+spend	O	-
+it	O	-
+like	O	-
+you	O	-
+earned	O	-
+it	O	-
+
+And	O	-
+when	O	-
+you	O	-
+popped	O	-
+off	O	-
+on	O	-
+your	O	-
+ex	O	-
+he	O	-
+deserved	O	-
+it	O	-
+
+I	O	-
+thought	O	-
+you	O	-
+were	O	-
+the	O	-
+one	O	-
+from	O	-
+the	O	-
+jump	O	-
+,	O	-
+that	O	-
+confirmed	O	-
+it	O	-
+
+TrapMoneyBenny	B-PER	North America
+,	O	-
+ayy	O	-
+
+I	O	-
+buy	O	-
+you	O	-
+Champagne	B-MISC	European
+but	O	-
+you	O	-
+love	O	-
+some	O	-
+Henny	B-MISC	European
+
+From	O	-
+the	O	-
+block	O	-
+like	O	-
+you	O	-
+Jenny	B-PER	North America
+
+I	O	-
+know	O	-
+you	O	-
+special	O	-
+,	O	-
+girl	O	-
+,	O	-
+'	O	-
+cause	O	-
+I	O	-
+know	O	-
+too	O	-
+many	O	-
+
+'	O	-
+Resha	B-PER	North America
+,	O	-
+do	O	-
+you	O	-
+love	O	-
+me	O	-
+?	O	-
+Are	O	-
+you	O	-
+riding	O	-
+?	O	-
+
+Say	O	-
+you'll	O	-
+never	O	-
+ever	O	-
+leave	O	-
+from	O	-
+beside	O	-
+me	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+want	O	-
+ya	O	-
+,	O	-
+and	O	-
+I	O	-
+need	O	-
+ya	O	-
+
+And	O	-
+I'm	O	-
+down	O	-
+for	O	-
+you	O	-
+always	O	-
+
+JT	B-PER	North America
+,	O	-
+do	O	-
+you	O	-
+love	O	-
+me	O	-
+?	O	-
+Are	O	-
+you	O	-
+riding	O	-
+?	O	-
+
+Say	O	-
+you'll	O	-
+never	O	-
+ever	O	-
+leave	O	-
+from	O	-
+beside	O	-
+me	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+want	O	-
+ya	O	-
+,	O	-
+and	O	-
+I	O	-
+need	O	-
+ya	O	-
+
+And	O	-
+I'm	O	-
+down	O	-
+for	O	-
+you	O	-
+always	O	-
+
+Two	O	-
+bad	O	-
+bitches	O	-
+and	O	-
+we	O	-
+kissin'	O	-
+in	O	-
+the	O	-
+Wraith	B-ORG	European
+
+Kissin'-kissin'	O	-
+in	O	-
+the	O	-
+Wraith	B-ORG	European
+,	O	-
+kiss-kissin'	O	-
+in	O	-
+the	O	-
+Wraith	B-ORG	European
+
+I	O	-
+need	O	-
+that	O	-
+black	B-MISC	Non-cultural
+card	I-MISC	Non-cultural
+and	O	-
+the	O	-
+code	O	-
+to	O	-
+the	O	-
+safe	O	-
+
+Code	O	-
+to	O	-
+the	O	-
+safe	O	-
+,	O	-
+code-code	O	-
+to	O	-
+the	O	-
+safe-safe	O	-
+
+I	O	-
+show	O	-
+him	O	-
+how	O	-
+that	O	-
+neck	O	-
+work	O	-
+
+Fuck	O	-
+that	O	-
+Netflix	B-ORG	North America
+and	O	-
+chill	O	-
+—	O	-
+what's	O	-
+your	O	-
+net-net	O	-
+-	O	-
+net	O	-
+worth	O	-
+?	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+want	O	-
+ya	O	-
+,	O	-
+and	O	-
+I	O	-
+need	O	-
+ya	O	-
+
+And	O	-
+I'm	O	-
+down	O	-
+for	O	-
+you	O	-
+always	O	-
+
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+he	O	-
+bad	O	-
+
+And	O	-
+I'm	O	-
+down	O	-
+for	O	-
+you	O	-
+always	O	-
+
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+guess	O	-
+who's	O	-
+back	O	-
+
+And	O	-
+I'm	O	-
+down	O	-
+for	O	-
+you	O	-
+always	O	-
+
+D-down	O	-
+for	O	-
+you	O	-
+al	O	-
+–	O	-
+
+Black	O	-
+biggy	O	-
+biggy	O	-
+black	O	-
+biggy	O	-
+black	O	-
+blake	O	-
+
+D-d	O	-
+-	O	-
+down	O	-
+for	O	-
+you	O	-
+always	O	-
+
+I	O	-
+got	O	-
+a	O	-
+new	O	-
+boy	O	-
+,	O	-
+and	O	-
+that	O	-
+nigga	O	-
+trade	O	-
+!	O	-
+
+Kiki	B-PER	North America
+,	O	-
+do	O	-
+you	O	-
+love	O	-
+me	O	-
+?	O	-
+Are	O	-
+you	O	-
+riding	O	-
+?	O	-
+
+Say	O	-
+you'll	O	-
+never	O	-
+ever	O	-
+leave	O	-
+from	O	-
+beside	O	-
+me	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+want	O	-
+you	O	-
+,	O	-
+and	O	-
+I	O	-
+need	O	-
+you	O	-
+
+And	O	-
+I'm	O	-
+down	O	-
+for	O	-
+you	O	-
+always	O	-
+
+KB	B-PER	North America
+,	O	-
+do	O	-
+you	O	-
+love	O	-
+me	O	-
+?	O	-
+Are	O	-
+you	O	-
+riding	O	-
+?	O	-
+
+Say	O	-
+you'll	O	-
+never	O	-
+ever	O	-
+leave	O	-
+from	O	-
+beside	O	-
+me	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+want	O	-
+ya	O	-
+,	O	-
+and	O	-
+I	O	-
+–	O	-
+
+Skate	O	-
+and	O	-
+Smoke	O	-
+and	O	-
+Rap	B-MISC	North America
+
+Now	O	-
+let	O	-
+me	O	-
+see	O	-
+you	O	-
+
+Bring	O	-
+that	O	-
+ass	O	-
+,	O	-
+bring	O	-
+that	O	-
+ass	O	-
+,	O	-
+bring	O	-
+that	O	-
+ass	O	-
+back	O	-
+!	O	-
+
+B-bring	O	-
+that	O	-
+ass	O	-
+,	O	-
+bring	O	-
+that	O	-
+ass	O	-
+,	O	-
+bring	O	-
+that	O	-
+ass	O	-
+back	O	-
+!	O	-
+
+Shawty	O	-
+say	O	-
+the	O	-
+nigga	O	-
+that	O	-
+she	O	-
+with	O	-
+can't	O	-
+hit	O	-
+
+But	O	-
+shawty	B-MISC	North America
+,	O	-
+I'ma	O	-
+hit	O	-
+it	O	-
+,	O	-
+hit	O	-
+it	O	-
+like	O	-
+I	O	-
+can't	O	-
+miss	O	-
+
+Now	O	-
+let	O	-
+me	O	-
+see	O	-
+you	O	-
+
+Clap	O	-
+that	O	-
+ass	O	-
+,	O	-
+you're	O	-
+the	O	-
+only	O	-
+one	O	-
+I	O	-
+love	O	-
+
+Clap	O	-
+that	O	-
+ass	O	-
+,	O	-
+clap-clap	O	-
+that	O	-
+ass	O	-
+!	O	-
+
+Bring	O	-
+that	O	-
+ass	O	-
+back	O	-
+!	O	-
+
+Clap-clap	O	-
+-	O	-
+clap	O	-
+that	O	-
+ass	O	-
+,	O	-
+you're	O	-
+the	O	-
+only	O	-
+one	O	-
+I	O	-
+love	O	-
+
+Let's	O	-
+go	O	-
+,	O	-
+let's	O	-
+go	O	-
+,	O	-
+let's	O	-
+go	O	-
+!	O	-
+
+Bring	O	-
+that	O	-
+ass	O	-
+back	O	-
+!	O	-
+
+Trap	O	-
+,	O	-
+TrapMoneyBenny	B-PER	North America
+
+This	O	-
+shit	O	-
+got	O	-
+me	O	-
+in	O	-
+my	O	-
+feelings	O	-
+
+Gotta	O	-
+be	O	-
+real	O	-
+with	O	-
+it	O	-
+,	O	-
+yup	O	-
+
+BlaqNmilD	B-PER	North America
+,	O	-
+you	O	-
+a	O	-
+genius	O	-
+,	O	-
+you	O	-
+diggin'	O	-
+me	O	-
+?	O	-
+
+I	O	-
+don't	O	-
+even	O	-
+care	O	-
+,	O	-
+I	O	-
+need	O	-
+a	O	-
+photo	O	-
+with	O	-
+Drake	B-PER	North America
+
+Because	O	-
+my	O	-
+Instagram	O	-
+is	O	-
+weak	O	-
+as	O	-
+fuck	O	-
+
+I'm	O	-
+just	O	-
+being	O	-
+real	O	-
+,	O	-
+my	O	-
+shit	O	-
+,	O	-
+look	O	-
+–	O	-
+
+Bangladesh	B-PER	Middle Asian
+
+Young	B-ORG	North America
+Money	I-ORG	North America
+!	O	-
+
+You	O	-
+dig	O	-
+?	O	-
+
+Mack	B-PER	North America
+,	O	-
+I'm	O	-
+going	O	-
+in	O	-
+
+A	O	-
+millionaire	O	-
+,	O	-
+I'm	O	-
+a	O	-
+Young	B-ORG	North America
+Money	I-ORG	North America
+millionaire	O	-
+
+Tougher	O	-
+than	O	-
+Nigerian	B-LOC	African
+hair	O	-
+
+My	O	-
+criteria	O	-
+compared	O	-
+to	O	-
+your	O	-
+career	O	-
+just	O	-
+isn't	O	-
+fair	O	-
+
+I'm	O	-
+a	O	-
+venereal	O	-
+disease	O	-
+,	O	-
+like	O	-
+a	O	-
+menstrual	O	-
+bleed	O	-
+
+Through	O	-
+the	O	-
+pencil	O	-
+,	O	-
+and	O	-
+leak	O	-
+on	O	-
+the	O	-
+sheet	O	-
+of	O	-
+the	O	-
+tablet	O	-
+in	O	-
+my	O	-
+mind	O	-
+
+‘	O	-
+Cause	O	-
+I	O	-
+don't	O	-
+write	O	-
+shit	O	-
+,	O	-
+‘	O	-
+cause	O	-
+I	O	-
+ain't	O	-
+got	O	-
+time	O	-
+
+‘	O	-
+Cause	O	-
+my	O	-
+seconds	O	-
+,	O	-
+minutes	O	-
+,	O	-
+hours	O	-
+go	O	-
+to	O	-
+the	O	-
+almighty	O	-
+dollar	O	-
+
+And	O	-
+the	O	-
+almighty	O	-
+power	O	-
+of	O	-
+that	O	-
+ch-cha	O	-
+-	O	-
+cha-chopper	B-MISC	North America
+
+Sister	O	-
+,	O	-
+brother	O	-
+,	O	-
+son	O	-
+,	O	-
+daughter	O	-
+,	O	-
+father	O	-
+;	O	-
+mother-fuck	O	-
+a	O	-
+copper	B-MISC	European
+
+Got	O	-
+the	O	-
+Maserati	O	-
+dancin'	O	-
+on	O	-
+the	O	-
+bridge	O	-
+,	O	-
+pussy	O	-
+poppin'	O	-
+
+Tell	O	-
+the	O	-
+coppers	B-MISC	European
+:	O	-
+"	O	-
+Ha-ha	O	-
+-	O	-
+ha-ha	O	-
+
+You	O	-
+can't	O	-
+catch	O	-
+him	O	-
+,	O	-
+you	O	-
+can't	O	-
+stop	O	-
+him	O	-
+"	O	-
+
+I	O	-
+go	O	-
+by	O	-
+them	O	-
+goon	B-MISC	North America
+rules	O	-
+:	O	-
+if	O	-
+you	O	-
+can't	O	-
+beat	O	-
+'	O	-
+em	O	-
+,	O	-
+then	O	-
+you	O	-
+pop	B-MISC	North America
+'	O	-
+em	O	-
+
+You	O	-
+can't	O	-
+man	O	-
+'	O	-
+em	O	-
+,	O	-
+then	O	-
+you	O	-
+mop	O	-
+'	O	-
+em	O	-
+
+You	O	-
+can't	O	-
+stand	O	-
+'	O	-
+em	O	-
+,	O	-
+then	O	-
+you	O	-
+drop	O	-
+'	O	-
+em	O	-
+
+You	O	-
+pop	O	-
+'	O	-
+em	O	-
+‘	O	-
+cause	O	-
+we	O	-
+pop	O	-
+'	O	-
+em	O	-
+like	O	-
+Orville	B-PER	North America
+Redenbacher	I-PER	North America
+
+Motherfucker	O	-
+,	O	-
+I'm	O	-
+ill	O	-
+
+A	O	-
+million	O	-
+here	O	-
+,	O	-
+a	O	-
+million	O	-
+there	O	-
+
+Sicilian	B-LOC	European
+bitch	O	-
+with	O	-
+long	O	-
+hair	O	-
+,	O	-
+with	O	-
+coke	B-MISC	Non-cultural
+in	O	-
+her	O	-
+derriere	B-MISC	European
+
+Like	O	-
+smoking	O	-
+the	O	-
+thinnest	O	-
+air	O	-
+
+I	O	-
+open	O	-
+the	O	-
+Lamborghini	B-ORG	European
+,	O	-
+hopin'	O	-
+them	O	-
+crackers	O	-
+see	O	-
+me	O	-
+
+Like	O	-
+,	O	-
+"	O	-
+Look	O	-
+at	O	-
+that	O	-
+bastard	O	-
+Weezy	B-PER	North America
+!	O	-
+"	O	-
+
+He's	O	-
+a	O	-
+beast	O	-
+,	O	-
+he's	O	-
+a	O	-
+dog	O	-
+,	O	-
+he's	O	-
+a	O	-
+mothafuckin'	O	-
+problem	O	-
+
+Okay	O	-
+,	O	-
+you're	O	-
+a	O	-
+goon	B-MISC	North America
+,	O	-
+but	O	-
+what's	O	-
+a	O	-
+goon	B-MISC	North America
+to	O	-
+a	O	-
+goblin	B-MISC	Non-cultural
+?	O	-
+
+Nothin'	O	-
+,	O	-
+nothin'	O	-
+,	O	-
+you	O	-
+ain't	O	-
+scarin'	O	-
+nothin'	O	-
+
+On	O	-
+some	O	-
+faggot	O	-
+bullshit	O	-
+:	O	-
+call	O	-
+'	O	-
+em	O	-
+Dennis	B-PER	Non-cultural
+Rodman	I-PER	North American
+
+Call	O	-
+me	O	-
+what	O	-
+you	O	-
+want	O	-
+,	O	-
+bitch	O	-
+!	O	-
+Call	O	-
+me	O	-
+on	O	-
+my	O	-
+Sidekick	B-ORG	North American
+!	O	-
+
+Never	O	-
+answer	O	-
+when	O	-
+it's	O	-
+private	O	-
+,	O	-
+damn	O	-
+,	O	-
+I	O	-
+hate	O	-
+a	O	-
+shy	O	-
+bitch	O	-
+
+Don't	O	-
+you	O	-
+hate	O	-
+a	O	-
+shy	O	-
+bitch	O	-
+?	O	-
+Yeah	O	-
+,	O	-
+I	O	-
+ate	O	-
+a	O	-
+shy	O	-
+bitch	O	-
+
+She	O	-
+ain't	O	-
+shy	O	-
+no	O	-
+more	O	-
+,	O	-
+she	O	-
+changed	O	-
+her	O	-
+name	O	-
+to	O	-
+My	O	-
+Bitch	O	-
+
+Yeah	O	-
+,	O	-
+nigga	O	-
+,	O	-
+that's	O	-
+my	O	-
+bitch	O	-
+,	O	-
+so	O	-
+when	O	-
+she	O	-
+ask	O	-
+
+For	O	-
+the	O	-
+money	O	-
+when	O	-
+you	O	-
+through	O	-
+,	O	-
+don't	O	-
+be	O	-
+surprised	O	-
+,	O	-
+bitch	O	-
+!	O	-
+
+And	O	-
+it	O	-
+ain't	O	-
+trickin'	O	-
+if	O	-
+you	O	-
+got	O	-
+it	O	-
+
+But	O	-
+you	O	-
+like	O	-
+a	O	-
+bitch	O	-
+with	O	-
+no	O	-
+ass	O	-
+:	O	-
+You	O	-
+ain't	O	-
+got	O	-
+shit	O	-
+
+Motherfucker	O	-
+,	O	-
+I'm	O	-
+ill	O	-
+,	O	-
+not	O	-
+sick	O	-
+
+And	O	-
+I'm	O	-
+okay	O	-
+,	O	-
+but	O	-
+my	O	-
+watch	O	-
+sick	O	-
+,	O	-
+yeah	O	-
+,	O	-
+my	O	-
+drop	O	-
+sick	O	-
+
+Yeah	O	-
+,	O	-
+my	O	-
+Glock	B-MISC	North American
+sick	O	-
+,	O	-
+and	O	-
+my	O	-
+knot	O	-
+thick	O	-
+—	O	-
+I'm	O	-
+it	O	-
+
+Motherfucker	O	-
+,	O	-
+I'm	O	-
+ill	O	-
+
+See	O	-
+,	O	-
+they	O	-
+say	O	-
+I'm	O	-
+rappin'	O	-
+like	O	-
+B	B-PER	North American
+.	I-PER	European
+I	I-PER	North American
+.	I-PER	European
+G	I-PER	North America
+.	O	-
+,	O	-
+Jay	B-PER	North American
+,	O	-
+and	O	-
+2Pac	B-PER	North American
+
+André	B-PER	North American
+3000	I-PER	North American
+,	O	-
+where	O	-
+is	O	-
+Erykah	B-PER	North American
+Badu	I-PER	North American
+at	O	-
+?	O	-
+Who	O	-
+that	O	-
+?	O	-
+
+Who	O	-
+that	O	-
+said	O	-
+they	O	-
+gon'	O	-
+beat	O	-
+Lil	B-PER	North American
+Wayne	I-PER	North American
+?	O	-
+
+My	O	-
+name	O	-
+ain't	O	-
+Bic	B-ORG	North American
+,	O	-
+but	O	-
+I	O	-
+keep	O	-
+that	O	-
+flame	O	-
+,	O	-
+man	O	-
+
+Who	O	-
+that	O	-
+one	O	-
+that	O	-
+do	O	-
+that	O	-
+,	O	-
+boy	O	-
+?	O	-
+
+You	O	-
+knew	O	-
+that	O	-
+true	O	-
+that	O	-
+,	O	-
+swallow	O	-
+
+And	O	-
+I	O	-
+be	O	-
+the	O	-
+shit	O	-
+,	O	-
+now	O	-
+you	O	-
+got	O	-
+loose	O	-
+bowels	O	-
+
+I	O	-
+don't	O	-
+owe	O	-
+you	O	-
+like	O	-
+two	O	-
+vowels	O	-
+
+But	O	-
+I	O	-
+would	O	-
+like	O	-
+for	O	-
+you	O	-
+to	O	-
+pay	O	-
+me	O	-
+by	O	-
+the	O	-
+hour	O	-
+
+And	O	-
+I'd	O	-
+rather	O	-
+be	O	-
+pushin'	O	-
+flowers	O	-
+
+Than	O	-
+to	O	-
+be	O	-
+in	O	-
+the	O	-
+pen	O	-
+sharin'	O	-
+showers	O	-
+
+Tony	B-PER	North American
+told	O	-
+us	O	-
+this	O	-
+world	O	-
+was	O	-
+ours	O	-
+
+And	O	-
+the	O	-
+Bible	B-MISC	Non-cultural
+told	O	-
+us	O	-
+every	O	-
+girl	O	-
+was	O	-
+sour	O	-
+
+Don't	O	-
+play	O	-
+in	O	-
+her	O	-
+garden	O	-
+and	O	-
+don't	O	-
+smell	O	-
+her	O	-
+flower	O	-
+
+Call	O	-
+me	O	-
+Mr	B-PER	North American
+.	I-PER	European
+Carter	I-PER	North American
+or	O	-
+Mr	O	-
+.	O	-
+Lawn	O	-
+Mower	O	-
+
+Boy	O	-
+,	O	-
+I	O	-
+got	O	-
+so	O	-
+many	O	-
+bitches	O	-
+,	O	-
+like	O	-
+I'm	O	-
+Mike	B-PER	North American
+Lowrey	I-PER	North American
+
+Even	O	-
+Gwen	B-PER	North American
+Stefani	I-PER	North American
+said	O	-
+she	O	-
+couldn't	O	-
+doubt	O	-
+me	O	-
+
+Motherfucker	O	-
+,	O	-
+I	O	-
+say	O	-
+"	O	-
+Life	O	-
+ain't	O	-
+shit	O	-
+without	O	-
+me	O	-
+"	O	-
+
+Chrome	O	-
+lips	O	-
+pokin'	O	-
+out	O	-
+the	O	-
+coupe	B-MISC	European
+,	O	-
+look	O	-
+like	O	-
+it's	O	-
+poutin'	O	-
+
+I	O	-
+do	O	-
+what	O	-
+I	O	-
+do	O	-
+,	O	-
+and	O	-
+you	O	-
+do	O	-
+what	O	-
+you	O	-
+can	O	-
+do	O	-
+about	O	-
+it	O	-
+
+Bitch	O	-
+,	O	-
+I	O	-
+can	O	-
+turn	O	-
+a	O	-
+crack	B-MISC	Non-cultural
+rock	I-MISC	Non-cultural
+into	O	-
+a	O	-
+mountain	O	-
+—	O	-
+dare	O	-
+me	O	-
+
+Don't	O	-
+you	O	-
+compare	O	-
+me	O	-
+,	O	-
+‘	O	-
+cause	O	-
+there	O	-
+ain't	O	-
+nobody	O	-
+near	O	-
+me	O	-
+
+They	O	-
+don't	O	-
+see	O	-
+me	O	-
+but	O	-
+they	O	-
+hear	O	-
+me	O	-
+
+They	O	-
+don't	O	-
+feel	O	-
+me	O	-
+but	O	-
+they	O	-
+fear	O	-
+me	O	-
+
+I'm	O	-
+illy	O	-
+,	O	-
+C3	O	-
+,	O	-
+3	B-MISC	Non-cultural
+Peat	I-MISC	Non-cultural
+
+Uh	O	-
+,	O	-
+me	O	-
+and	O	-
+my	O	-
+niggas	O	-
+tryna	O	-
+get	O	-
+it	O	-
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+Hit	O	-
+the	O	-
+house	O	-
+lick	B-MISC	North American
+:	O	-
+tell	O	-
+me	O	-
+,	O	-
+is	O	-
+you	O	-
+wit'	O	-
+it	O	-
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+?	O	-
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+Home	O	-
+invasion	O	-
+was	O	-
+persuasive	O	-
+(	O	-
+Was	O	-
+persuasive	O	-
+)	O	-
+
+From	O	-
+nine	O	-
+to	O	-
+five	O	-
+I	O	-
+know	O	-
+it's	O	-
+vacant	O	-
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+Dreams	O	-
+of	O	-
+livin'	O	-
+life	O	-
+like	O	-
+rappers	B-MISC	North American
+do	O	-
+(	O	-
+Like	O	-
+rappers	B-MISC	North American
+do	O	-
+)	O	-
+
+Back	O	-
+when	O	-
+condom	O	-
+wrappers	O	-
+wasn't	O	-
+cool	O	-
+(	O	-
+They	O	-
+wasn't	O	-
+cool	O	-
+)	O	-
+
+I	O	-
+fucked	O	-
+Sherane	B-PER	North American
+and	O	-
+went	O	-
+to	O	-
+tell	O	-
+my	O	-
+bros	O	-
+(	O	-
+Tell	O	-
+my	O	-
+bros	O	-
+)	O	-
+
+Then	O	-
+Usher	B-PER	North American
+Raymond	I-PER	North American
+"	O	-
+Let	B-MISC	North American
+It	I-MISC	North American
+Burn	I-MISC	North American
+"	O	-
+came	O	-
+on	O	-
+(	O	-
+"	O	-
+Let	B-MISC	North American
+Burn	I-MISC	North American
+"	O	-
+came	O	-
+on	O	-
+)	O	-
+
+Hot	O	-
+sauce	O	-
+all	O	-
+in	O	-
+our	O	-
+Top	B-ORG	North American
+Ramen	I-ORG	North American
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+Park	O	-
+the	O	-
+car	O	-
+,	O	-
+then	O	-
+we	O	-
+start	O	-
+rhymin'	O	-
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+The	O	-
+only	O	-
+thing	O	-
+we	O	-
+had	O	-
+to	O	-
+free	O	-
+our	O	-
+mind	O	-
+(	O	-
+Free	O	-
+our	O	-
+mind	O	-
+)	O	-
+
+Then	O	-
+freeze	O	-
+that	O	-
+verse	O	-
+when	O	-
+we	O	-
+see	O	-
+dollar	B-MISC	North American
+signs	O	-
+(	O	-
+See	O	-
+dollar	B-MISC	North American
+signs	O	-
+)	O	-
+
+You	O	-
+lookin'	O	-
+like	O	-
+a	O	-
+easy	O	-
+come-up	O	-
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+A	O	-
+silver	O	-
+spoon	O	-
+I	O	-
+know	O	-
+you	O	-
+come	O	-
+from	O	-
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+And	O	-
+that's	O	-
+a	O	-
+lifestyle	O	-
+that	O	-
+we	O	-
+never	O	-
+knew	O	-
+(	O	-
+We	O	-
+never	O	-
+knew	O	-
+)	O	-
+
+Go	O	-
+at	O	-
+a	O	-
+reverend	O	-
+for	O	-
+the	O	-
+revenue	O	-
+
+It	O	-
+go	O	-
+Halle	B-PER	North American
+Berry	I-PER	North American
+or	O	-
+hallelujah	B-MISC	North American
+
+Pick	O	-
+your	O	-
+poison	O	-
+,	O	-
+tell	O	-
+me	O	-
+what	O	-
+you	O	-
+doin'	O	-
+
+Everybody	O	-
+gon'	O	-
+respect	O	-
+the	O	-
+shooter	O	-
+
+But	O	-
+the	O	-
+one	O	-
+in	O	-
+front	O	-
+of	O	-
+the	O	-
+gun	O	-
+lives	O	-
+forever	O	-
+
+(	O	-
+The	O	-
+one	O	-
+in	O	-
+front	O	-
+of	O	-
+the	O	-
+gun	O	-
+,	O	-
+forever	O	-
+)	O	-
+
+And	O	-
+I	O	-
+been	O	-
+hustlin'	O	-
+all	O	-
+day	O	-
+
+This-a	O	-
+-	O	-
+way	O	-
+,	O	-
+that-a	O	-
+-	O	-
+way	O	-
+
+Through	O	-
+canals	O	-
+and	O	-
+alleyways	O	-
+,	O	-
+just	O	-
+to	O	-
+say	O	-
+
+Money	O	-
+trees	O	-
+is	O	-
+the	O	-
+perfect	O	-
+place	O	-
+for	O	-
+shade	O	-
+
+And	O	-
+that's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+
+Nah	O	-
+,	O	-
+nah	O	-
+
+A	O	-
+dollar	B-MISC	North American
+might	O	-
+just	O	-
+fuck	O	-
+your	O	-
+main	O	-
+bitch	O	-
+
+That's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+,	O	-
+nah	O	-
+
+A	O	-
+dollar	B-MISC	North American
+might	O	-
+say	O	-
+fuck	O	-
+them	O	-
+niggas	O	-
+that	O	-
+you	O	-
+came	O	-
+with	O	-
+
+That's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+,	O	-
+nah	O	-
+,	O	-
+nah	O	-
+
+A	O	-
+dollar	B-MISC	North American
+might	O	-
+just	O	-
+make	O	-
+that	O	-
+lane	O	-
+switch	O	-
+
+That's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+,	O	-
+nah	O	-
+
+A	O	-
+dollar	B-MISC	North American
+might	O	-
+turn	O	-
+to	O	-
+a	O	-
+million	O	-
+and	O	-
+we	O	-
+all	O	-
+rich	O	-
+
+That's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+
+Dreams	O	-
+of	O	-
+livin'	O	-
+life	O	-
+like	O	-
+rappers	B-MISC	North American
+do	O	-
+(	O	-
+Like	O	-
+rappers	B-MISC	North American
+do	O	-
+)	O	-
+
+Bump	O	-
+that	O	-
+new	O	-
+E-40	B-PER	North American
+after	O	-
+school	O	-
+(	O	-
+Way	O	-
+after	O	-
+school	O	-
+)	O	-
+
+You	O	-
+know	O	-
+,	O	-
+“	O	-
+Big	B-MISC	North American
+Ballin'	I-MISC	North American
+With	I-MISC	North American
+My	I-MISC	North American
+Homies	I-MISC	North American
+”	O	-
+(	O	-
+My	O	-
+homies	O	-
+)	O	-
+
+Earl	B-PER	North American
+Stevens	I-PER	North American
+had	O	-
+us	O	-
+thinkin'	O	-
+rational	O	-
+(	O	-
+Thinkin'	O	-
+rational	O	-
+,	O	-
+that's	O	-
+rational	O	-
+)	O	-
+
+Back	O	-
+to	O	-
+reality	O	-
+,	O	-
+we	O	-
+poor	O	-
+,	O	-
+ya	O	-
+bish	O	-
+(	O	-
+Ya	O	-
+bish	O	-
+)	O	-
+
+Another	O	-
+casualty	O	-
+at	O	-
+war	O	-
+,	O	-
+ya	O	-
+bish	O	-
+(	O	-
+Ya	O	-
+bish	O	-
+)	O	-
+
+Two	O	-
+bullets	O	-
+in	O	-
+my	O	-
+Uncle	B-PER	North American
+Tony	I-PER	North American
+head	O	-
+(	O	-
+My	O	-
+Tony	B-PER	North American
+head	O	-
+)	O	-
+
+He	O	-
+said	O	-
+one	O	-
+day	O	-
+I'll	O	-
+be	O	-
+on	O	-
+tour	O	-
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+That	O	-
+Louis	B-MISC	North American
+Burgers	I-MISC	North American
+never	O	-
+be	O	-
+the	O	-
+same	O	-
+(	O	-
+Won't	O	-
+be	O	-
+the	O	-
+same	O	-
+)	O	-
+
+A	O	-
+Louis	B-ORG	North American
+belt	O	-
+that	O	-
+never	O	-
+ease	O	-
+that	O	-
+pain	O	-
+(	O	-
+Won't	O	-
+ease	O	-
+that	O	-
+pain	O	-
+)	O	-
+
+But	O	-
+I'ma	O	-
+purchase	O	-
+when	O	-
+that	O	-
+day	O	-
+is	O	-
+jerkin'	O	-
+(	O	-
+That	O	-
+day	O	-
+is	O	-
+jerkin'	O	-
+)	O	-
+
+Pull	O	-
+off	O	-
+at	O	-
+Church's	B-ORG	North American
+,	O	-
+with	O	-
+Pirellis	B-ORG	European
+skirtin'	O	-
+(	O	-
+Pirellis	B-ORG	European
+skirtin'	O	-
+)	O	-
+
+Gang	O	-
+signs	O	-
+out	O	-
+the	O	-
+window	O	-
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+Hopin'	O	-
+all	O	-
+of	O	-
+'	O	-
+em	O	-
+offend	O	-
+you	O	-
+,	O	-
+ya	O	-
+bish	B-MISC	North American
+(	O	-
+Ya	O	-
+bish	B-MISC	North American
+)	O	-
+
+They	O	-
+say	O	-
+your	O	-
+hood	O	-
+is	O	-
+a	O	-
+pot	O	-
+of	O	-
+gold	O	-
+(	O	-
+A	O	-
+pot	O	-
+of	O	-
+gold	O	-
+)	O	-
+
+And	O	-
+we	O	-
+gon'	O	-
+crash	O	-
+it	O	-
+when	O	-
+nobody's	O	-
+home	O	-
+
+It	O	-
+go	O	-
+Halle	B-PER	North American
+Berry	I-PER	North American
+or	O	-
+hallelujah	B-MISC	North American
+
+Pick	O	-
+your	O	-
+poison	O	-
+,	O	-
+tell	O	-
+me	O	-
+what	O	-
+you	O	-
+doin'	O	-
+
+Everybody	O	-
+gon'	O	-
+respect	O	-
+the	O	-
+shooter	O	-
+
+But	O	-
+the	O	-
+one	O	-
+in	O	-
+front	O	-
+of	O	-
+the	O	-
+gun	O	-
+lives	O	-
+forever	O	-
+
+(	O	-
+The	O	-
+one	O	-
+in	O	-
+front	O	-
+of	O	-
+the	O	-
+gun	O	-
+,	O	-
+forever	O	-
+)	O	-
+
+And	O	-
+I	O	-
+been	O	-
+hustlin'	O	-
+all	O	-
+day	O	-
+
+This-a	O	-
+-	O	-
+way	O	-
+,	O	-
+that-a	O	-
+-	O	-
+way	O	-
+
+Through	O	-
+canals	O	-
+and	O	-
+alleyways	O	-
+,	O	-
+just	O	-
+to	O	-
+say	O	-
+
+Money	O	-
+trees	O	-
+is	O	-
+the	O	-
+perfect	O	-
+place	O	-
+for	O	-
+shade	O	-
+
+And	O	-
+that's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+
+Nah	O	-
+,	O	-
+nah	O	-
+
+A	O	-
+dollar	B-MISC	North American
+might	O	-
+just	O	-
+fuck	O	-
+your	O	-
+main	O	-
+bitch	O	-
+
+That's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+,	O	-
+nah	O	-
+
+A	O	-
+dollar	B-MISC	North American
+might	O	-
+say	O	-
+fuck	O	-
+them	O	-
+niggas	O	-
+that	O	-
+you	O	-
+came	O	-
+with	O	-
+
+That's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+,	O	-
+nah	O	-
+,	O	-
+nah	O	-
+
+A	O	-
+dollar	B-MISC	North American
+might	O	-
+just	O	-
+make	O	-
+that	O	-
+lane	O	-
+switch	O	-
+
+That's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+,	O	-
+nah	O	-
+
+A	O	-
+dollar	B-MISC	North American
+might	O	-
+turn	O	-
+to	O	-
+a	O	-
+million	O	-
+and	O	-
+we	O	-
+all	O	-
+rich	O	-
+
+That's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+
+Be	O	-
+the	O	-
+last	O	-
+one	O	-
+out	O	-
+to	O	-
+get	O	-
+this	O	-
+dough	O	-
+?	O	-
+No	O	-
+way	O	-
+!	O	-
+
+Love	O	-
+one	O	-
+of	O	-
+you	O	-
+bucket-headed	O	-
+hoes	O	-
+?	O	-
+No	O	-
+way	O	-
+!	O	-
+
+Hit	O	-
+the	O	-
+streets	O	-
+,	O	-
+then	O	-
+we	O	-
+break	O	-
+the	O	-
+code	O	-
+?	O	-
+No	O	-
+way	O	-
+!	O	-
+
+Hit	O	-
+the	O	-
+brakes	O	-
+when	O	-
+they	O	-
+on	O	-
+patrol	O	-
+?	O	-
+No	O	-
+way	O	-
+!	O	-
+
+Be	O	-
+the	O	-
+last	O	-
+one	O	-
+out	O	-
+to	O	-
+get	O	-
+this	O	-
+dough	O	-
+?	O	-
+No	O	-
+way	O	-
+!	O	-
+
+Love	O	-
+one	O	-
+of	O	-
+you	O	-
+bucket-headed	O	-
+hoes	O	-
+?	O	-
+No	O	-
+way	O	-
+!	O	-
+
+Hit	O	-
+the	O	-
+streets	O	-
+,	O	-
+then	O	-
+we	O	-
+break	O	-
+the	O	-
+code	O	-
+?	O	-
+No	O	-
+way	O	-
+!	O	-
+
+Hit	O	-
+the	O	-
+brakes	O	-
+when	O	-
+they	O	-
+on	O	-
+patrol	O	-
+?	O	-
+No	O	-
+way	O	-
+!	O	-
+
+Imagine	O	-
+Rock	B-PER	European
+up	O	-
+in	O	-
+them	O	-
+projects	O	-
+
+Where	O	-
+them	O	-
+niggas	O	-
+pick	O	-
+your	O	-
+pockets	O	-
+
+Santa	B-MISC	Non-cultural
+Claus	I-MISC	Non-cultural
+don't	O	-
+miss	O	-
+them	O	-
+stockings	O	-
+
+Liquors	B-MISC	European
+spillin'	O	-
+,	O	-
+pistols	O	-
+poppin'	O	-
+
+Bakin'	O	-
+soda	O	-
+YOLA	B-MISC	Non-cultural
+whippin'	O	-
+
+Ain't	O	-
+no	O	-
+turkey	O	-
+on	O	-
+Thanksgivin'	B-MISC	North American
+
+My	O	-
+homeboy	O	-
+just	O	-
+dome'd	O	-
+a	O	-
+nigga	O	-
+
+I	O	-
+just	O	-
+hope	O	-
+the	O	-
+Lord	B-PER	Non-cultural
+forgive	O	-
+him	O	-
+
+Pots	O	-
+with	O	-
+cocaine	B-MISC	Non-cultural
+residue	O	-
+
+Every	O	-
+day	O	-
+I'm	O	-
+hustlin'	O	-
+
+What	O	-
+else	O	-
+is	O	-
+a	O	-
+thug	B-MISC	North American
+to	O	-
+do	O	-
+
+When	O	-
+you	O	-
+eatin'	O	-
+cheese	O	-
+from	O	-
+the	O	-
+government	O	-
+?	O	-
+
+Gotta	O	-
+provide	O	-
+for	O	-
+my	O	-
+daughter	O	-
+n'em	O	-
+
+Get	O	-
+the	O	-
+fuck	O	-
+up	O	-
+out	O	-
+my	O	-
+way	O	-
+,	O	-
+bitch	O	-
+
+Got	O	-
+that	O	-
+drum	O	-
+and	O	-
+I	O	-
+got	O	-
+them	O	-
+bands	O	-
+
+Just	O	-
+like	O	-
+a	O	-
+parade	O	-
+,	O	-
+bitch	O	-
+
+Drop	O	-
+that	O	-
+work	O	-
+up	O	-
+in	O	-
+the	O	-
+bushes	O	-
+
+Hope	O	-
+them	O	-
+boys	O	-
+don't	O	-
+see	O	-
+my	O	-
+stash	B-MISC	North American
+
+If	O	-
+they	O	-
+do	O	-
+,	O	-
+tell	O	-
+the	O	-
+truth	O	-
+
+This	O	-
+the	O	-
+last	O	-
+time	O	-
+you	O	-
+might	O	-
+see	O	-
+my	O	-
+ass	O	-
+
+From	O	-
+the	O	-
+gardens	O	-
+where	O	-
+the	O	-
+grass	O	-
+ain't	O	-
+cut	O	-
+
+Them	O	-
+serpents	O	-
+lurkin'	O	-
+,	O	-
+Blood	B-MISC	North American
+
+Bitches	O	-
+sellin'	O	-
+pussy	O	-
+,	O	-
+niggas	O	-
+sellin'	O	-
+drugs	O	-
+
+But	O	-
+it's	O	-
+all	O	-
+good	O	-
+
+Broken	O	-
+promises	O	-
+,	O	-
+steal	O	-
+your	O	-
+watch	O	-
+
+And	O	-
+tell	O	-
+you	O	-
+what	O	-
+time	O	-
+it	O	-
+is	O	-
+
+Take	O	-
+your	O	-
+J's	B-MISC	North American
+and	O	-
+tell	O	-
+you	O	-
+to	O	-
+kick	O	-
+it	O	-
+where	O	-
+a	O	-
+FootLocker	B-ORG	North American
+is	O	-
+
+In	O	-
+the	O	-
+streets	O	-
+with	O	-
+a	O	-
+heater	O	-
+under	O	-
+my	O	-
+Dungarees	B-ORG	North American
+
+Dreams	O	-
+of	O	-
+me	O	-
+gettin'	O	-
+shaded	O	-
+under	O	-
+a	O	-
+money	O	-
+tree	O	-
+
+It	O	-
+go	O	-
+Halle	B-PER	North American
+Berry	I-PER	North American
+or	O	-
+hallelujah	B-MISC	North American
+
+Pick	O	-
+your	O	-
+poison	O	-
+,	O	-
+tell	O	-
+me	O	-
+what	O	-
+you	O	-
+doin'	O	-
+
+Everybody	O	-
+gon'	O	-
+respect	O	-
+the	O	-
+shooter	O	-
+
+But	O	-
+the	O	-
+one	O	-
+in	O	-
+front	O	-
+of	O	-
+the	O	-
+gun	O	-
+lives	O	-
+forever	O	-
+
+(	O	-
+The	O	-
+one	O	-
+in	O	-
+front	O	-
+of	O	-
+the	O	-
+gun	O	-
+,	O	-
+forever	O	-
+)	O	-
+
+And	O	-
+I	O	-
+been	O	-
+hustlin'	O	-
+all	O	-
+day	O	-
+
+This-a	O	-
+-	O	-
+way	O	-
+,	O	-
+that-a	O	-
+-	O	-
+way	O	-
+
+Through	O	-
+canals	O	-
+and	O	-
+alleyways	O	-
+,	O	-
+just	O	-
+to	O	-
+say	O	-
+
+Money	O	-
+trees	O	-
+is	O	-
+the	O	-
+perfect	O	-
+place	O	-
+for	O	-
+shade	O	-
+
+And	O	-
+that's	O	-
+just	O	-
+how	O	-
+I	O	-
+feel	O	-
+
+Kendrick’s	B-PER	North American
+Mom	O	-
+:	O	-
+Kendrick	B-PER	North American
+,	O	-
+just	O	-
+bring	O	-
+my	O	-
+car	O	-
+back	O	-
+,	O	-
+man	O	-
+.	O	-
+I	O	-
+called	O	-
+in	O	-
+for	O	-
+another	O	-
+appointment	O	-
+.	O	-
+I	O	-
+figured	O	-
+you	O	-
+weren’t	O	-
+gonna	O	-
+be	O	-
+back	O	-
+here	O	-
+on	O	-
+time	O	-
+anyways	O	-
+.	O	-
+Look	O	-
+,	O	-
+shit	O	-
+,	O	-
+shit	O	-
+,	O	-
+I	O	-
+just	O	-
+wanna	O	-
+get	O	-
+out	O	-
+the	O	-
+house	O	-
+,	O	-
+man	O	-
+.	O	-
+This	O	-
+man	O	-
+is	O	-
+on	O	-
+one	O	-
+,	O	-
+he	O	-
+feelin'	O	-
+good	O	-
+as	O	-
+a	O	-
+motherfucker	O	-
+.	O	-
+Shit	O	-
+,	O	-
+I’m	O	-
+tryna	O	-
+get	O	-
+my	O	-
+thing	O	-
+goin'	O	-
+,	O	-
+too	O	-
+.	O	-
+Just	O	-
+bring	O	-
+my	O	-
+car	O	-
+back	O	-
+.	O	-
+Shit	O	-
+,	O	-
+he	O	-
+faded	O	-
+.	O	-
+He	O	-
+feelin'	O	-
+good	O	-
+.	O	-
+Look	O	-
+,	O	-
+listen	O	-
+to	O	-
+him	O	-
+!	O	-
+
+Kendrick’s	B-PER	North American
+Dad	O	-
+:	O	-
+Girl	O	-
+,	O	-
+girl	O	-
+,	O	-
+I	O	-
+want	O	-
+your	O	-
+body	O	-
+,	O	-
+I	O	-
+want	O	-
+your	O	-
+body	O	-
+,	O	-
+'	O	-
+cause	O	-
+of	O	-
+that	O	-
+big	O	-
+ol’	O	-
+fat	O	-
+ass	O	-
+.	O	-
+Girl	O	-
+,	O	-
+girl	O	-
+,	O	-
+I	O	-
+want	O	-
+your	O	-
+body	O	-
+,	O	-
+I	O	-
+want	O	-
+your	O	-
+body	O	-
+,	O	-
+'	O	-
+cause	O	-
+of	O	-
+that	O	-
+big	O	-
+ol’	O	-
+fat	O	-
+ass	O	-
+
+Kendrick’s	B-PER	North American
+Mom	O	-
+:	O	-
+See	O	-
+,	O	-
+he	O	-
+high	O	-
+as	O	-
+hell	O	-
+.	O	-
+Shit	O	-
+,	O	-
+and	O	-
+he	O	-
+ain’t	O	-
+even	O	-
+trippin'	O	-
+off	O	-
+them	O	-
+damn	O	-
+dominoes	O	-
+anymore	O	-
+.	O	-
+Just	O	-
+bring	O	-
+the	O	-
+car	O	-
+back	O	-
+!	O	-
+
+Kendrick’s	B-PER	North American
+Dad	O	-
+:	O	-
+Did	O	-
+somebody	O	-
+say	O	-
+dominoes	O	-
+?	O	-
+
+First	O	-
+things	O	-
+first	O	-
+:	O	-
+rest	O	-
+in	O	-
+peace	O	-
+Uncle	B-PER	North American
+Phil	I-PER	North American
+
+For	O	-
+real	O	-
+
+You	O	-
+the	O	-
+only	O	-
+father	O	-
+that	O	-
+I	O	-
+ever	O	-
+knew	O	-
+
+I	O	-
+get	O	-
+my	O	-
+bitch	O	-
+pregnant	O	-
+,	O	-
+I'ma	O	-
+be	O	-
+a	O	-
+better	O	-
+you	O	-
+
+Prophecies	O	-
+that	O	-
+I	O	-
+made	O	-
+way	O	-
+back	O	-
+in	O	-
+the	O	-
+Ville	B-LOC	North American
+
+Fulfilled	O	-
+
+Listen	O	-
+,	O	-
+even	O	-
+back	O	-
+when	O	-
+we	O	-
+was	O	-
+broke	O	-
+,	O	-
+my	O	-
+team	O	-
+ill	O	-
+
+Martin	B-PER	North American
+Luther	I-PER	North American
+King	I-PER	North American
+would'a	O	-
+been	O	-
+on	O	-
+Dreamville	B-ORG	North American
+,	O	-
+talk	O	-
+to	O	-
+a	O	-
+nigga	O	-
+
+One	O	-
+time	O	-
+for	O	-
+my	O	-
+L	B-ORG	North American
+.	I-ORG	European
+A	I-ORG	North American
+.	O	-
+sisters	O	-
+
+One	O	-
+time	O	-
+for	O	-
+my	O	-
+L	B-ORG	North American
+.	I-ORG	European
+A	I-ORG	North American
+.	O	-
+hoes	O	-
+
+Lame	O	-
+niggas	O	-
+can't	O	-
+tell	O	-
+the	O	-
+difference	O	-
+
+One	O	-
+time	O	-
+for	O	-
+a	O	-
+nigga	O	-
+who	O	-
+know	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+No	O	-
+role	O	-
+models	O	-
+and	O	-
+I'm	O	-
+here	O	-
+right	O	-
+now	O	-
+
+No	O	-
+role	O	-
+models	O	-
+to	O	-
+speak	O	-
+of	O	-
+
+Searchin'	O	-
+through	O	-
+my	O	-
+memory	O	-
+,	O	-
+my	O	-
+memory	O	-
+,	O	-
+I	O	-
+couldn't	O	-
+find	O	-
+one	O	-
+
+Last	O	-
+night	O	-
+I	O	-
+was	O	-
+gettin'	O	-
+my	O	-
+feet	O	-
+rubbed	O	-
+by	O	-
+the	O	-
+baddest	O	-
+bitch	O	-
+
+Not	O	-
+Trina	B-PER	North American
+but	O	-
+I	O	-
+swear	O	-
+to	O	-
+God	O	-
+,	O	-
+this	O	-
+bitch'll	O	-
+make	O	-
+you	O	-
+call	O	-
+your	O	-
+girl	O	-
+up	O	-
+
+And	O	-
+tell	O	-
+her	O	-
+,	O	-
+"	O	-
+Hey	O	-
+,	O	-
+what's	O	-
+good	O	-
+?	O	-
+
+Sorry	O	-
+,	O	-
+I'm	O	-
+never	O	-
+comin'	O	-
+home	O	-
+,	O	-
+I'ma	O	-
+stay	O	-
+for	O	-
+good	O	-
+"	O	-
+
+Then	O	-
+hang	O	-
+the	O	-
+phone	O	-
+up	O	-
+and	O	-
+proceed	O	-
+to	O	-
+lay	O	-
+the	O	-
+wood	O	-
+
+I	O	-
+came	O	-
+fast	O	-
+like	O	-
+9-1	B-MISC	North American
+-	I-MISC	North American
+1	I-MISC	North American
+in	O	-
+white	O	-
+neighborhoods	O	-
+
+Ain't	O	-
+got	O	-
+no	O	-
+shame	O	-
+'	O	-
+bout	O	-
+it	O	-
+
+She	O	-
+think	O	-
+I'm	O	-
+spoiled	O	-
+and	O	-
+I'm	O	-
+rich	O	-
+'	O	-
+cause	O	-
+I	O	-
+can	O	-
+have	O	-
+any	O	-
+bitch	O	-
+
+I	O	-
+got	O	-
+defensive	O	-
+and	O	-
+said	O	-
+,	O	-
+"	O	-
+Nah	O	-
+,	O	-
+I	O	-
+was	O	-
+the	O	-
+same	O	-
+without	O	-
+it	O	-
+"	O	-
+
+But	O	-
+then	O	-
+I	O	-
+thought	O	-
+back	O	-
+,	O	-
+back	O	-
+to	O	-
+a	O	-
+better	O	-
+me	O	-
+
+Before	O	-
+I	O	-
+was	O	-
+a	O	-
+B-list	B-MISC	North American
+celebrity	O	-
+
+'	O	-
+Fore	O	-
+I	O	-
+started	O	-
+callin'	O	-
+bitches	O	-
+"	O	-
+bitches	O	-
+"	O	-
+so	O	-
+heavily	O	-
+
+Back	O	-
+when	O	-
+you	O	-
+could	O	-
+get	O	-
+a	O	-
+platinum	O	-
+plaque	O	-
+without	O	-
+no	O	-
+melody	O	-
+,	O	-
+you	O	-
+wadn't	O	-
+sweatin'	O	-
+me	O	-
+
+One	O	-
+time	O	-
+for	O	-
+my	O	-
+L	B-LOC	North American
+.	I-LOC	European
+A	I-LOC	North American
+.	O	-
+sisters	O	-
+
+One	O	-
+time	O	-
+for	O	-
+my	O	-
+L	B-LOC	North American
+.	I-LOC	European
+A	I-LOC	North American
+.	O	-
+hoes	O	-
+
+Lame	O	-
+niggas	O	-
+can't	O	-
+tell	O	-
+the	O	-
+difference	O	-
+
+One	O	-
+time	O	-
+for	O	-
+a	O	-
+nigga	O	-
+who	O	-
+know	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+I	O	-
+want	O	-
+a	O	-
+real	O	-
+love	O	-
+,	O	-
+dark-skinned	O	-
+Aunt	B-PER	North American
+Viv	I-PER	North American
+love	O	-
+
+That	O	-
+Jada	B-PER	North American
+and	O	-
+that	O	-
+Will	B-PER	North American
+love	O	-
+
+That	O	-
+leave	O	-
+a	O	-
+toothbrush	O	-
+at	O	-
+your	O	-
+crib	O	-
+love	O	-
+
+And	O	-
+you	O	-
+ain't	O	-
+gotta	O	-
+wonder	O	-
+whether	O	-
+that's	O	-
+your	O	-
+kid	O	-
+love	O	-
+
+Nigga	O	-
+,	O	-
+I	O	-
+don't	O	-
+want	O	-
+no	O	-
+bitch	O	-
+from	O	-
+reality	O	-
+shows	O	-
+
+Out-of	O	-
+-	O	-
+touch-with	O	-
+-	O	-
+reality	O	-
+hoes	O	-
+
+Out	O	-
+in	O	-
+Hollywood	B-LOC	North American
+bringin'	O	-
+back	O	-
+five	O	-
+or	O	-
+six	O	-
+hoes	O	-
+
+Fuck	O	-
+'	O	-
+em	O	-
+then	O	-
+we	O	-
+kick	O	-
+'	O	-
+em	O	-
+to	O	-
+the	O	-
+do'	O	-
+,	O	-
+nigga	O	-
+,	O	-
+you	O	-
+know	O	-
+how	O	-
+it	O	-
+go	O	-
+
+She	O	-
+deserved	O	-
+that	O	-
+,	O	-
+she	O	-
+a	O	-
+bird	O	-
+,	O	-
+it's	O	-
+a	O	-
+bird	O	-
+trap	O	-
+
+You	O	-
+think	O	-
+if	O	-
+I	O	-
+didn't	O	-
+rap	O	-
+she	O	-
+would	O	-
+flirt	O	-
+back	O	-
+?	O	-
+
+Takin'	O	-
+off	O	-
+her	O	-
+skirt	O	-
+,	O	-
+let	O	-
+her	O	-
+wear	O	-
+my	O	-
+shirt	O	-
+,	O	-
+'	O	-
+fore	O	-
+she	O	-
+leave	O	-
+
+"	O	-
+I'ma	O	-
+need	O	-
+my	O	-
+shirt	O	-
+back	O	-
+"	O	-
+(	O	-
+Nigga	O	-
+,	O	-
+you	O	-
+know	O	-
+how	O	-
+it	O	-
+go	O	-
+)	O	-
+
+One	O	-
+time	O	-
+for	O	-
+my	O	-
+L	B-LOC	North American
+.	I-LOC	European
+A	I-LOC	North American
+.	I-LOC	European
+sisters	O	-
+
+One	O	-
+time	O	-
+for	O	-
+my	O	-
+L	B-LOC	North American
+.	I-LOC	European
+A	I-LOC	North American
+.	I-LOC	European
+hoes	O	-
+
+Lame	O	-
+niggas	O	-
+can't	O	-
+tell	O	-
+the	O	-
+difference	O	-
+
+One	O	-
+time	O	-
+for	O	-
+a	O	-
+nigga	O	-
+who	O	-
+know	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+There's	O	-
+an	O	-
+old	O	-
+saying	O	-
+in	O	-
+Tennessee	B-LOC	North American
+—	O	-
+I	O	-
+know	O	-
+it's	O	-
+in	O	-
+Texas	B-LOC	North American
+,	O	-
+probably	O	-
+in	O	-
+Tennessee	B-LOC	North American
+—	O	-
+that	O	-
+says	O	-
+,	O	-
+fool	O	-
+me	O	-
+once	O	-
+…	O	-
+shame	O	-
+on	O	-
+…	O	-
+shame	O	-
+on	O	-
+you	O	-
+.	O	-
+Fool	O	-
+me	O	-
+—	O	-
+can't	O	-
+get	O	-
+fooled	O	-
+again	O	-
+.	O	-
+
+Fool	O	-
+me	O	-
+one	O	-
+time	O	-
+,	O	-
+shame	O	-
+on	O	-
+you	O	-
+(	O	-
+Ayy	O	-
+)	O	-
+
+Fool	O	-
+me	O	-
+twice	O	-
+,	O	-
+can't	O	-
+put	O	-
+the	O	-
+blame	O	-
+on	O	-
+you	O	-
+(	O	-
+Ayy	O	-
+)	O	-
+
+Fool	O	-
+me	O	-
+three	O	-
+times	O	-
+,	O	-
+fuck	O	-
+the	O	-
+peace	O	-
+sign	O	-
+
+Load	O	-
+the	O	-
+chopper	B-MISC	North America
+,	O	-
+let	O	-
+it	O	-
+rain	O	-
+on	O	-
+you	O	-
+(	O	-
+Bop	O	-
+bop	O	-
+bop	O	-
+)	O	-
+
+Fool	O	-
+me	O	-
+one	O	-
+time	O	-
+,	O	-
+shame	O	-
+on	O	-
+you	O	-
+(	O	-
+Ayy	O	-
+)	O	-
+
+Fool	O	-
+me	O	-
+twice	O	-
+,	O	-
+can't	O	-
+put	O	-
+the	O	-
+blame	O	-
+on	O	-
+you	O	-
+(	O	-
+Ayy	O	-
+)	O	-
+
+Fool	O	-
+me	O	-
+three	O	-
+times	O	-
+,	O	-
+fuck	O	-
+the	O	-
+peace	O	-
+sign	O	-
+
+Load	O	-
+the	O	-
+chopper	B-MISC	North America
+,	O	-
+let	O	-
+it	O	-
+rain	O	-
+on	O	-
+you	O	-
+(	O	-
+Bop	O	-
+bop	O	-
+bop	O	-
+)	O	-
+
+My	O	-
+only	O	-
+regret	O	-
+was	O	-
+too	O	-
+young	O	-
+for	O	-
+Lisa	B-PER	North American
+Bonet	I-PER	North American
+
+My	O	-
+only	O	-
+regret	O	-
+was	O	-
+too	O	-
+young	O	-
+for	O	-
+Nia	B-PER	North American
+Long	I-PER	North American
+
+Now	O	-
+all	O	-
+I'm	O	-
+left	O	-
+with	O	-
+is	O	-
+hoes	O	-
+from	O	-
+reality	O	-
+shows	O	-
+
+Hand	O	-
+her	O	-
+a	O	-
+script	O	-
+,	O	-
+the	O	-
+bitch	O	-
+prolly	O	-
+couldn't	O	-
+read	O	-
+along	O	-
+
+My	O	-
+only	O	-
+regret	O	-
+was	O	-
+too	O	-
+young	O	-
+for	O	-
+Sade	B-PER	North American
+Adu	I-PER	North American
+
+My	O	-
+only	O	-
+regret	O	-
+,	O	-
+could	O	-
+never	O	-
+take	O	-
+Aaliyah	B-PER	North American
+home	O	-
+
+Now	O	-
+all	O	-
+I'm	O	-
+left	O	-
+with	O	-
+is	O	-
+hoes	O	-
+up	O	-
+in	O	-
+Greystone	B-LOC	North American
+
+With	O	-
+the	O	-
+stale	O	-
+face	O	-
+'	O	-
+cause	O	-
+they	O	-
+know	O	-
+it's	O	-
+they	O	-
+song	O	-
+
+She	O	-
+shallow	O	-
+but	O	-
+the	O	-
+pussy	O	-
+deep	O	-
+,	O	-
+she	O	-
+shallow	O	-
+
+She	O	-
+shallow	O	-
+
+She	O	-
+shallow	O	-
+but	O	-
+the	O	-
+pussy	O	-
+deep	O	-
+,	O	-
+she	O	-
+shallow	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+ayy	O	-
+)	O	-
+
+She	O	-
+shallow	O	-
+
+She	O	-
+shallow	O	-
+but	O	-
+the	O	-
+pussy	O	-
+deep	O	-
+,	O	-
+she	O	-
+shallow	O	-
+
+She	O	-
+shallow	O	-
+
+She	O	-
+shallow	O	-
+but	O	-
+the	O	-
+pussy	O	-
+deep	O	-
+,	O	-
+she	O	-
+shallow	O	-
+
+She	O	-
+shallow	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Don't	O	-
+save	O	-
+her	O	-
+,	O	-
+she	O	-
+don't	O	-
+wanna	O	-
+be	O	-
+saved	O	-
+
+Double	O	-
+OT	B-MISC	North American
+
+I'm	O	-
+a	O	-
+new	O	-
+three	O	-
+
+Saucin'	O	-
+,	O	-
+saucin'	O	-
+,	O	-
+I'm	O	-
+saucin'	O	-
+on	O	-
+you	O	-
+
+I'm	O	-
+swaggin'	O	-
+,	O	-
+I'm	O	-
+swaggin'	O	-
+,	O	-
+I'm	O	-
+swaggin'	O	-
+,	O	-
+oh-ooh	O	-
+(	O	-
+Swaggin'	O	-
+)	O	-
+
+I'm	O	-
+ballin'	O	-
+,	O	-
+I'm	O	-
+ballin'	O	-
+,	O	-
+Iverson	B-PER	North American
+on	O	-
+you	O	-
+(	O	-
+Swish	O	-
+,	O	-
+ooh	O	-
+,	O	-
+ayy	O	-
+)	O	-
+
+Watch	O	-
+out	O	-
+,	O	-
+watch	O	-
+out	O	-
+,	O	-
+watch	O	-
+out	O	-
+,	O	-
+yeah	O	-
+
+That's	O	-
+my	O	-
+shot	O	-
+,	O	-
+that's	O	-
+my	O	-
+shot	O	-
+,	O	-
+that's	O	-
+my	O	-
+shot	O	-
+,	O	-
+yeah	O	-
+
+Spendin'	O	-
+,	O	-
+I'm	O	-
+spendin'	O	-
+all	O	-
+my	O	-
+fuckin'	O	-
+pay	O	-
+
+I	O	-
+got	O	-
+me	O	-
+some	O	-
+braids	O	-
+and	O	-
+I	O	-
+got	O	-
+me	O	-
+some	O	-
+hoes	O	-
+
+Started	O	-
+rockin'	O	-
+the	O	-
+sleeve	O	-
+,	O	-
+I	O	-
+can't	O	-
+ball	O	-
+with	O	-
+no	O	-
+Joes	B-MISC	North American
+
+You	O	-
+know	O	-
+how	O	-
+I	O	-
+do	O	-
+it	O	-
+,	O	-
+Concords	B-MISC	North American
+on	O	-
+my	O	-
+toes	O	-
+
+(	O	-
+This	O	-
+shit	O	-
+is	O	-
+hard	O	-
+)	O	-
+Oh	O	-
+
+I	O	-
+ain't	O	-
+rich	O	-
+yet	O	-
+,	O	-
+but	O	-
+you	O	-
+know	O	-
+I	O	-
+ain't	O	-
+broke	O	-
+,	O	-
+ah	O	-
+
+So	O	-
+if	O	-
+I	O	-
+see	O	-
+it	O	-
+,	O	-
+I	O	-
+like	O	-
+it	O	-
+,	O	-
+buy	O	-
+that	O	-
+from	O	-
+the	O	-
+store	O	-
+,	O	-
+ah	O	-
+(	O	-
+Store	O	-
+,	O	-
+ah	O	-
+)	O	-
+
+I'm	O	-
+with	O	-
+some	O	-
+white	O	-
+girls	O	-
+and	O	-
+they	O	-
+lovin'	O	-
+the	O	-
+coca	B-MISC	Latin
+(	O	-
+Coca	B-MISC	Latin
+)	O	-
+
+Like	O	-
+they	O	-
+OT	B-MISC	North American
+
+Double	O	-
+OT	B-MISC	North American
+like	O	-
+I'm	O	-
+KD	B-PER	North American
+,	O	-
+smokin'	O	-
+OG	B-MISC	North American
+(	O	-
+Smokin'	O	-
+OG	B-MISC	North American
+)	O	-
+
+And	O	-
+you	O	-
+know	O	-
+me	O	-
+,	O	-
+in	O	-
+my	O	-
+2-3s	B-MISC	North American
+and	O	-
+my	O	-
+gold	O	-
+teeth	O	-
+(	O	-
+And	O	-
+my	O	-
+gold	O	-
+teeth	O	-
+)	O	-
+
+Bitch	O	-
+,	O	-
+I'm	O	-
+smiling	O	-
+,	O	-
+bet	O	-
+you	O	-
+see	O	-
+me	O	-
+from	O	-
+the	O	-
+nosebleeds	O	-
+(	O	-
+Nosebleeds	O	-
+)	O	-
+
+I'm	O	-
+the	O	-
+new	O	-
+three	O	-
+and	O	-
+I	O	-
+change	O	-
+out	O	-
+to	O	-
+my	O	-
+new	O	-
+3s	O	-
+(	O	-
+To	O	-
+my	O	-
+new	O	-
+3s	O	-
+)	O	-
+
+White	O	-
+Iverson	B-PER	North American
+
+When	O	-
+I	O	-
+started	O	-
+ballin'	O	-
+,	O	-
+I	O	-
+was	O	-
+young	O	-
+
+You	O	-
+gon'	O	-
+think	O	-
+about	O	-
+me	O	-
+when	O	-
+I'm	O	-
+gone	O	-
+
+I	O	-
+need	O	-
+that	O	-
+money	O	-
+like	O	-
+the	O	-
+ring	O	-
+I	O	-
+never	O	-
+won	O	-
+,	O	-
+I	O	-
+won	O	-
+
+Saucin'	O	-
+,	O	-
+saucin'	O	-
+,	O	-
+I'm	O	-
+saucin'	O	-
+on	O	-
+you	O	-
+
+I'm	O	-
+swaggin'	O	-
+,	O	-
+I'm	O	-
+swaggin'	O	-
+,	O	-
+I'm	O	-
+swaggin'	O	-
+,	O	-
+oh-ooh	O	-
+
+I'm	O	-
+ballin'	O	-
+,	O	-
+I'm	O	-
+ballin'	O	-
+,	O	-
+Iverson	O	-
+on	O	-
+you	O	-
+
+Watch	O	-
+out	O	-
+,	O	-
+watch	O	-
+out	O	-
+,	O	-
+watch	O	-
+out	O	-
+,	O	-
+yeah	O	-
+
+That's	O	-
+my	O	-
+shot	O	-
+,	O	-
+that's	O	-
+my	O	-
+shot	O	-
+,	O	-
+that's	O	-
+my	O	-
+shot	O	-
+,	O	-
+yeah	O	-
+
+Spendin'	O	-
+,	O	-
+I'm	O	-
+spendin'	O	-
+all	O	-
+my	O	-
+fuckin'	O	-
+pay	O	-
+
+Ooh	O	-
+,	O	-
+Stoney	B-PER	North American
+
+Cigarettes	O	-
+and	O	-
+a	O	-
+headband	O	-
+
+Commas	O	-
+,	O	-
+commas	O	-
+in	O	-
+my	O	-
+head	O	-
+,	O	-
+man	O	-
+
+Slumped	O	-
+over	O	-
+like	O	-
+a	O	-
+dead	O	-
+man	O	-
+
+Red	O	-
+and	O	-
+black	O	-
+,	O	-
+'	O	-
+bout	O	-
+my	O	-
+bread	O	-
+,	O	-
+man	O	-
+
+I'm	O	-
+the	O	-
+answer	O	-
+,	O	-
+never	O	-
+question	O	-
+
+Lace	O	-
+up	O	-
+,	O	-
+learn	O	-
+a	O	-
+lesson	O	-
+
+Bitch	O	-
+,	O	-
+I'm	O	-
+saucin'	O	-
+(	O	-
+Wow	O	-
+)	O	-
+,	O	-
+I	O	-
+do	O	-
+this	O	-
+often	O	-
+,	O	-
+don't	O	-
+do	O	-
+no	O	-
+talkin'	O	-
+(	O	-
+No	O	-
+)	O	-
+
+My	O	-
+options	O	-
+right	O	-
+when	O	-
+I	O	-
+walk	O	-
+in	O	-
+,	O	-
+jump	O	-
+all	O	-
+them	O	-
+Jordans	B-ORG	North American
+(	O	-
+Ooh	O	-
+)	O	-
+
+I'm	O	-
+ballin'	O	-
+,	O	-
+money	O	-
+jumpin'	O	-
+
+Like	O	-
+I'm	O	-
+Davis	B-PER	North American
+from	O	-
+New	B-LOC	North American
+Orleans	I-LOC	North American
+
+Or	O	-
+bitch	O	-
+,	O	-
+I'm	O	-
+Harden	B-PER	North American
+,	O	-
+I	O	-
+don't	O	-
+miss	O	-
+nothin'	O	-
+
+Fuck	O	-
+practice	O	-
+,	O	-
+this	O	-
+shit	O	-
+just	O	-
+happens	O	-
+,	O	-
+know	O	-
+y'all	O	-
+can't	O	-
+stand	O	-
+it	O	-
+(	O	-
+Ayy	O	-
+)	O	-
+
+I	O	-
+have	O	-
+it	O	-
+,	O	-
+I	O	-
+never	O	-
+pass	O	-
+it	O	-
+,	O	-
+I	O	-
+work	O	-
+my	O	-
+magic	O	-
+
+High	O	-
+average	O	-
+,	O	-
+ball	O	-
+on	O	-
+these	O	-
+bastards	O	-
+,	O	-
+it	O	-
+makes	O	-
+me	O	-
+happy	O	-
+
+It's	O	-
+tragic	O	-
+,	O	-
+I	O	-
+make	O	-
+it	O	-
+happen	O	-
+,	O	-
+and	O	-
+all	O	-
+y'all	O	-
+Shaqtin'	B-MISC	North American
+
+White	O	-
+Iverson	B-PER	North American
+
+When	O	-
+I	O	-
+started	O	-
+ballin'	O	-
+I	O	-
+was	O	-
+young	O	-
+
+You	O	-
+gon'	O	-
+think	O	-
+about	O	-
+me	O	-
+when	O	-
+I'm	O	-
+gone	O	-
+
+I	O	-
+need	O	-
+that	O	-
+money	O	-
+like	O	-
+the	O	-
+ring	O	-
+I	O	-
+never	O	-
+won	O	-
+,	O	-
+I	O	-
+won	O	-
+
+Saucin'	O	-
+,	O	-
+saucin'	O	-
+,	O	-
+I'm	O	-
+saucin'	O	-
+on	O	-
+you	O	-
+
+I'm	O	-
+swaggin'	O	-
+,	O	-
+I'm	O	-
+swaggin'	O	-
+,	O	-
+I'm	O	-
+swaggin'	O	-
+,	O	-
+oh-ooh	O	-
+
+I'm	O	-
+ballin'	O	-
+,	O	-
+I'm	O	-
+ballin'	O	-
+,	O	-
+Iverson	B-PER	North American
+on	O	-
+you	O	-
+
+Watch	O	-
+out	O	-
+,	O	-
+watch	O	-
+out	O	-
+,	O	-
+watch	O	-
+out	O	-
+,	O	-
+yeah	O	-
+
+That's	O	-
+my	O	-
+shot	O	-
+,	O	-
+that's	O	-
+my	O	-
+shot	O	-
+,	O	-
+that's	O	-
+my	O	-
+shot	O	-
+,	O	-
+yeah	O	-
+
+Spendin'	O	-
+,	O	-
+I'm	O	-
+spendin'	O	-
+all	O	-
+my	O	-
+fuckin'	O	-
+pay	O	-
+
+Ooh-ooh	O	-
+
+Ooh-ooh	O	-
+
+Ooh-ooh	O	-
+
+Ooh-ooh	O	-
+
+Yo	O	-
+,	O	-
+Pi'erre	B-PER	North American
+,	O	-
+you	O	-
+wanna	O	-
+come	O	-
+out	O	-
+here	O	-
+?	O	-
+
+Uh	O	-
+
+In	O	-
+New	B-LOC	North American
+York	I-LOC	North American
+I	O	-
+Milly	B-MISC	North American
+Rock	I-MISC	European
+(	O	-
+Rock	O	-
+)	O	-
+
+Hide	O	-
+it	O	-
+in	O	-
+my	O	-
+sock	O	-
+(	O	-
+Sock	O	-
+)	O	-
+
+Running	O	-
+from	O	-
+an	O	-
+opp	O	-
+(	O	-
+Opp	O	-
+)	O	-
+
+And	O	-
+I	O	-
+shoot	O	-
+at	O	-
+opp	O	-
+(	O	-
+Opp	O	-
+)	O	-
+,	O	-
+uh	O	-
+,	O	-
+uh	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+And	O	-
+I'm	O	-
+on	O	-
+the	O	-
+block	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+uh	O	-
+,	O	-
+uh	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+And	O	-
+I'm	O	-
+on	O	-
+the	O	-
+block	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+In	O	-
+New	B-LOC	North American
+York	I-LOC	North American
+I	O	-
+Milly	B-MISC	North American
+Rock	I-MISC	European
+(	O	-
+Hello	O	-
+?	O	-
+)	O	-
+
+Hide	O	-
+it	O	-
+in	O	-
+my	O	-
+sock	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Hide	O	-
+it	O	-
+in	O	-
+my	O	-
+sock	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Selling	O	-
+that	O	-
+rerock	O	-
+(	O	-
+What	O	-
+?	O	-
+Woah	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+Uh	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+In	O	-
+New	B-LOC	North American
+York	I-LOC	North American
+I	O	-
+Milly	B-MISC	North American
+Rock	I-MISC	European
+(	O	-
+Ooh	O	-
+)	O	-
+
+Hide	O	-
+it	O	-
+in	O	-
+my	O	-
+sock	O	-
+(	O	-
+Woah	O	-
+)	O	-
+
+Used	O	-
+to	O	-
+sell	O	-
+rerock	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Runnin'	O	-
+from	O	-
+the	O	-
+cops	O	-
+(	O	-
+Woah	O	-
+)	O	-
+
+Shootin'	O	-
+at	O	-
+these	O	-
+opps	O	-
+(	O	-
+Woah	O	-
+)	O	-
+
+Yo	O	-
+,	O	-
+Pi'erre	B-PER	North American
+,	O	-
+you	O	-
+wanna	O	-
+come	O	-
+out	O	-
+here	O	-
+?	O	-
+(	O	-
+Woah	O	-
+)	O	-
+
+Shooting	O	-
+at	O	-
+these	O	-
+opps	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+run	O	-
+they	O	-
+block	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+uh	O	-
+
+Give	O	-
+me	O	-
+top	O	-
+(	O	-
+Top	O	-
+)	O	-
+,	O	-
+uh	O	-
+,	O	-
+in	O	-
+my	O	-
+drop-top	O	-
+
+All	O	-
+these	O	-
+hoes	B-MISC	North American
+gon'	O	-
+flock	O	-
+(	O	-
+Flock	O	-
+,	O	-
+flock	O	-
+)	O	-
+
+When	O	-
+I	O	-
+drop	O	-
+,	O	-
+yeah	O	-
+(	O	-
+Drop	O	-
+,	O	-
+drop	O	-
+)	O	-
+
+All	O	-
+these	O	-
+hoes	B-MISC	North American
+gon'	O	-
+flock	O	-
+(	O	-
+Flock	O	-
+,	O	-
+flock	O	-
+)	O	-
+
+When	O	-
+I	O	-
+drop	O	-
+,	O	-
+yeah	O	-
+(	O	-
+Drop	O	-
+,	O	-
+drop	O	-
+)	O	-
+
+All	O	-
+these	O	-
+hoes	B-MISC	North American
+gon'	O	-
+flock	O	-
+(	O	-
+Flock	O	-
+,	O	-
+flock	O	-
+)	O	-
+
+When	O	-
+I	O	-
+drop	O	-
+,	O	-
+uh	O	-
+(	O	-
+Drop	O	-
+,	O	-
+drop	O	-
+)	O	-
+
+Woo	O	-
+,	O	-
+woo	O	-
+,	O	-
+woo	O	-
+,	O	-
+woo	O	-
+(	O	-
+Beep	O	-
+)	O	-
+
+Woo	O	-
+,	O	-
+woo	O	-
+(	O	-
+Beep	O	-
+)	O	-
+,	O	-
+woo	O	-
+,	O	-
+woo	O	-
+(	O	-
+Beep	O	-
+)	O	-
+
+All	O	-
+these	O	-
+hoes	O	-
+want	O	-
+cash	O	-
+(	O	-
+Cash	B-PER	North American
+)	O	-
+
+All	O	-
+these	O	-
+hoes	O	-
+want	O	-
+bags	O	-
+,	O	-
+uh	O	-
+
+Fucking	O	-
+on	O	-
+your	O	-
+bitch	O	-
+(	O	-
+Beep	O	-
+)	O	-
+,	O	-
+uh	O	-
+
+I'm	O	-
+her	O	-
+dad	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+,	O	-
+uh	O	-
+
+All	O	-
+these	O	-
+niggas	O	-
+sound	O	-
+like	O	-
+Cash	B-PER	North American
+,	O	-
+sound	O	-
+like	O	-
+Cash	B-PER	North American
+(	O	-
+Blah	O	-
+)	O	-
+
+I'm	O	-
+a	O	-
+soldier	O	-
+,	O	-
+ooh	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Damn	O	-
+,	O	-
+I	O	-
+thought	O	-
+I	O	-
+told	O	-
+you	O	-
+,	O	-
+ooh	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Shootin'	O	-
+like	O	-
+a	O	-
+soldier	O	-
+,	O	-
+ooh	O	-
+(	O	-
+Beep	O	-
+)	O	-
+
+Like	O	-
+I'm	O	-
+from	O	-
+Magnolia	B-LOC	North American
+,	O	-
+ooh	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+All	O	-
+these	O	-
+niggas	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+always	O	-
+fold	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Big	O	-
+bank	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+never	O	-
+fold	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+I'm	O	-
+sippin'	O	-
+Act'	B-MISC	North American
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+fill	O	-
+that	O	-
+shit	O	-
+slowly	O	-
+(	O	-
+Hello	O	-
+?	O	-
+)	O	-
+
+Bitches	O	-
+on	O	-
+me	O	-
+(	O	-
+What	O	-
+?	O	-
+Beep	O	-
+)	O	-
+say	O	-
+she	O	-
+like	O	-
+my	O	-
+clothing	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I'm	O	-
+in	O	-
+London	B-LOC	European
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+Yung	O	-
+Carti	B-PER	North American
+global	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Designer	B-MISC	Non-cultural
+is	O	-
+on	O	-
+me	O	-
+(	O	-
+Phew	O	-
+)	O	-
+call	O	-
+it	O	-
+dirty	O	-
+laundry	O	-
+(	O	-
+Phew	O	-
+)	O	-
+
+All	O	-
+these	O	-
+bitches	O	-
+want	O	-
+Yung	O	-
+Carti	B-PER	North American
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+Yung	O	-
+Carti	B-PER	North American
+(	O	-
+Yeah	O	-
+)	O	-
+
+Ayy	O	-
+,	O	-
+Yung	O	-
+Carti	B-PER	North American
+,	O	-
+Yung	O	-
+Carti	B-PER	North American
+,	O	-
+what	O	-
+?	O	-
+(	O	-
+Hop	O	-
+in	O	-
+the	O	-
+bit'	O	-
+,	O	-
+hop	O	-
+in	O	-
+the	O	-
+bit'	O	-
+)	O	-
+
+Yung	O	-
+Carti	B-PER	North American
+,	O	-
+Yung	O	-
+Carti	B-PER	North American
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+Hold	O	-
+on	O	-
+)	O	-
+,	O	-
+yeah	O	-
+
+All	O	-
+of	O	-
+your	O	-
+bitches	O	-
+,	O	-
+they	O	-
+loose	O	-
+,	O	-
+hold	O	-
+on	O	-
+
+All	O	-
+of	O	-
+your	O	-
+bitches	O	-
+,	O	-
+they	O	-
+loose	O	-
+,	O	-
+hold	O	-
+on	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+All	O	-
+of	O	-
+my	O	-
+bitches	O	-
+,	O	-
+they	O	-
+rich	O	-
+,	O	-
+hold	O	-
+on	O	-
+
+And	O	-
+they	O	-
+stay	O	-
+rockin'	O	-
+that	O	-
+Rick	B-ORG	North American
+,	O	-
+hold	O	-
+on	O	-
+
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+Uh	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+Hold	O	-
+on	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+Uh	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Rich	O	-
+,	O	-
+rich	O	-
+(	O	-
+Rich	O	-
+)	O	-
+
+Cash	O	-
+Carti	B-PER	North American
+,	O	-
+bitch	O	-
+(	O	-
+Bitch	O	-
+)	O	-
+
+Rich	O	-
+,	O	-
+bitch	O	-
+(	O	-
+Hold	O	-
+on	O	-
+)	O	-
+
+Got	O	-
+a	O	-
+rich	O	-
+clique	B-MISC	European
+(	O	-
+Hold	O	-
+on	O	-
+)	O	-
+
+I'm	O	-
+suckin'	O	-
+on	O	-
+the	O	-
+clit	O	-
+(	O	-
+Hold	O	-
+on	O	-
+)	O	-
+
+She	O	-
+suckin'	O	-
+on	O	-
+the	O	-
+dick	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Give	O	-
+that	O	-
+ho	O	-
+a	O	-
+tip	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Told	O	-
+her	O	-
+,	O	-
+"	O	-
+Buy	O	-
+some	O	-
+kicks	O	-
+"	O	-
+(	O	-
+Kicks	O	-
+)	O	-
+
+Ooh	O	-
+,	O	-
+then	O	-
+I	O	-
+brush	O	-
+my	O	-
+teeth	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Hop	O	-
+up	O	-
+in	O	-
+the	O	-
+whip	O	-
+
+Glocky	O	-
+in	O	-
+the	O	-
+whip	O	-
+(	O	-
+Skrrt	O	-
+)	O	-
+
+Glocky	O	-
+in	O	-
+the	O	-
+whip	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+And	O	-
+I'm	O	-
+cocky	O	-
+,	O	-
+fuckin'	O	-
+on	O	-
+a	O	-
+thotty	O	-
+
+She	O	-
+just	O	-
+wanna	O	-
+plot	O	-
+me	O	-
+,	O	-
+bitch	O	-
+can't	O	-
+stop	O	-
+me	O	-
+(	O	-
+Stop	O	-
+me	O	-
+)	O	-
+
+I'm	O	-
+ridin'	O	-
+in	O	-
+a	O	-
+Masi	B-ORG	European
+(	O	-
+What	O	-
+?	O	-
+Masi	B-ORG	European
+)	O	-
+
+This	O	-
+ain't	O	-
+even	O	-
+my	O	-
+Masi	B-ORG	European
+(	O	-
+Nah	O	-
+)	O	-
+
+Hope	O	-
+that's	O	-
+not	O	-
+your	O	-
+thotty	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Your	O	-
+bitch	O	-
+look	O	-
+like	O	-
+a	O	-
+auntie	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Walked	O	-
+in	O	-
+with	O	-
+Ashanti	B-PER	North American
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Damn	O	-
+,	O	-
+that	O	-
+look	O	-
+like	O	-
+'	O	-
+Shanti	B-PER	North American
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Damn	O	-
+,	O	-
+that	O	-
+look	O	-
+like	O	-
+Carti	B-PER	North American
+(	O	-
+Yeah-yeah	O	-
+)	O	-
+
+I	O	-
+think	O	-
+that	O	-
+be	O	-
+Yung	O	-
+Carti	B-PER	North American
+
+Heard	O	-
+he	O	-
+spent	O	-
+a	O	-
+hundred	O	-
+on	O	-
+a	O	-
+fucking	O	-
+watch	B-MISC	Non-cultural
+piece	I-MISC	Non-cultural
+,	O	-
+that's	O	-
+filthy	O	-
+(	O	-
+Phew	O	-
+,	O	-
+what	O	-
+?	O	-
+Woah	O	-
+,	O	-
+woah	O	-
+)	O	-
+
+In	O	-
+New	B-LOC	North American
+York	I-LOC	North American
+I	O	-
+Milly	B-MISC	North American
+Rock	I-MISC	European
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Hide	O	-
+it	O	-
+in	O	-
+my	O	-
+sock	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Running	O	-
+from	O	-
+an	O	-
+opp	B-MISC	Non-cultural
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+And	O	-
+I	O	-
+shoot	O	-
+at	O	-
+opp	B-MISC	Non-cultural
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+uh	O	-
+,	O	-
+uh	O	-
+(	O	-
+Phew	O	-
+)	O	-
+
+And	O	-
+I'm	O	-
+on	O	-
+the	O	-
+block	O	-
+(	O	-
+Phew	O	-
+)	O	-
+,	O	-
+uh	O	-
+,	O	-
+uh	O	-
+(	O	-
+Hello	O	-
+?	O	-
+)	O	-
+
+And	O	-
+I'm	O	-
+on	O	-
+the	O	-
+block	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+In	O	-
+New	B-LOC	North American
+York	I-LOC	North American
+I	O	-
+Milly	B-MISC	North American
+Rock	I-MISC	European
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Hide	O	-
+it	O	-
+in	O	-
+my	O	-
+sock	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Hide	O	-
+it	O	-
+in	O	-
+my	O	-
+sock	O	-
+(	O	-
+Sock	O	-
+)	O	-
+
+Selling	O	-
+that	O	-
+rerock	O	-
+(	O	-
+Rerock	O	-
+)	O	-
+
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+What	O	-
+?	O	-
+Uh	O	-
+,	O	-
+what	O	-
+?	O	-
+
+In	O	-
+New	B-LOC	North American
+York	I-LOC	North American
+I	O	-
+Milly	B-MISC	North American
+Rock	I-MISC	European
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Hide	O	-
+it	O	-
+in	O	-
+my	O	-
+sock	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Use	O	-
+to	O	-
+sell	O	-
+rerock	O	-
+,	O	-
+uh	O	-
+
+Runnin'	O	-
+from	O	-
+the	O	-
+cops	O	-
+,	O	-
+uh	O	-
+
+Shootin'	O	-
+at	O	-
+these	O	-
+opps	O	-
+
+You	O	-
+know	O	-
+what	O	-
+I'm	O	-
+sayin'	O	-
+?	O	-
+
+Yo	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+,	O	-
+Pi'erre	B-PER	North American
+,	O	-
+you	O	-
+wanna	O	-
+come	O	-
+out	O	-
+here	O	-
+?	O	-
+
+Bitch	O	-
+ass	O	-
+nigga	O	-
+,	O	-
+fuck	O	-
+that	O	-
+nigga	O	-
+,	O	-
+man	O	-
+
+Yeah	O	-
+
+Now	O	-
+
+Now	O	-
+is	O	-
+my	O	-
+time	O	-
+
+Now	O	-
+is	O	-
+my	O	-
+time	O	-
+
+(	O	-
+That-that	O	-
+-	O	-
+that-that	O	-
+-	O	-
+that-that	O	-
+be	O	-
+Maaly	B-PER	North American
+Raw	I-PER	North American
+)	O	-
+
+Everybody	O	-
+rock	O	-
+with	O	-
+me	O	-
+because	O	-
+I'm	O	-
+up	O	-
+now	O	-
+
+Took	O	-
+your	O	-
+girl	O	-
+and	O	-
+I'ma	O	-
+score	O	-
+like	O	-
+I	O	-
+made	O	-
+the	O	-
+touchdown	B-MISC	North American
+
+Swervin'	B-MISC	North American
+in	O	-
+that	O	-
+Lambo'	B-ORG	European
+,	O	-
+doors	O	-
+go	O	-
+up	O	-
+,	O	-
+not	O	-
+on	O	-
+a	O	-
+bus	O	-
+now	O	-
+
+Used	O	-
+to	O	-
+want	O	-
+a	O	-
+G-Shock	B-ORG	North American
+,	O	-
+now	O	-
+I'm	O	-
+walking	O	-
+with	O	-
+a	O	-
+bustdown	B-MISC	North American
+
+Pull	O	-
+up	O	-
+and	O	-
+I'm	O	-
+flooded	O	-
+with	O	-
+a	O	-
+iced	B-MISC	North American
+out	I-MISC	North American
+watch	O	-
+
+Whip	O	-
+,	O	-
+it	O	-
+look	O	-
+like	O	-
+butter	O	-
+,	O	-
+baby	O	-
+,	O	-
+pecan	O	-
+drop	O	-
+
+Pecan	O	-
+drop	O	-
+,	O	-
+put	O	-
+that	O	-
+four	O	-
+in	O	-
+Sun	B-ORG	North American
+Drop	I-ORG	North American
+
+Stack	O	-
+my	O	-
+knots	O	-
+,	O	-
+count	O	-
+a	O	-
+lot	O	-
+,	O	-
+saw	O	-
+a	O	-
+lot	O	-
+
+Got	O	-
+them	O	-
+rocks	O	-
+,	O	-
+diamond	O	-
+rocks	O	-
+,	O	-
+whip	O	-
+the	O	-
+pot	O	-
+
+Suicide	O	-
+,	O	-
+1600	B-MISC	North American
+,	O	-
+that's	O	-
+the	O	-
+block	O	-
+
+Hit	O	-
+your	O	-
+girl	O	-
+,	O	-
+that's	O	-
+check-free	O	-
+
+She	O	-
+ain't	O	-
+used	O	-
+to	O	-
+text	O	-
+me	O	-
+
+Now	O	-
+she	O	-
+wanna	O	-
+caress	O	-
+me	O	-
+
+She	O	-
+keep	O	-
+tryna	O	-
+neck	O	-
+me	O	-
+
+I	O	-
+gotta	O	-
+tell	O	-
+my	O	-
+bestie	O	-
+
+Someone	O	-
+call	O	-
+my	O	-
+bestie	O	-
+
+Think	O	-
+I	O	-
+found	O	-
+my	O	-
+bestie	O	-
+
+Link	O	-
+up	O	-
+,	O	-
+make	O	-
+a	O	-
+check	O	-
+bleed	O	-
+
+You	O	-
+know	O	-
+that	O	-
+I'm	O	-
+smokin'	O	-
+dope	O	-
+,	O	-
+I'll	O	-
+be	O	-
+high	O	-
+'	O	-
+til	O	-
+next	O	-
+week	O	-
+
+Know	O	-
+I	O	-
+had	O	-
+to	O	-
+let	O	-
+her	O	-
+go	O	-
+'	O	-
+cause	O	-
+she	O	-
+can't	O	-
+arrest	O	-
+me	O	-
+
+Uh	O	-
+,	O	-
+woke	O	-
+up	O	-
+with	O	-
+my	O	-
+toolie	B-MISC	North American
+,	O	-
+what	O	-
+it	O	-
+do	O	-
+?	O	-
+Huh	O	-
+,	O	-
+uh	O	-
+
+Meet	O	-
+me	O	-
+in	O	-
+the	O	-
+alley	O	-
+with	O	-
+the	O	-
+troops	O	-
+,	O	-
+uh	O	-
+
+I	O	-
+got	O	-
+red	O	-
+shooters	O	-
+,	O	-
+I	O	-
+got	O	-
+blue	O	-
+,	O	-
+huh	O	-
+,	O	-
+yeah	O	-
+
+Let	O	-
+that	O	-
+thing	O	-
+down	O	-
+and	O	-
+point	O	-
+at	O	-
+you	O	-
+,	O	-
+huh	O	-
+,	O	-
+uh	O	-
+
+Bentley	B-ORG	European
+or	O	-
+the	O	-
+'	O	-
+Rari	B-ORG	European
+,	O	-
+ho	O	-
+,	O	-
+let's	O	-
+choose	O	-
+,	O	-
+ooh	O	-
+
+We	O	-
+gon'	O	-
+rob	O	-
+the	O	-
+bank	O	-
+,	O	-
+bring	O	-
+the	O	-
+loot	O	-
+,	O	-
+uh	O	-
+,	O	-
+uh	O	-
+
+We	O	-
+gon'	O	-
+take	O	-
+these	O	-
+boys	O	-
+back	O	-
+to	O	-
+school	O	-
+,	O	-
+uh	O	-
+
+Money	O	-
+on	O	-
+the	O	-
+floor	O	-
+just	O	-
+like	O	-
+some	O	-
+shoes	O	-
+
+Uh	O	-
+,	O	-
+money	O	-
+on	O	-
+the	O	-
+floor	O	-
+just	O	-
+like	O	-
+some	O	-
+shoes	O	-
+,	O	-
+yeah	O	-
+
+I'ma	O	-
+fuck	O	-
+your	O	-
+thot	B-MISC	North American
+,	O	-
+she	O	-
+just	O	-
+a	O	-
+swoop	O	-
+,	O	-
+hah	O	-
+,	O	-
+yeah	O	-
+
+I'ma	O	-
+fuck	O	-
+your	O	-
+thot	B-MISC	North American
+,	O	-
+she	O	-
+just	O	-
+a	O	-
+swoop	O	-
+,	O	-
+hah	O	-
+,	O	-
+yeah	O	-
+
+And	O	-
+I	O	-
+love	O	-
+my	O	-
+goons	B-MISC	North American
+,	O	-
+yeah	O	-
+
+And	O	-
+I	O	-
+love	O	-
+my	O	-
+tool	B-MISC	North American
+(	O	-
+Yeah	O	-
+)	O	-
+,	O	-
+yeah	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+And	O	-
+I	O	-
+love	O	-
+my	O	-
+loot	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+yeah	O	-
+
+Fuck	O	-
+with	O	-
+me	O	-
+and	O	-
+you	O	-
+gon'	O	-
+lose	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Don't	O	-
+talk	O	-
+to	O	-
+me	O	-
+,	O	-
+just	O	-
+talk	O	-
+to	O	-
+my	O	-
+lil'	O	-
+dude	O	-
+
+Don't	O	-
+talk	O	-
+to	O	-
+me	O	-
+,	O	-
+just	O	-
+talk	O	-
+to	O	-
+my	O	-
+lil'	O	-
+dude	O	-
+
+Uh	O	-
+,	O	-
+woke	O	-
+up	O	-
+with	O	-
+my	O	-
+toolie	B-MISC	North American
+,	O	-
+what	O	-
+it	O	-
+do	O	-
+?	O	-
+Huh	O	-
+,	O	-
+uh	O	-
+
+Meet	O	-
+me	O	-
+in	O	-
+the	O	-
+alley	O	-
+with	O	-
+the	O	-
+troops	O	-
+,	O	-
+uh	O	-
+
+I	O	-
+got	O	-
+red	O	-
+shooters	O	-
+,	O	-
+I	O	-
+got	O	-
+blue	O	-
+,	O	-
+huh	O	-
+,	O	-
+yeah	O	-
+
+Let	O	-
+that	O	-
+thing	O	-
+down	O	-
+and	O	-
+point	O	-
+at	O	-
+you	O	-
+,	O	-
+huh	O	-
+,	O	-
+uh	O	-
+
+Bentley	B-ORG	European
+or	O	-
+the	O	-
+'	O	-
+Rari	B-ORG	European
+,	O	-
+ho	O	-
+,	O	-
+let's	O	-
+choose	O	-
+,	O	-
+ooh	O	-
+
+We	O	-
+gon'	O	-
+rob	O	-
+the	O	-
+bank	O	-
+,	O	-
+bring	O	-
+the	O	-
+loot	O	-
+,	O	-
+uh	O	-
+,	O	-
+uh	O	-
+
+We	O	-
+gon'	O	-
+take	O	-
+these	O	-
+boys	O	-
+back	O	-
+to	O	-
+school	O	-
+,	O	-
+uh	O	-
+
+Money	O	-
+on	O	-
+the	O	-
+floor	O	-
+just	O	-
+like	O	-
+some	O	-
+shoes	O	-
+
+I	O	-
+said	O	-
+,	O	-
+"	O	-
+Girl	O	-
+,	O	-
+why	O	-
+you	O	-
+keep	O	-
+callin'	O	-
+?	O	-
+"	O	-
+
+I	O	-
+said	O	-
+,	O	-
+"	O	-
+Girl	O	-
+,	O	-
+why	O	-
+you	O	-
+keep	O	-
+callin'	O	-
+?	O	-
+"	O	-
+,	O	-
+yeah	O	-
+
+She	O	-
+said	O	-
+,	O	-
+"	O	-
+I	O	-
+need	O	-
+a	O	-
+new	O	-
+whip	B-MISC	North American
+,	O	-
+yeah	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+know	O	-
+that	O	-
+you	O	-
+still	O	-
+ballin'	O	-
+"	O	-
+
+She	O	-
+just	O	-
+wanna	O	-
+go	O	-
+back	O	-
+to	O	-
+the	O	-
+future	O	-
+,	O	-
+so	O	-
+I	O	-
+bought	O	-
+that	O	-
+girl	O	-
+a	O	-
+DeLorean	B-ORG	European
+
+Twenty	O	-
+one	O	-
+minutes	O	-
+until	O	-
+I	O	-
+got'	O	-
+go	O	-
+,	O	-
+so	O	-
+I	O	-
+told	O	-
+that	O	-
+girl	O	-
+I'm	O	-
+gonna	O	-
+slaughter	O	-
+it	O	-
+
+I	O	-
+met	O	-
+that	O	-
+girl	O	-
+right	O	-
+up	O	-
+at	O	-
+my	O	-
+show	O	-
+
+Left	O	-
+her	O	-
+man	O	-
+in	O	-
+the	O	-
+crowd	O	-
+on	O	-
+the	O	-
+floor	O	-
+(	O	-
+Floor	O	-
+)	O	-
+
+Out	O	-
+of	O	-
+town	O	-
+never	O	-
+saw	O	-
+her	O	-
+before	O	-
+
+Told	O	-
+her	O	-
+,	O	-
+"	O	-
+Baby	O	-
+,	O	-
+we	O	-
+don't	O	-
+got	O	-
+that	O	-
+long	O	-
+"	O	-
+
+Listen	O	-
+,	O	-
+this	O	-
+not	O	-
+my	O	-
+city	O	-
+show	O	-
+,	O	-
+but	O	-
+,	O	-
+I	O	-
+treat	O	-
+it	O	-
+like	O	-
+my	O	-
+city	O	-
+show	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+,	O	-
+twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+,	O	-
+twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+,	O	-
+twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I	O	-
+am	O	-
+not	O	-
+slow	O	-
+,	O	-
+these	O	-
+girls	O	-
+just	O	-
+want	O	-
+me	O	-
+'	O	-
+cause	O	-
+I	O	-
+got	O	-
+the	O	-
+dough	O	-
+
+Pass	O	-
+that	O	-
+girl	O	-
+right	O	-
+on	O	-
+my	O	-
+friend	O	-
+,	O	-
+give	O	-
+and	O	-
+go	O	-
+
+He	O	-
+pass	O	-
+me	O	-
+her	O	-
+friend	O	-
+,	O	-
+so	O	-
+they	O	-
+switchin'	O	-
+roles	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I	O	-
+hit	O	-
+it	O	-
+fast	O	-
+(	O	-
+F-f	O	-
+-	O	-
+f-fast	O	-
+)	O	-
+,	O	-
+yeah	O	-
+,	O	-
+I	O	-
+hit	O	-
+it	O	-
+slow	O	-
+(	O	-
+Slow	O	-
+)	O	-
+
+But	O	-
+by	O	-
+the	O	-
+mornin'	O	-
+,	O	-
+girl	O	-
+,	O	-
+I	O	-
+gotta	O	-
+go	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Gotta	O	-
+get	O	-
+ready	O	-
+,	O	-
+tonight	O	-
+is	O	-
+my	O	-
+show	O	-
+
+If	O	-
+you	O	-
+okay	O	-
+,	O	-
+you	O	-
+might	O	-
+open	O	-
+my	O	-
+show	O	-
+
+Got	O	-
+the	O	-
+big	O	-
+pointers	O	-
+right	O	-
+under	O	-
+my	O	-
+nose	O	-
+
+These	O	-
+niggas	O	-
+mad	O	-
+'	O	-
+cause	O	-
+I	O	-
+got	O	-
+all	O	-
+the	O	-
+dough	B-MISC	North American
+
+These	O	-
+niggas	O	-
+mad	O	-
+'	O	-
+cause	O	-
+I	O	-
+got	O	-
+all	O	-
+the	O	-
+dough	B-MISC	North American
+(	O	-
+Yeah	O	-
+)	O	-
+
+Changin'	O	-
+my	O	-
+style	O	-
+'	O	-
+cause	O	-
+I	O	-
+got	O	-
+every	O	-
+flow	O	-
+
+Got	O	-
+every	O	-
+girl	O	-
+,	O	-
+ain't	O	-
+no	O	-
+toppin'	O	-
+my	O	-
+hoes	B-MISC	North American
+(	O	-
+Yeah	O	-
+)	O	-
+
+I	O	-
+understand	O	-
+that	O	-
+is	O	-
+your	O	-
+girlfriend	O	-
+,	O	-
+bro	O	-
+
+But	O	-
+you	O	-
+know	O	-
+I	O	-
+gotta	O	-
+keep	O	-
+her	O	-
+close	O	-
+
+Open	O	-
+your	O	-
+legs	O	-
+and	O	-
+I	O	-
+keep	O	-
+'	O	-
+em	O	-
+closed	O	-
+
+Livin'	O	-
+life	O	-
+on	O	-
+the	O	-
+edge	O	-
+,	O	-
+on	O	-
+a	O	-
+tightrope	O	-
+
+I	O	-
+am	O	-
+so	O	-
+clean	O	-
+,	O	-
+I	O	-
+might	O	-
+start	O	-
+movin'	O	-
+soap	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Drive	O	-
+a	O	-
+new	O	-
+'	O	-
+Rari	B-ORG	European
+,	O	-
+I	O	-
+don't	O	-
+need	O	-
+a	O	-
+note	O	-
+(	O	-
+Skrrt	O	-
+)	O	-
+
+Drive	O	-
+a	O	-
+Bugatti	B-ORG	European
+like	O	-
+it's	O	-
+a	O	-
+Volvo	B-ORG	European
+
+I	O	-
+got	O	-
+your	O	-
+girl	O	-
+and	O	-
+you	O	-
+already	O	-
+know	O	-
+(	O	-
+Skrrt	O	-
+)	O	-
+
+Don't	O	-
+really	O	-
+like	O	-
+her	O	-
+,	O	-
+we	O	-
+friends	O	-
+for	O	-
+the	O	-
+most	O	-
+
+Cuban	B-LOC	Latin
+link	O	-
+tri-color	O	-
+,	O	-
+all	O	-
+on	O	-
+my	O	-
+choker	B-MISC	Non-cultural
+(	O	-
+Skrrt	O	-
+)	O	-
+
+Don't	O	-
+leave	O	-
+the	O	-
+crumb	O	-
+,	O	-
+got	O	-
+the	O	-
+bread	O	-
+,	O	-
+then	O	-
+you	O	-
+toast	O	-
+
+If	O	-
+you	O	-
+start	O	-
+touchin'	O	-
+my	O	-
+gun	O	-
+,	O	-
+got	O	-
+no	O	-
+holst'	O	-
+
+I	O	-
+put	O	-
+a	O	-
+coat	O	-
+on	O	-
+top	O	-
+of	O	-
+my	O	-
+coat	O	-
+
+Only	O	-
+twenty	O	-
+minutes	O	-
+before	O	-
+the	O	-
+show	O	-
+(	O	-
+Show	O	-
+)	O	-
+
+I	O	-
+met	O	-
+that	O	-
+girl	O	-
+right	O	-
+up	O	-
+at	O	-
+my	O	-
+show	O	-
+
+Left	O	-
+her	O	-
+man	O	-
+in	O	-
+the	O	-
+crowd	O	-
+on	O	-
+the	O	-
+floor	O	-
+
+Out	O	-
+of	O	-
+town	O	-
+,	O	-
+never	O	-
+saw	O	-
+her	O	-
+before	O	-
+
+Told	O	-
+her	O	-
+,	O	-
+"	O	-
+Baby	O	-
+,	O	-
+we	O	-
+don't	O	-
+got	O	-
+that	O	-
+long	O	-
+"	O	-
+
+Listen	O	-
+,	O	-
+this	O	-
+not	O	-
+my	O	-
+city	O	-
+show	O	-
+,	O	-
+but	O	-
+,	O	-
+I	O	-
+treat	O	-
+it	O	-
+like	O	-
+my	O	-
+city	O	-
+show	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+,	O	-
+twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+,	O	-
+twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+,	O	-
+twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I	O	-
+am	O	-
+not	O	-
+slow	O	-
+,	O	-
+these	O	-
+girls	O	-
+just	O	-
+want	O	-
+me	O	-
+,	O	-
+'	O	-
+cause	O	-
+I	O	-
+got	O	-
+the	O	-
+dough	O	-
+
+Pass	O	-
+that	O	-
+girl	O	-
+right	O	-
+on	O	-
+my	O	-
+friend	O	-
+,	O	-
+give	O	-
+and	O	-
+go	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+He	O	-
+pass	O	-
+me	O	-
+her	O	-
+friend	O	-
+,	O	-
+so	O	-
+they	O	-
+switchin'	O	-
+roles	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Damn	O	-
+,	O	-
+I	O	-
+just	O	-
+started	O	-
+it	O	-
+(	O	-
+Started	O	-
+)	O	-
+,	O	-
+man	O	-
+,	O	-
+I	O	-
+just	O	-
+started	O	-
+it	O	-
+
+Oh	O	-
+my	O	-
+God	B-PER	Non-cultural
+,	O	-
+please	O	-
+,	O	-
+do	O	-
+not	O	-
+bother	O	-
+me	O	-
+
+Don't	O	-
+got	O	-
+enough	O	-
+just	O	-
+to	O	-
+order	O	-
+me	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I'm	O	-
+on	O	-
+that	O	-
+tree	O	-
+like	O	-
+an	O	-
+ornament	O	-
+
+Money	O	-
+so	O	-
+long	O	-
+like	O	-
+accordion	B-MISC	European
+(	O	-
+Woo	O	-
+)	O	-
+
+You	O	-
+lied	O	-
+to	O	-
+me	O	-
+,	O	-
+wasn't	O	-
+sorry	O	-
+then	O	-
+
+On	O	-
+the	O	-
+weekend	O	-
+,	O	-
+you	O	-
+was	O	-
+partyin'	O	-
+
+It	O	-
+was	O	-
+just	O	-
+me	O	-
+,	O	-
+you	O	-
+was	O	-
+targetin'	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+It	O	-
+was	O	-
+just	O	-
+me	O	-
+,	O	-
+you	O	-
+was	O	-
+targetin'	O	-
+(	O	-
+Target	O	-
+)	O	-
+
+Jump	O	-
+in	O	-
+the	O	-
+Porsche	B-ORG	European
+,	O	-
+I	O	-
+might	O	-
+target	O	-
+it	O	-
+(	O	-
+Skrr	O	-
+)	O	-
+
+Jump	O	-
+in	O	-
+the	O	-
+Lamb'	B-ORG	European
+,	O	-
+I	O	-
+ain't	O	-
+parkin'	O	-
+it	O	-
+(	O	-
+Skrr	O	-
+)	O	-
+
+Ice	B-ORG	North American
+is	O	-
+so	O	-
+cold	O	-
+,	O	-
+I	O	-
+snowboard	O	-
+in	O	-
+it	O	-
+(	O	-
+Blaow	O	-
+)	O	-
+
+Go	O	-
+to	O	-
+my	O	-
+show	O	-
+,	O	-
+they	O	-
+applaud	O	-
+me	O	-
+in	O	-
+
+She	O	-
+call	O	-
+my	O	-
+phone	O	-
+with	O	-
+emergency	O	-
+(	O	-
+Ayy	O	-
+)	O	-
+
+She	O	-
+call	O	-
+my	O	-
+phone	O	-
+with	O	-
+that	O	-
+urgency	O	-
+(	O	-
+Ayy	O	-
+)	O	-
+
+I	O	-
+said	O	-
+,	O	-
+"	O	-
+Girl	O	-
+,	O	-
+why	O	-
+you	O	-
+keep	O	-
+callin'	O	-
+?	O	-
+"	O	-
+(	O	-
+Ayy	O	-
+)	O	-
+
+I	O	-
+said	O	-
+,	O	-
+"	O	-
+Girl	O	-
+,	O	-
+why	O	-
+you	O	-
+keep	O	-
+callin'	O	-
+?	O	-
+"	O	-
+,	O	-
+yeah	O	-
+
+She	O	-
+said	O	-
+,	O	-
+"	O	-
+I	O	-
+need	O	-
+a	O	-
+new	O	-
+whip	B-MISC	North American
+,	O	-
+"	O	-
+yeah	O	-
+(	O	-
+Skrr	O	-
+)	O	-
+
+"	O	-
+'	O	-
+Cause	O	-
+I	O	-
+know	O	-
+that	O	-
+you	O	-
+still	O	-
+ballin'	B-MISC	North American
+"	O	-
+(	O	-
+Ball	O	-
+!	O	-
+)	O	-
+
+She	O	-
+just	O	-
+wanna	O	-
+go	O	-
+back	O	-
+to	O	-
+the	O	-
+future	O	-
+,	O	-
+so	O	-
+,	O	-
+I	O	-
+brought	O	-
+that	O	-
+girl	O	-
+a	O	-
+DeLorean	B-ORG	European
+(	O	-
+Yah	O	-
+)	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I	O	-
+got'	O	-
+go	O	-
+,	O	-
+so	O	-
+,	O	-
+I	O	-
+told	O	-
+that	O	-
+girl	O	-
+that	O	-
+I'm	O	-
+gonna	O	-
+slaughter	O	-
+it	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I	O	-
+met	O	-
+that	O	-
+girl	O	-
+right	O	-
+up	O	-
+at	O	-
+my	O	-
+show	O	-
+
+Left	O	-
+her	O	-
+man	O	-
+in	O	-
+the	O	-
+crowd	O	-
+on	O	-
+the	O	-
+floor	O	-
+
+Out	O	-
+of	O	-
+town	O	-
+,	O	-
+never	O	-
+saw	O	-
+her	O	-
+before	O	-
+
+Told	O	-
+her	O	-
+,	O	-
+"	O	-
+Baby	O	-
+,	O	-
+we	O	-
+don't	O	-
+got	O	-
+that	O	-
+long	O	-
+"	O	-
+
+Listen	O	-
+,	O	-
+this	O	-
+not	O	-
+my	O	-
+city	O	-
+show	O	-
+,	O	-
+but	O	-
+,	O	-
+I	O	-
+treat	O	-
+it	O	-
+like	O	-
+my	O	-
+city	O	-
+show	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+,	O	-
+twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+,	O	-
+twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+
+Twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+,	O	-
+twenty	O	-
+more	O	-
+minutes	O	-
+until	O	-
+I'm	O	-
+on	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I	O	-
+am	O	-
+not	O	-
+slow	O	-
+,	O	-
+these	O	-
+girls	O	-
+just	O	-
+want	O	-
+me	O	-
+,	O	-
+'	O	-
+cause	O	-
+I	O	-
+got	O	-
+the	O	-
+dough	O	-
+
+Pass	O	-
+that	O	-
+girl	O	-
+right	O	-
+on	O	-
+my	O	-
+friend	O	-
+,	O	-
+give	O	-
+and	O	-
+go	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+He	O	-
+pass	O	-
+me	O	-
+her	O	-
+friend	O	-
+,	O	-
+so	O	-
+they	O	-
+switchin'	O	-
+roles	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+,	O	-
+yah	O	-
+
+(	O	-
+Four	O	-
+,	O	-
+four	O	-
+,	O	-
+four	O	-
+,	O	-
+four	O	-
+)	O	-
+
+(	O	-
+Four	O	-
+,	O	-
+skate	O	-
+,	O	-
+four	O	-
+,	O	-
+skate	O	-
+,	O	-
+four	O	-
+,	O	-
+skate	O	-
+,	O	-
+four	O	-
+,	O	-
+skate	O	-
+)	O	-
+
+I	O	-
+don't	O	-
+know	O	-
+where	O	-
+I’m	O	-
+going	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+But	O	-
+I	O	-
+know	O	-
+what	O	-
+I'm	O	-
+showing	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+Feelings	O	-
+,	O	-
+that's	O	-
+what	O	-
+I’m	O	-
+pouring	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+What	O	-
+the	O	-
+fuck	O	-
+is	O	-
+your	O	-
+motive	O	-
+?	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+Man	O	-
+,	O	-
+I	O	-
+wish	O	-
+you	O	-
+would	O	-
+call	O	-
+me	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+By	B-MISC	North American
+your	I-MISC	North American
+name	I-MISC	North American
+'	O	-
+cause	O	-
+I'm	O	-
+sorry	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+This	O	-
+is	O	-
+not	O	-
+apology	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+You	O	-
+are	O	-
+such	O	-
+a	O	-
+distraction	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+That's	O	-
+what	O	-
+T	B-PER	North American
+on	O	-
+,	O	-
+aw	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+Fuckin'	O	-
+up	O	-
+my	O	-
+ambiance	O	-
+,	O	-
+pause	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+You	O	-
+drive	O	-
+me	O	-
+cuckoo	O	-
+and	O	-
+not	O	-
+car	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+'	O	-
+Cause	O	-
+I	O	-
+want	O	-
+you	O	-
+like	O	-
+Leon	B-PER	North American
+Ware	I-PER	North American
+(	O	-
+Fuck	O	-
+that	O	-
+)	O	-
+
+Okay	O	-
+,	O	-
+say	O	-
+again	O	-
+it	O	-
+(	O	-
+Fuck	O	-
+that	O	-
+)	O	-
+
+Okay	O	-
+,	O	-
+wait	O	-
+a	O	-
+minute	O	-
+(	O	-
+Woah	O	-
+)	O	-
+
+I	O	-
+dread	O	-
+that	O	-
+shit	O	-
+,	O	-
+I	O	-
+am	O	-
+Anwar	B-PER	Middle Eastern
+(	O	-
+Skate	O	-
+)	O	-
+
+Curiosity	O	-
+killed	O	-
+the	O	-
+feline	O	-
+,	O	-
+gone	O	-
+(	O	-
+Four	O	-
+,	O	-
+skate	O	-
+)	O	-
+
+I	O	-
+think	O	-
+I've	O	-
+fallen	O	-
+in	O	-
+love	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+This	O	-
+time	O	-
+I	O	-
+think	O	-
+it's	O	-
+for	O	-
+real	O	-
+(	O	-
+Four	O	-
+,	O	-
+skate	O	-
+)	O	-
+
+I	O	-
+think	O	-
+I’ve	O	-
+fallen	O	-
+in	O	-
+love	O	-
+(	O	-
+Four	O	-
+,	O	-
+skate	O	-
+)	O	-
+
+This	O	-
+time	O	-
+I	O	-
+think	O	-
+it’s	O	-
+for	O	-
+real	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Skate	O	-
+)	O	-
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Skate	O	-
+)	O	-
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Skate	O	-
+)	O	-
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Skate	O	-
+)	O	-
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+I	O	-
+notice	O	-
+that	O	-
+you're	O	-
+there	O	-
+,	O	-
+but	O	-
+I’m	O	-
+always	O	-
+in	O	-
+your	O	-
+hair	O	-
+
+And	O	-
+you're	O	-
+always	O	-
+under	O	-
+my	O	-
+microscope	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+Waste	O	-
+of	O	-
+bread	B-MISC	North American
+,	O	-
+I	O	-
+need	O	-
+your	O	-
+attention	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+I'm	O	-
+off	O	-
+balance	O	-
+,	O	-
+I	O	-
+need	O	-
+some	O	-
+fixin'	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+I’m	O	-
+your	O	-
+puppet	O	-
+,	O	-
+you	O	-
+are	O	-
+Jim	B-PER	North American
+Henson	I-PER	North American
+(	O	-
+Skate	O	-
+,	O	-
+four	O	-
+)	O	-
+
+Fallen	O	-
+in	O	-
+love	O	-
+now	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+I	O	-
+think	O	-
+I've	O	-
+fallen	O	-
+in	O	-
+love	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+Fell	O	-
+in	O	-
+love	O	-
+now	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+This	O	-
+time	O	-
+I	O	-
+think	O	-
+it's	O	-
+for	O	-
+real	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+I	O	-
+think	O	-
+I'm	O	-
+in	O	-
+love	O	-
+now	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+I	O	-
+think	O	-
+I've	O	-
+fallen	O	-
+in	O	-
+love	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+I	O	-
+think	O	-
+I'm	O	-
+in	O	-
+love	O	-
+now	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+This	O	-
+time	O	-
+I	O	-
+think	O	-
+it's	O	-
+for	O	-
+real	O	-
+(	O	-
+Four	O	-
+,	O	-
+four	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Shut	O	-
+the	O	-
+fuck	O	-
+up	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+You	O	-
+fuckin'	O	-
+bitch	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+How	O	-
+can	O	-
+I	O	-
+tell	O	-
+you	O	-
+?	O	-
+
+Take	O	-
+'	O	-
+em	O	-
+to	O	-
+the	O	-
+bridge	O	-
+
+(	O	-
+Four	O	-
+,	O	-
+four	O	-
+,	O	-
+four	O	-
+)	O	-
+
+Four	O	-
+,	O	-
+four	O	-
+,	O	-
+four	O	-
+,	O	-
+four	O	-
+(	O	-
+Four	O	-
+,	O	-
+skate	O	-
+)	O	-
+
+I	O	-
+think	O	-
+I've	O	-
+fallen	O	-
+in	O	-
+love	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+Fell	O	-
+in	O	-
+love	O	-
+now	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+This	O	-
+time	O	-
+I	O	-
+think	O	-
+it's	O	-
+for	O	-
+real	O	-
+(	O	-
+Four	O	-
+)	O	-
+
+I	O	-
+think	O	-
+I'm	O	-
+in	O	-
+love	O	-
+now	O	-
+(	O	-
+Skate	O	-
+)	O	-
+
+I	O	-
+think	O	-
+I've	O	-
+fallen	O	-
+in	O	-
+love	O	-
+(	O	-
+Four	O	-
+,	O	-
+skate	O	-
+)	O	-
+
+This	O	-
+time	O	-
+I	O	-
+think	O	-
+it's	O	-
+for	O	-
+real	O	-
+(	O	-
+Oh	O	-
+,	O	-
+oh	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+(	O	-
+Four	O	-
+,	O	-
+skate	O	-
+,	O	-
+four	O	-
+,	O	-
+skate	O	-
+)	O	-
+
+(	O	-
+Ness	O	-
+on	O	-
+the	O	-
+beat	O	-
+)	O	-
+
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+
+Yeah	O	-
+,	O	-
+okay	O	-
+,	O	-
+okay	O	-
+,	O	-
+okay	O	-
+
+Demon	B-PER	Non-cultural
+just	O	-
+got	O	-
+out	O	-
+the	O	-
+can	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I	O	-
+gave	O	-
+my	O	-
+bro	O	-
+an	O	-
+advance	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Love	O	-
+is	O	-
+just	O	-
+not	O	-
+in	O	-
+my	O	-
+plans	O	-
+
+Not	O	-
+even	O	-
+takin'	O	-
+a	O	-
+chance	O	-
+
+Studio	O	-
+right	O	-
+in	O	-
+my	O	-
+yaad	B-MISC	European
+
+I'm	O	-
+doin'	O	-
+ten	O	-
+in	O	-
+a	O	-
+week	O	-
+
+How	O	-
+long	O	-
+I	O	-
+been	O	-
+on	O	-
+this	O	-
+streak	O	-
+?	O	-
+
+Dream	O	-
+about	O	-
+work	O	-
+in	O	-
+my	O	-
+sleep	O	-
+(	O	-
+Oof	O	-
+)	O	-
+
+Okay	O	-
+,	O	-
+I	O	-
+got	O	-
+a	O	-
+lock	O	-
+on	O	-
+the	O	-
+streets	O	-
+
+Shoutout	O	-
+to	O	-
+T	B-PER	North American
+,	O	-
+he	O	-
+did	O	-
+three	O	-
+
+And	O	-
+he	O	-
+brought	O	-
+it	O	-
+in	O	-
+'	O	-
+cause	O	-
+of	O	-
+me	O	-
+
+You	O	-
+don't	O	-
+know	O	-
+nothin'	O	-
+'	O	-
+bout	O	-
+me	O	-
+
+Life	O	-
+for	O	-
+my	O	-
+bruddas	B-MISC	European
+is	O	-
+deep	O	-
+
+Long	O	-
+as	O	-
+they	O	-
+all	O	-
+on	O	-
+they	O	-
+feet	O	-
+
+Long	O	-
+as	O	-
+they	O	-
+pockets	O	-
+is	O	-
+greaze	B-MISC	European
+(	O	-
+Greaze	O	-
+!	O	-
+)	O	-
+
+I'm	O	-
+in	O	-
+the	O	-
+penthouse	O	-
+but	O	-
+still	O	-
+,	O	-
+nothin'	O	-
+is	O	-
+sweet	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Dust	O	-
+a	O	-
+man	O	-
+down	O	-
+with	O	-
+the	O	-
+pen	O	-
+,	O	-
+it's	O	-
+a	O	-
+sweep	B-MISC	Non-cultural
+(	O	-
+Mmm	O	-
+!	O	-
+)	O	-
+
+Taller	O	-
+in	O	-
+person	O	-
+,	O	-
+you'll	O	-
+see	O	-
+when	O	-
+we	O	-
+meet	O	-
+
+I	O	-
+heard	O	-
+your	O	-
+new	O	-
+shit	O	-
+and	O	-
+I'm	O	-
+kissin'	O	-
+my	O	-
+teeth	O	-
+
+Jheeze	B-MISC	European
+!	O	-
+
+You	O	-
+know	O	-
+dem	B-MISC	European
+ones	O	-
+?	O	-
+Hahaha	O	-
+
+Yeah	O	-
+,	O	-
+ahh	O	-
+!	O	-
+
+Bringin'	O	-
+that	O	-
+dirty-dirty	O	-
+,	O	-
+bringin'	O	-
+that	O	-
+certy	B-MISC	European
+(	O	-
+Certy	O	-
+)	O	-
+
+Mizzy	B-PER	European
+with	O	-
+the	O	-
+quick	O	-
+extension	O	-
+,	O	-
+ringin'	O	-
+off	O	-
+thirty	O	-
+(	O	-
+Rah	O	-
+!	O	-
+)	O	-
+
+I've	O	-
+got	O	-
+bitches	O	-
+in	O	-
+the	O	-
+merky	B-MISC	European
+,	O	-
+swervin'	O	-
+,	O	-
+lookin'	O	-
+all	O	-
+curvy	O	-
+
+And	O	-
+you	O	-
+already	O	-
+know	O	-
+I	O	-
+love	O	-
+them	O	-
+breasts	O	-
+,	O	-
+lookin'	O	-
+all	O	-
+perky	O	-
+
+Lookin'	O	-
+all	O	-
+Christmas	B-MISC	Non-cultural
+gift-wrapped	O	-
+,	O	-
+lookin'	O	-
+all	O	-
+turkey	O	-
+
+Spen	B-PER	European
+jumped	O	-
+out	O	-
+the	O	-
+Ghost	B-ORG	Non-cultural
+in	O	-
+a	O	-
+suit	O	-
+,	O	-
+lookin'	O	-
+all	O	-
+churchy	B-MISC	Non-cultural
+(	O	-
+Oof	O	-
+!	O	-
+)	O	-
+
+Fingers	O	-
+all	O	-
+itchin'	O	-
+,	O	-
+twitchin'	O	-
+,	O	-
+lookin'	O	-
+all	O	-
+jerky	O	-
+(	O	-
+Jerky	O	-
+)	O	-
+
+Whippin'	O	-
+that	O	-
+white	O	-
+girl	O	-
+(	O	-
+Yeah	O	-
+?	O	-
+)	O	-
+,	O	-
+cookin'	O	-
+that	O	-
+Cersei	B-ORG	European
+(	O	-
+Dah	O	-
+!	O	-
+)	O	-
+
+I	O	-
+was	O	-
+pushin'	O	-
+that	O	-
+dark	O	-
+shit	O	-
+,	O	-
+pushin'	O	-
+that	O	-
+charcoal	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Now	O	-
+this	O	-
+is	O	-
+that	O	-
+big	O	-
+bad	O	-
+,	O	-
+this	O	-
+is	O	-
+Gustavo	B-PER	Latin
+(	O	-
+Mmm	O	-
+!	O	-
+)	O	-
+
+Look	O	-
+at	O	-
+them	O	-
+jokers	O	-
+,	O	-
+look	O	-
+at	O	-
+that	O	-
+arsehole	O	-
+(	O	-
+That	O	-
+arsehole	O	-
+)	O	-
+
+Man	O	-
+are	O	-
+gettin'	O	-
+bread	B-MISC	North American
+now	O	-
+,	O	-
+and	O	-
+this	O	-
+is	O	-
+that	O	-
+hard	O	-
+dough	B-MISC	North American
+(	O	-
+Yeah	O	-
+)	O	-
+
+Clap	O	-
+man	O	-
+,	O	-
+dominant	O	-
+murder	O	-
+(	O	-
+'	O	-
+Nant	O	-
+murder	O	-
+)	O	-
+
+I'm	O	-
+a	O	-
+black	O	-
+man	O	-
+(	O	-
+Black	O	-
+man	O	-
+)	O	-
+,	O	-
+government	O	-
+earner	O	-
+(	O	-
+Earner	O	-
+)	O	-
+
+Could've	O	-
+just	O	-
+slapped	O	-
+man	O	-
+,	O	-
+but	O	-
+he	O	-
+wanted	O	-
+it	O	-
+further	O	-
+(	O	-
+Why	O	-
+?	O	-
+)	O	-
+
+Batman	B-MISC	North American
+,	O	-
+da-na	O	-
+-	O	-
+na-da	O	-
+-	O	-
+na	O	-
+
+October	B-ORG	North American
+Firm	I-ORG	North American
+
+Aha	O	-
+,	O	-
+aha	O	-
+
+I	O	-
+said	O	-
+it	O	-
+must	O	-
+be	O	-
+'	O	-
+cause	O	-
+a	O	-
+nigga	O	-
+got	O	-
+dough	B-MISC	North American
+
+Extraordinary	O	-
+swag	B-MISC	North American
+and	O	-
+a	O	-
+mouth	O	-
+full	O	-
+of	O	-
+gold	O	-
+
+Hoes	B-MISC	North American
+at	O	-
+my	O	-
+shows	O	-
+they	O	-
+be	O	-
+strippin'	O	-
+off	O	-
+they	O	-
+clothes	O	-
+
+And	O	-
+them	O	-
+college	O	-
+girls	O	-
+write	O	-
+a	O	-
+nigga	O	-
+name	O	-
+on	O	-
+they	O	-
+toes	O	-
+
+Niggas	O	-
+talk	O	-
+shit	O	-
+'	O	-
+til	O	-
+they	O	-
+get	O	-
+lockjaw	O	-
+
+Chrome	B-MISC	Non-cultural
+to	O	-
+ya	O	-
+dome	O	-
+'	O	-
+til	O	-
+ya	O	-
+get	O	-
+glockjaw	B-MISC	North American
+
+Party	O	-
+like	O	-
+a	O	-
+cowboy	B-MISC	North American
+or	O	-
+a	O	-
+rockstar	B-MISC	North American
+
+Everybody	O	-
+play	O	-
+the	O	-
+tough	O	-
+guy	O	-
+'	O	-
+til	O	-
+shit	O	-
+pop	O	-
+off	O	-
+
+Let's	O	-
+take	O	-
+it	O	-
+to	O	-
+the	O	-
+basics	O	-
+,	O	-
+you	O	-
+in	O	-
+the	O	-
+midst	O	-
+of	O	-
+greatness	O	-
+
+My	O	-
+Martin	B-ORG	North American
+was	O	-
+a	O	-
+Maison	B-ORG	European
+,	O	-
+rocked	O	-
+Margielas	B-ORG	European
+with	O	-
+no	O	-
+laces	O	-
+
+Cristal	B-ORG	European
+go	O	-
+by	O	-
+the	O	-
+cases	O	-
+,	O	-
+wait	O	-
+hold	O	-
+up	O	-
+that	O	-
+was	O	-
+racist	O	-
+
+I	O	-
+would	O	-
+prefer	O	-
+the	O	-
+Aces	B-ORG	European
+,	O	-
+ain't	O	-
+no	O	-
+different	O	-
+when	O	-
+you	O	-
+taste	O	-
+it	O	-
+
+A	O	-
+40	O	-
+ounce	O	-
+to	O	-
+chase	O	-
+it	O	-
+,	O	-
+that's	O	-
+just	O	-
+a	O	-
+understatement	O	-
+
+I'm	O	-
+early	O	-
+to	O	-
+the	O	-
+party	O	-
+,	O	-
+but	O	-
+my	O	-
+'	O	-
+Rari	B-ORG	European
+is	O	-
+the	O	-
+latest	O	-
+
+Somehow	O	-
+it	O	-
+seems	O	-
+girls	O	-
+in	O	-
+they	O	-
+late	O	-
+teens	O	-
+
+Remind	O	-
+me	O	-
+your	O	-
+favorite	O	-
+jeans	O	-
+cause	O	-
+they	O	-
+naked	O	-
+cause	O	-
+you	O	-
+famous	O	-
+
+Life's	O	-
+a	O	-
+mothafucka	O	-
+,	O	-
+ain't	O	-
+it	O	-
+?	O	-
+These	O	-
+other	O	-
+rappers	O	-
+ain't	O	-
+us	O	-
+
+So	O	-
+tell	O	-
+me	O	-
+what	O	-
+your	O	-
+name	O	-
+is	O	-
+,	O	-
+I'ma	O	-
+tell	O	-
+it	O	-
+to	O	-
+my	O	-
+stainless	O	-
+
+You	O	-
+aim	O	-
+it	O	-
+'	O	-
+fore	O	-
+you	O	-
+bang	O	-
+it	O	-
+let	O	-
+that	O	-
+banger	O	-
+leave	O	-
+you	O	-
+brainless	O	-
+
+It's	O	-
+just	O	-
+me	O	-
+,	O	-
+myself	O	-
+,	O	-
+and	O	-
+I	O	-
+and	O	-
+mothafuckas	O	-
+that	O	-
+I	O	-
+came	O	-
+with	O	-
+
+Miscellaneous	O	-
+niggas	O	-
+wanna	O	-
+hate	O	-
+on	O	-
+me	O	-
+
+Until	O	-
+I	O	-
+tell	O	-
+'	O	-
+em	O	-
+to	O	-
+they	O	-
+face	O	-
+they	O	-
+ain't	O	-
+no	O	-
+G	B-MISC	North America
+
+Low	O	-
+key	O	-
+,	O	-
+niggas	O	-
+mad	O	-
+cause	O	-
+I'm	O	-
+smooth	O	-
+puffin'	O	-
+Zig	B-MISC	European
+Zags	I-MISC	European
+
+Tell	O	-
+'	O	-
+em	O	-
+quit	O	-
+the	O	-
+riff	B-MISC	Non-cultural
+raff	I-MISC	Non-cultural
+bitchin'	O	-
+with	O	-
+your	O	-
+bitch	O	-
+ass	O	-
+
+I	O	-
+said	O	-
+it	O	-
+must	O	-
+be	O	-
+'	O	-
+cause	O	-
+a	O	-
+nigga	O	-
+got	O	-
+dough	B-MISC	North American
+
+Extraordinary	O	-
+swag	B-MISC	North American
+and	O	-
+a	O	-
+mouth	O	-
+full	O	-
+of	O	-
+gold	O	-
+
+Hoes	B-MISC	North American
+at	O	-
+my	O	-
+shows	O	-
+they	O	-
+be	O	-
+strippin'	O	-
+off	O	-
+they	O	-
+clothes	O	-
+
+And	O	-
+them	O	-
+college	O	-
+girls	O	-
+write	O	-
+a	O	-
+nigga	O	-
+name	O	-
+on	O	-
+they	O	-
+toes	O	-
+
+Niggas	O	-
+talk	O	-
+shit	O	-
+'	O	-
+til	O	-
+they	O	-
+get	O	-
+lockjaw	O	-
+
+Chrome	B-MISC	Non-cultural
+to	O	-
+ya	O	-
+dome	O	-
+'	O	-
+til	O	-
+ya	O	-
+get	O	-
+glockjaw	B-MISC	North American
+
+Party	O	-
+like	O	-
+a	O	-
+cowboy	B-MISC	North American
+or	O	-
+a	O	-
+rockstar	B-MISC	North American
+
+Everybody	O	-
+play	O	-
+the	O	-
+tough	O	-
+guy	O	-
+'	O	-
+til	O	-
+shit	O	-
+pop	O	-
+off	O	-
+
+Yes	O	-
+,	O	-
+I'm	O	-
+the	O	-
+shit	O	-
+,	O	-
+tell	O	-
+me	O	-
+do	O	-
+it	O	-
+stink	O	-
+?	O	-
+
+It	O	-
+feel	O	-
+good	O	-
+wakin'	O	-
+up	O	-
+to	O	-
+money	O	-
+in	O	-
+the	O	-
+bank	O	-
+
+Three	O	-
+model	O	-
+bitches	O	-
+,	O	-
+cocaine	B-MISC	Non-cultural
+on	O	-
+the	O	-
+sink	O	-
+
+And	O	-
+I'm	O	-
+so	O	-
+'	O	-
+bout	O	-
+it	O	-
+'	O	-
+bout	O	-
+it	O	-
+,	O	-
+I	O	-
+might	O	-
+roll	O	-
+up	O	-
+in	O	-
+a	O	-
+tank	O	-
+
+Cause	O	-
+my	O	-
+chain	O	-
+came	O	-
+from	O	-
+Cuba	B-LOC	Latin
+,	O	-
+got	O	-
+a	O	-
+lock	O	-
+up	O	-
+on	O	-
+the	O	-
+link	O	-
+
+And	O	-
+them	O	-
+red	B-MISC	European
+bottom	I-MISC	European
+loafers	O	-
+just	O	-
+to	O	-
+compliment	O	-
+the	O	-
+mink	O	-
+
+Eyes	O	-
+chink	O	-
+,	O	-
+rollin'	O	-
+up	O	-
+that	O	-
+dank	O	-
+,	O	-
+blowin'	O	-
+on	O	-
+that	O	-
+stank	O	-
+
+What	O	-
+you	O	-
+mean	O	-
+?	O	-
+Tell	O	-
+me	O	-
+what	O	-
+you	O	-
+drink	O	-
+,	O	-
+I'm	O	-
+on	O	-
+that	O	-
+kissin'	O	-
+pink	O	-
+
+You	O	-
+could	O	-
+call	O	-
+me	O	-
+Billy	B-PER	North American
+Gates	I-PER	North American
+,	O	-
+got	O	-
+a	O	-
+crib	O	-
+in	O	-
+every	O	-
+state	O	-
+
+Man	O	-
+on	O	-
+the	O	-
+moon	O	-
+,	O	-
+got	O	-
+a	O	-
+condo	O	-
+out	O	-
+in	O	-
+space	O	-
+
+Open	O	-
+up	O	-
+your	O	-
+legs	O	-
+,	O	-
+tell	O	-
+me	O	-
+how	O	-
+it	O	-
+taste	O	-
+
+And	O	-
+them	O	-
+niggas	O	-
+talkin'	O	-
+shit	O	-
+so	O	-
+tell	O	-
+'	O	-
+em	O	-
+,	O	-
+“	O	-
+Tell	O	-
+it	O	-
+to	O	-
+my	O	-
+face	O	-
+”	O	-
+
+Tell	O	-
+that	O	-
+bitch	O	-
+,	O	-
+hop	O	-
+up	O	-
+on	O	-
+my	O	-
+dick	O	-
+,	O	-
+rolled	O	-
+up	O	-
+on	O	-
+her	O	-
+quick	O	-
+
+In	O	-
+a	O	-
+six	O	-
+,	O	-
+told	O	-
+her	O	-
+suck	O	-
+a	O	-
+dick	O	-
+,	O	-
+motorboat	O	-
+her	O	-
+tits	O	-
+
+I'm	O	-
+the	O	-
+shit	O	-
+,	O	-
+niggas	O	-
+mad	O	-
+cause	O	-
+I'm	O	-
+smooth	O	-
+puffin'	O	-
+Zig-Zags	B-MISC	European
+
+Tell	O	-
+'	O	-
+em	O	-
+quit	O	-
+the	O	-
+riff	B-MISC	Non-cultural
+raff	I-MISC	Non-cultural
+bitchin'	O	-
+with	O	-
+your	O	-
+bitch	O	-
+ass	O	-
+
+I	O	-
+said	O	-
+it	O	-
+must	O	-
+be	O	-
+'	O	-
+cause	O	-
+a	O	-
+nigga	O	-
+got	O	-
+dough	B-MISC	North American
+
+Extraordinary	O	-
+swag	B-MISC	North American
+and	O	-
+a	O	-
+mouth	O	-
+full	O	-
+of	O	-
+gold	O	-
+
+Hoes	B-MISC	North American
+at	O	-
+my	O	-
+shows	O	-
+they	O	-
+be	O	-
+strippin'	O	-
+off	O	-
+they	O	-
+clothes	O	-
+
+And	O	-
+them	O	-
+college	O	-
+girls	O	-
+write	O	-
+a	O	-
+nigga	O	-
+name	O	-
+on	O	-
+they	O	-
+toes	O	-
+
+Niggas	O	-
+talk	O	-
+shit	O	-
+'	O	-
+til	O	-
+they	O	-
+get	O	-
+lockjaw	O	-
+
+Chrome	B-MISC	Non-cultural
+to	O	-
+ya	O	-
+dome	O	-
+'	O	-
+til	O	-
+ya	O	-
+get	O	-
+glockjaw	B-MISC	North American
+
+Party	O	-
+like	O	-
+a	O	-
+cowboy	B-MISC	North American
+or	O	-
+a	O	-
+rockstar	B-MISC	North American
+
+Everybody	O	-
+play	O	-
+the	O	-
+tough	O	-
+guy	O	-
+'	O	-
+til	O	-
+shit	O	-
+pop	O	-
+off	O	-
+
+Oh	O	-
+,	O	-
+yeah	O	-
+,	O	-
+oh	O	-
+,	O	-
+right	O	-
+
+Oh	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+
+Oh	O	-
+,	O	-
+yeah	O	-
+,	O	-
+oh	O	-
+,	O	-
+yeah	O	-
+
+Oh	O	-
+,	O	-
+yeah	O	-
+
+Everybody	O	-
+play	O	-
+the	O	-
+tough	O	-
+guy	O	-
+'	O	-
+til	O	-
+shit	O	-
+pop	O	-
+off	O	-
+(	O	-
+Right	O	-
+,	O	-
+right	O	-
+)	O	-
+
+Every	O	-
+day	O	-
+I	O	-
+spend	O	-
+my	O	-
+time	O	-
+
+Drinkin'	O	-
+wine	O	-
+,	O	-
+feelin'	O	-
+fine	O	-
+
+Waitin'	O	-
+here	O	-
+to	O	-
+find	O	-
+the	O	-
+sign	O	-
+
+That	O	-
+I	O	-
+can	O	-
+understand	O	-
+,	O	-
+yes	O	-
+,	O	-
+I	O	-
+am	O	-
+
+So	O	-
+every	O	-
+day	O	-
+I	O	-
+spend	O	-
+my	O	-
+time	O	-
+
+Drinkin'	O	-
+wine	O	-
+,	O	-
+feelin'	O	-
+fine	O	-
+
+Waiting	O	-
+here	O	-
+to	O	-
+find	O	-
+the	O	-
+sign	O	-
+
+That	O	-
+I	O	-
+should	O	-
+take	O	-
+it	O	-
+slow	O	-
+
+Here	O	-
+I	O	-
+go	O	-
+,	O	-
+here	O	-
+I	O	-
+go	O	-
+,	O	-
+here	O	-
+I	O	-
+go	O	-
+
+Off	O	-
+again	O	-
+,	O	-
+there	O	-
+he	O	-
+go	O	-
+,	O	-
+to	O	-
+another	O	-
+dimension	O	-
+,	O	-
+my	O	-
+mind	O	-
+
+Body	O	-
+,	O	-
+soul	O	-
+imprisoned	O	-
+,	O	-
+my	O	-
+eye	O	-
+probably	O	-
+goin'	O	-
+ballistic	O	-
+,	O	-
+but	O	-
+,	O	-
+listen	O	-
+
+I'm	O	-
+missin'	O	-
+a	O	-
+couple	O	-
+of	O	-
+screws	O	-
+,	O	-
+they	O	-
+ain't	O	-
+never	O	-
+do	O	-
+drillin'	O	-
+true	O	-
+
+You	O	-
+been	O	-
+sippin'	O	-
+away	O	-
+at	O	-
+the	O	-
+truth	O	-
+,	O	-
+a	O	-
+double	O	-
+shot	O	-
+of	O	-
+wisdom'll	O	-
+do	O	-
+
+Do	O	-
+,	O	-
+do	O	-
+,	O	-
+rollin'	O	-
+through	O	-
+,	O	-
+hittin'	O	-
+switches	O	-
+
+Rolling	O	-
+ditches	O	-
+,	O	-
+blowin'	O	-
+kisses	O	-
+,	O	-
+to	O	-
+the	O	-
+bitches	O	-
+,	O	-
+holdin'	O	-
+biscuits	O	-
+
+What's	O	-
+the	O	-
+business	O	-
+?	O	-
+Beat	O	-
+the	O	-
+system	O	-
+
+Co-defendants	O	-
+,	O	-
+blow	O	-
+the	O	-
+sentence	O	-
+,	O	-
+go	O	-
+to	O	-
+prison	O	-
+
+Go	O	-
+to	O	-
+church	B-MISC	Non-cultural
+and	O	-
+pray	O	-
+the	B-PER	Non-cultural
+father	I-PER	Non-cultura
+,	O	-
+Lord	B-PER	Non-cultural
+forgive	O	-
+us	O	-
+(	O	-
+Amen	O	-
+)	O	-
+
+And	O	-
+only	O	-
+God	B-PER	Non-cultural
+can	O	-
+judge	O	-
+me	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+And	O	-
+he	O	-
+don't	O	-
+like	O	-
+no	O	-
+ugly	O	-
+
+I	O	-
+look	O	-
+so	O	-
+fuckin'	O	-
+good	O	-
+,	O	-
+most	O	-
+dykes'll	O	-
+fuck	O	-
+me	O	-
+,	O	-
+buddy	O	-
+
+Yeah	O	-
+,	O	-
+I'm	O	-
+a	O	-
+piece	O	-
+of	O	-
+shit	O	-
+,	O	-
+I	O	-
+know	O	-
+I	O	-
+plead	O	-
+the	O	-
+fifth	O	-
+
+I	O	-
+tell	O	-
+her	O	-
+,	O	-
+"	O	-
+Holler	O	-
+if	O	-
+ya	O	-
+need	O	-
+some	O	-
+dick	O	-
+"	O	-
+
+The	O	-
+devotion	O	-
+is	O	-
+gettin'	O	-
+hopeless	O	-
+,	O	-
+but	O	-
+,	O	-
+hold	O	-
+it	O	-
+,	O	-
+I'm	O	-
+gettin'	O	-
+close	O	-
+
+As	O	-
+my	O	-
+soul	O	-
+is	O	-
+,	O	-
+I'm	O	-
+seein'	O	-
+ghosts	O	-
+,	O	-
+a	O	-
+solo	O	-
+is	O	-
+now	O	-
+a	O	-
+poet	O	-
+
+Hypnosis	O	-
+overdose	O	-
+on	O	-
+potions	O	-
+,	O	-
+adjustin'	O	-
+to	O	-
+the	O	-
+motions	O	-
+
+And	O	-
+gettin'	O	-
+out	O	-
+all	O	-
+my	O	-
+emotions	O	-
+
+Every	O	-
+day	O	-
+I	O	-
+spend	O	-
+my	O	-
+time	O	-
+
+Drinkin'	O	-
+wine	O	-
+,	O	-
+feelin'	O	-
+fine	O	-
+
+Waitin'	O	-
+here	O	-
+to	O	-
+find	O	-
+the	O	-
+sign	O	-
+
+That	O	-
+I	O	-
+can	O	-
+understand	O	-
+,	O	-
+yes	O	-
+,	O	-
+I	O	-
+am	O	-
+
+So	O	-
+every	O	-
+day	O	-
+I	O	-
+spend	O	-
+my	O	-
+time	O	-
+
+Drinkin'	O	-
+wine	O	-
+,	O	-
+feelin'	O	-
+fine	O	-
+
+Waiting	O	-
+here	O	-
+to	O	-
+find	O	-
+the	O	-
+sign	O	-
+
+That	O	-
+I	O	-
+should	O	-
+take	O	-
+it	O	-
+slow	O	-
+
+Here	O	-
+I	O	-
+go	O	-
+,	O	-
+here	O	-
+I	O	-
+go	O	-
+,	O	-
+here	O	-
+I	O	-
+go	O	-
+
+Uh	O	-
+,	O	-
+this	O	-
+type	O	-
+of	O	-
+shit	O	-
+
+Make	O	-
+a	O	-
+nigga	O	-
+wanna	O	-
+flip	O	-
+September	O	-
+through	O	-
+August	O	-
+
+This	O	-
+type	O	-
+of	O	-
+shit	O	-
+got	O	-
+'	O	-
+em	O	-
+bustin'	O	-
+out	O	-
+the	O	-
+clip	O	-
+
+In	O	-
+the	O	-
+middle	O	-
+of	O	-
+the	O	-
+office	O	-
+
+And	O	-
+a	O	-
+message	O	-
+to	O	-
+the	O	-
+bosses	O	-
+
+The	O	-
+Misfits'	B-ORG	North American
+new	O	-
+outfit	O	-
+is	O	-
+on	O	-
+the	O	-
+bloglist	O	-
+
+Gorgeous	O	-
+hoes	O	-
+keep	O	-
+on	O	-
+the	O	-
+sayin'	O	-
+that	O	-
+they	O	-
+'	O	-
+caused	O	-
+it	O	-
+
+'	O	-
+Cause	O	-
+the	O	-
+Porsches	B-ORG	European
+get	O	-
+'	O	-
+em	O	-
+nauseous	O	-
+
+Plus	O	-
+I	O	-
+ain't	O	-
+even	O	-
+mad	O	-
+yet	O	-
+,	O	-
+niggas	O	-
+caught	O	-
+me	O	-
+in	O	-
+a	O	-
+good	O	-
+mood	O	-
+
+Paparazzi	B-MISC	European
+wanna	O	-
+nag	O	-
+a	O	-
+nigga	O	-
+chillin'	O	-
+at	O	-
+the	O	-
+bag	O	-
+check	O	-
+
+Hope	O	-
+they	O	-
+show	O	-
+me	O	-
+in	O	-
+my	O	-
+good	O	-
+shoes	O	-
+
+When	O	-
+papa	O	-
+got	O	-
+the	O	-
+brand	O	-
+new	O	-
+bag	O	-
+
+Flacko	B-PER	European
+got	O	-
+the	O	-
+brand	O	-
+new	O	-
+Raf	B-ORG	North American
+,	O	-
+that's	O	-
+good	O	-
+news	O	-
+
+"	O	-
+Hood	O	-
+dudes	O	-
+usually	O	-
+don't	O	-
+look	O	-
+like	O	-
+you	O	-
+"	O	-
+
+How	O	-
+it	O	-
+feel	O	-
+to	O	-
+get	O	-
+a	O	-
+deal	O	-
+and	O	-
+come	O	-
+back	O	-
+
+And	O	-
+the	O	-
+whole	O	-
+hood	O	-
+look	O	-
+like	O	-
+you	O	-
+?	O	-
+
+Screamin'	O	-
+,	O	-
+"	O	-
+Pimp	B-MISC	North American
+Squad	I-MISC	North American
+,	O	-
+hold	O	-
+it	O	-
+down	O	-
+!	O	-
+"	O	-
+
+Can't	O	-
+drive	O	-
+,	O	-
+bitch	O	-
+,	O	-
+I'm	O	-
+legally	O	-
+blind	O	-
+,	O	-
+bitch	O	-
+
+If	O	-
+I	O	-
+live	O	-
+or	O	-
+die	O	-
+,	O	-
+it's	O	-
+up	O	-
+to	O	-
+me	O	-
+to	O	-
+decide	O	-
+
+Shit	O	-
+,	O	-
+niggas	O	-
+coppin'	O	-
+guns	O	-
+like	O	-
+they	O	-
+legal	O	-
+to	O	-
+buy	O	-
+
+The	O	-
+only	O	-
+key	O	-
+to	O	-
+survive	O	-
+and	O	-
+get	O	-
+a	O	-
+piece	O	-
+of	O	-
+the	O	-
+pie	O	-
+
+Is	O	-
+to	O	-
+agree	O	-
+with	O	-
+a	O	-
+lot	O	-
+or	O	-
+just	O	-
+believe	O	-
+a	O	-
+façade	O	-
+,	O	-
+bitch	O	-
+
+And	O	-
+I'll	O	-
+be	O	-
+fine	O	-
+just-a	O	-
+drinkin'	O	-
+my	O	-
+wine	O	-
+,	O	-
+bitch	O	-
+
+I	O	-
+got	O	-
+the	O	-
+love	O	-
+birds	O	-
+chirpin'	O	-
+at	O	-
+the	O	-
+window	O	-
+
+But	O	-
+I	O	-
+don't	O	-
+need	O	-
+love	O	-
+no	O	-
+more	O	-
+
+I'll	O	-
+be	O	-
+fine	O	-
+,	O	-
+sippin'	O	-
+wine	O	-
+
+Takin'	O	-
+time	O	-
+slow	O	-
+
+I	O	-
+got	O	-
+the	O	-
+love	O	-
+birds	O	-
+chirpin'	O	-
+at	O	-
+the	O	-
+window	O	-
+
+But	O	-
+I	O	-
+don't	O	-
+need	O	-
+love	O	-
+no	O	-
+more	O	-
+
+I'll	O	-
+be	O	-
+fine	O	-
+,	O	-
+sippin'	O	-
+wine	O	-
+
+So	O	-
+every	O	-
+day	O	-
+I	O	-
+spend	O	-
+my	O	-
+time	O	-
+
+Drinkin'	O	-
+wine	O	-
+,	O	-
+feelin'	O	-
+fine	O	-
+
+Waiting	O	-
+here	O	-
+to	O	-
+find	O	-
+the	O	-
+sign	O	-
+
+That	O	-
+I	O	-
+can	O	-
+understand	O	-
+,	O	-
+yes	O	-
+,	O	-
+I	O	-
+am	O	-
+
+Every	O	-
+day	O	-
+I	O	-
+spend	O	-
+my	O	-
+time	O	-
+
+Drinkin'	O	-
+wine	O	-
+,	O	-
+feelin'	O	-
+fine	O	-
+
+Waitin'	O	-
+here	O	-
+to	O	-
+find	O	-
+the	O	-
+sign	O	-
+
+I	O	-
+don't	O	-
+care	O	-
+if	O	-
+I	O	-
+ever	O	-
+know	O	-
+
+Here	O	-
+I	O	-
+go	O	-
+,	O	-
+here	O	-
+I	O	-
+go	O	-
+,	O	-
+here	O	-
+I	O	-
+go	O	-
+!	O	-
+
+I	O	-
+got	O	-
+the	O	-
+love	O	-
+birds	O	-
+chirpin'	O	-
+at	O	-
+the	O	-
+window	O	-
+
+But	O	-
+I	O	-
+don't	O	-
+need	O	-
+love	O	-
+no	O	-
+more	O	-
+,	O	-
+oh	O	-
+,	O	-
+no	O	-
+
+I'll	O	-
+be	O	-
+fine	O	-
+,	O	-
+sippin'	O	-
+wine	O	-
+
+Takin'	O	-
+time	O	-
+slow	O	-
+
+I	O	-
+got	O	-
+the	O	-
+love	O	-
+birds	O	-
+chirpin'	O	-
+at	O	-
+the	O	-
+window	O	-
+
+But	O	-
+I	O	-
+don't	O	-
+need	O	-
+love	O	-
+no	O	-
+more	O	-
+,	O	-
+oh	O	-
+,	O	-
+no	O	-
+
+I'll	O	-
+be	O	-
+fine	O	-
+,	O	-
+sippin'	O	-
+wine	O	-
+
+Takin'	O	-
+time	O	-
+slow	O	-
+
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+
+I'm	O	-
+so	O	-
+high	O	-
+,	O	-
+man	O	-
+,	O	-
+I	O	-
+can't	O	-
+even	O	-
+feel	O	-
+shit	O	-
+
+I	O	-
+told	O	-
+my	O	-
+boy	O	-
+,	O	-
+"	O	-
+Go	O	-
+roll	O	-
+like	O	-
+ten	O	-
+blunts	B-MISC	North American
+for	O	-
+me	O	-
+"	O	-
+(	O	-
+What	O	-
+?	O	-
+Roll	O	-
+ten	O	-
+,	O	-
+what	O	-
+?	O	-
+)	O	-
+
+I	O	-
+told	O	-
+my	O	-
+boy	O	-
+,	O	-
+"	O	-
+Go	O	-
+roll	O	-
+like	O	-
+ten	O	-
+blunts	B-MISC	North American
+for	O	-
+me	O	-
+"	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+Roll	O	-
+ten	O	-
+)	O	-
+
+I'm	O	-
+tryna	O	-
+get	O	-
+high	O	-
+'	O	-
+til	O	-
+I	O	-
+can't	O	-
+feel	O	-
+nothin'	O	-
+(	O	-
+Woah	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+I'm	O	-
+tryna	O	-
+get	O	-
+high	O	-
+'	O	-
+til	O	-
+I	O	-
+can't	O	-
+feel	O	-
+nothin'	O	-
+(	O	-
+Woah	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+Let's	O	-
+go	O	-
+)	O	-
+
+I	O	-
+could	O	-
+fall	O	-
+out	O	-
+the	O	-
+sky	O	-
+and	O	-
+I	O	-
+still	O	-
+won't	O	-
+feel	O	-
+nothin'	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+Slatt	B-MISC	North American
+,	O	-
+slatt	B-MISC	North American
+)	O	-
+
+I	O	-
+could	O	-
+fall	O	-
+out	O	-
+the	O	-
+sky	O	-
+and	O	-
+I	O	-
+still	O	-
+won't	O	-
+feel	O	-
+nothin'	O	-
+(	O	-
+Woah	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+what	O	-
+?	O	-
+)	O	-
+,	O	-
+woah	O	-
+(	O	-
+High	O	-
+)	O	-
+,	O	-
+woah	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+what	O	-
+?	O	-
+)	O	-
+,	O	-
+woah	O	-
+,	O	-
+woah	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+what	O	-
+?	O	-
+)	O	-
+,	O	-
+woah	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+,	O	-
+woah	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+,	O	-
+woah	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+,	O	-
+woah	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+woah	O	-
+)	O	-
+
+Wake	O	-
+up	O	-
+(	O	-
+Wake	O	-
+up	O	-
+,	O	-
+wake	O	-
+up	O	-
+,	O	-
+woah	O	-
+)	O	-
+
+It's	O	-
+the	O	-
+first	O	-
+of	O	-
+the	O	-
+month	O	-
+(	O	-
+Slatt	B-MISC	North American
+,	O	-
+slatt	B-MISC	North American
+,	O	-
+slatt	B-MISC	North American
+,	O	-
+slatt	B-MISC	North American
+)	O	-
+
+I	O	-
+brush	O	-
+my	O	-
+teeth	O	-
+and	O	-
+count	O	-
+up	O	-
+(	O	-
+What	O	-
+?	O	-
+Slatt	B-MISC	North American
+,	O	-
+slatt	B-MISC	North American
+,	O	-
+slatt	B-MISC	North American
+,	O	-
+slatt	B-MISC	North American
+,	O	-
+woah	O	-
+)	O	-
+
+I	O	-
+let	O	-
+my	O	-
+bitch	O	-
+roll	O	-
+my	O	-
+blunt	O	-
+(	O	-
+Woah	O	-
+,	O	-
+slatt	B-MISC	North American
+,	O	-
+slatt	B-MISC	North American
+)	O	-
+
+I'm	O	-
+'	O	-
+bout	O	-
+to	O	-
+dirty	O	-
+my	O	-
+cup	O	-
+(	O	-
+Woah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+bitch	O	-
+,	O	-
+woah	O	-
+,	O	-
+woah	O	-
+,	O	-
+what	O	-
+?	O	-
+)	O	-
+
+Pour	O	-
+up	O	-
+some	O	-
+lean	B-MISC	North American
+and	O	-
+get	O	-
+stuck	O	-
+(	O	-
+Pour	O	-
+it	O	-
+up	O	-
+,	O	-
+pour	O	-
+it	O	-
+up	O	-
+,	O	-
+pour	O	-
+it	O	-
+up	O	-
+,	O	-
+what	O	-
+?	O	-
+)	O	-
+
+I	O	-
+make	O	-
+her	O	-
+scream	O	-
+when	O	-
+we	O	-
+fuck	O	-
+(	O	-
+Slatt	B-MISC	North American
+,	O	-
+scrеam	O	-
+,	O	-
+suck	O	-
+it	O	-
+)	O	-
+
+I	O	-
+don't	O	-
+drive	O	-
+R8s	B-ORG	European
+,	O	-
+I	O	-
+don't	O	-
+like	O	-
+those	O	-
+(	O	-
+Woah	O	-
+,	O	-
+huh	O	-
+,	O	-
+chop	O	-
+it	O	-
+and	O	-
+slidе	O	-
+)	O	-
+
+I	O	-
+drive	O	-
+the	O	-
+Daytona	B-ORG	European
+and	O	-
+I	O	-
+tinted	O	-
+the	O	-
+windows	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+skrrt	O	-
+)	O	-
+
+Can't	O	-
+fuck	O	-
+with	O	-
+nobody	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+not	O	-
+even	O	-
+my	O	-
+shadow	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+no	O	-
+one	O	-
+)	O	-
+
+I	O	-
+got	O	-
+on	O	-
+Ed	B-ORG	North American
+Hardy	I-ORG	North American
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+she	O	-
+got	O	-
+on	O	-
+stilettos	B-MISC	European
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+She	O	-
+my	O	-
+best	O	-
+friend	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+yeah	O	-
+,	O	-
+we	O	-
+not	O	-
+a	O	-
+couple	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+She	O	-
+a	O	-
+rockstar	B-MISC	North American
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+she	O	-
+a	O	-
+sex	B-MISC	Non-cultural
+symbol	I-MISC	Non-cultural
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+Let's	O	-
+go	O	-
+)	O	-
+
+The	O	-
+way	O	-
+she	O	-
+do	O	-
+that	O	-
+shit	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+she	O	-
+make	O	-
+it	O	-
+look	O	-
+simple	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+The	O	-
+way	O	-
+she	O	-
+do	O	-
+that	O	-
+shit	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+she	O	-
+make	O	-
+it	O	-
+look	O	-
+simple	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Baby	O	-
+,	O	-
+tell	O	-
+me	O	-
+what	O	-
+you	O	-
+wanna	O	-
+do	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+what	O	-
+?	O	-
+Wanna	O	-
+do	O	-
+)	O	-
+
+Baby	O	-
+,	O	-
+tell	O	-
+me	O	-
+everybody	O	-
+you	O	-
+screw	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+who	O	-
+?	O	-
+Who	O	-
+?	O	-
+Yeah	O	-
+)	O	-
+
+Tell	O	-
+me	O	-
+everybody	O	-
+you	O	-
+took	O	-
+to	O	-
+this	O	-
+room	O	-
+(	O	-
+Who	O	-
+?	O	-
+Who	O	-
+?	O	-
+Who	O	-
+?	O	-
+)	O	-
+
+I	O	-
+gotta	O	-
+know	O	-
+who	O	-
+you	O	-
+fuck	O	-
+,	O	-
+fucked	O	-
+in	O	-
+this	O	-
+room	O	-
+(	O	-
+Baby	O	-
+,	O	-
+who	O	-
+?	O	-
+Who	O	-
+?	O	-
+)	O	-
+
+I	O	-
+gotta	O	-
+know	O	-
+who	O	-
+you	O	-
+fucked	O	-
+in	O	-
+this	O	-
+room	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+who	O	-
+?	O	-
+Who	O	-
+?	O	-
+Who	O	-
+?	O	-
+)	O	-
+
+I	O	-
+gotta	O	-
+know	O	-
+who	O	-
+you	O	-
+fucked	O	-
+in	O	-
+this	O	-
+room	O	-
+(	O	-
+Bih'	O	-
+,	O	-
+who	O	-
+?	O	-
+)	O	-
+
+Can't	O	-
+trust	O	-
+no	O	-
+bitch	O	-
+(	O	-
+What	O	-
+?	O	-
+Bih'	O	-
+,	O	-
+bih'	O	-
+)	O	-
+,	O	-
+can't	O	-
+trust	O	-
+these	O	-
+niggas	O	-
+(	O	-
+Bih	O	-
+,	O	-
+bih'	O	-
+)	O	-
+
+Yeah	O	-
+,	O	-
+in	O	-
+love	O	-
+with	O	-
+my	O	-
+money	O	-
+(	O	-
+What	O	-
+?	O	-
+In	O	-
+love	O	-
+with	O	-
+my	O	-
+money	O	-
+)	O	-
+,	O	-
+in	O	-
+love	O	-
+with	O	-
+my	O	-
+pistols	O	-
+(	O	-
+In	O	-
+love	O	-
+with	O	-
+that	O	-
+pistol	O	-
+)	O	-
+
+In	O	-
+love	O	-
+with	O	-
+my	O	-
+bitch	O	-
+(	O	-
+Love	O	-
+with	O	-
+my	O	-
+bitch	O	-
+)	O	-
+,	O	-
+I	O	-
+think	O	-
+she	O	-
+my	O	-
+bitch	O	-
+(	O	-
+I	O	-
+think	O	-
+she	O	-
+my	O	-
+bitch	O	-
+)	O	-
+
+I	O	-
+know	O	-
+she	O	-
+suck	O	-
+dick	O	-
+(	O	-
+I	O	-
+know	O	-
+she	O	-
+suck	O	-
+dick	O	-
+,	O	-
+blatt	O	-
+)	O	-
+,	O	-
+I	O	-
+know	O	-
+she	O	-
+not	O	-
+shit	O	-
+(	O	-
+I	O	-
+know	O	-
+she	O	-
+not	O	-
+shit	O	-
+,	O	-
+huh	O	-
+,	O	-
+huh	O	-
+)	O	-
+
+I	O	-
+been	O	-
+thinkin'	O	-
+'	O	-
+bout	O	-
+it	O	-
+(	O	-
+Been	O	-
+thinkin'	O	-
+'	O	-
+bout	O	-
+it	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+,	O	-
+finna	O	-
+cut	O	-
+off	O	-
+that	O	-
+bitch	O	-
+(	O	-
+Finna	O	-
+cut	O	-
+off	O	-
+that	O	-
+bitch	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+She	O	-
+don't	O	-
+cook	O	-
+,	O	-
+she	O	-
+don't	O	-
+clean	O	-
+(	O	-
+Damn	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+but	O	-
+she	O	-
+want	O	-
+Ruth	B-ORG	North American
+Chris	I-ORG	North American
+(	O	-
+Slatt	O	-
+,	O	-
+slatt	O	-
+)	O	-
+
+I	O	-
+don't	O	-
+even	O	-
+like	O	-
+to	O	-
+hug	O	-
+(	O	-
+To	O	-
+hug	O	-
+,	O	-
+hug	O	-
+)	O	-
+,	O	-
+I	O	-
+don't	O	-
+even	O	-
+like	O	-
+to	O	-
+kiss	O	-
+(	O	-
+Slatt	O	-
+,	O	-
+slatt	O	-
+)	O	-
+
+I	O	-
+just	O	-
+pat	O	-
+her	O	-
+on	O	-
+the	O	-
+ass	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+and	O	-
+tell	O	-
+her	O	-
+,	O	-
+"	O	-
+Good	O	-
+shit	O	-
+"	O	-
+(	O	-
+Slatt	O	-
+,	O	-
+what	O	-
+?	O	-
+)	O	-
+
+I	O	-
+just	O	-
+walked	O	-
+in	O	-
+my	O	-
+pad	O	-
+(	O	-
+Slatt	O	-
+)	O	-
+,	O	-
+paparazzi	B-MISC	European
+at	O	-
+the	O	-
+fence	O	-
+(	O	-
+Slatt	O	-
+)	O	-
+
+I'm	O	-
+'	O	-
+bout	O	-
+to	O	-
+pour	O	-
+up	O	-
+some	B-MISC	North American
+red	I-MISC	European
+(	I-MISC	North American
+Red	O	-
+)	O	-
+
+And	O	-
+shawty	O	-
+gon'	O	-
+roll	O	-
+up	O	-
+some	O	-
+shit	O	-
+(	O	-
+What	O	-
+?	O	-
+Slatt	B-MISC	North American
+,	O	-
+slatt	B-MISC	North American
+,	O	-
+and	O	-
+shawty	O	-
+gon'	O	-
+)	O	-
+
+And	O	-
+shawty	O	-
+gon'	O	-
+roll	O	-
+up	O	-
+some	O	-
+shit	O	-
+(	O	-
+Slatt	B-MISC	North American
+)	O	-
+
+I'm	O	-
+'	O	-
+bout	O	-
+to	O	-
+pour	O	-
+up	O	-
+some	B-MISC	North American
+red	I-MISC	European
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+,	O	-
+and	O	-
+shawty	O	-
+gon'	O	-
+roll	O	-
+up	O	-
+some	O	-
+shit	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+I	O	-
+told	O	-
+my	O	-
+boy	O	-
+,	O	-
+"	O	-
+Go	O	-
+roll	O	-
+like	O	-
+ten	O	-
+blunts	B-MISC	North American
+for	O	-
+me	O	-
+"	O	-
+(	O	-
+Alright	O	-
+,	O	-
+what	O	-
+?	O	-
+)	O	-
+
+I	O	-
+told	O	-
+my	O	-
+boy	O	-
+,	O	-
+"	O	-
+Go	O	-
+roll	O	-
+like	O	-
+ten	O	-
+blunts	B-MISC	North American
+for	O	-
+me	O	-
+"	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+I'm	O	-
+tryna	O	-
+get	O	-
+high	O	-
+'	O	-
+til	O	-
+I	O	-
+can't	O	-
+feel	O	-
+nothin'	O	-
+(	O	-
+Woah	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+I'm	O	-
+tryna	O	-
+get	O	-
+high	O	-
+'	O	-
+til	O	-
+I	O	-
+can't	O	-
+feel	O	-
+nothin'	O	-
+(	O	-
+Woah	O	-
+,	O	-
+what	O	-
+?	O	-
+What	O	-
+?	O	-
+Slatt	O	-
+)	O	-
+
+I	O	-
+could	O	-
+fall	O	-
+out	O	-
+the	O	-
+sky	O	-
+and	O	-
+I	O	-
+still	O	-
+won't	O	-
+feel	O	-
+nothin'	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+Slatt	O	-
+,	O	-
+slatt	O	-
+)	O	-
+
+I	O	-
+could	O	-
+fall	O	-
+out	O	-
+the	O	-
+sky	O	-
+and	O	-
+I	O	-
+still	O	-
+won't	O	-
+feel	O	-
+nothin'	O	-
+(	O	-
+Woah	O	-
+,	O	-
+what	O	-
+?	O	-
+Slatt	O	-
+,	O	-
+slatt	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+what	O	-
+?	O	-
+)	O	-
+,	O	-
+woah	O	-
+(	O	-
+Blatt	O	-
+)	O	-
+,	O	-
+woah	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+woah	O	-
+)	O	-
+,	O	-
+woah	O	-
+,	O	-
+woah	O	-
+,	O	-
+woah	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+woah	O	-
+)	O	-
+,	O	-
+woah	O	-
+,	O	-
+woah	O	-
+,	O	-
+woah	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+huh	O	-
+?	O	-
+)	O	-
+,	O	-
+woah	O	-
+,	O	-
+woah	O	-
+,	O	-
+woah	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+I'm	O	-
+way	O	-
+too	O	-
+high	O	-
+(	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+)	O	-
+
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+What	O	-
+?	O	-
+
+I'm	O	-
+so	O	-
+high	O	-
+,	O	-
+man	O	-
+,	O	-
+I	O	-
+can't	O	-
+even	O	-
+feel	O	-
+shit	O	-

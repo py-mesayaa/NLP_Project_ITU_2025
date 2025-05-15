@@ -1,0 +1,5963 @@
+You	O	-
+know	O	-
+I	O	-
+adore	O	-
+you	O	-
+,	O	-
+I	O	-
+'m	O	-
+crazier	O	-
+for	O	-
+you	O	-
+
+Than	O	-
+I	O	-
+was	O	-
+at	O	-
+16	O	-
+,	O	-
+lost	O	-
+in	O	-
+a	O	-
+film	O	-
+scene	O	-
+
+Waving	O	-
+homecoming	O	-
+queens	O	-
+,	O	-
+marching	O	-
+band	O	-
+playing	O	-
+
+I	O	-
+'m	O	-
+lost	O	-
+in	O	-
+the	O	-
+lights	O	-
+
+American	O	-
+glory	O	-
+faded	O	-
+before	O	-
+me	O	-
+
+Now	O	-
+I	O	-
+'m	O	-
+feeling	O	-
+hopeless	O	-
+,	O	-
+ripped	O	-
+up	O	-
+my	O	-
+prom	O	-
+dress	O	-
+
+Running	O	-
+through	O	-
+rose	O	-
+thorns	O	-
+,	O	-
+I	O	-
+saw	O	-
+the	O	-
+scoreboard	O	-
+
+And	O	-
+ran	O	-
+for	O	-
+my	O	-
+life	O	-
+(	O	-
+Ah	O	-
+)	O	-
+
+No	O	-
+cameras	O	-
+catch	O	-
+my	O	-
+pageant	O	-
+smile	O	-
+
+I	O	-
+counted	O	-
+days	O	-
+,	O	-
+I	O	-
+counted	O	-
+miles	O	-
+
+To	O	-
+see	O	-
+you	O	-
+there	O	-
+,	O	-
+to	O	-
+see	O	-
+you	O	-
+there	O	-
+
+It	O	-
+'s	O	-
+been	O	-
+a	O	-
+long	O	-
+time	O	-
+coming	O	-
+,	O	-
+but	O	-
+
+It	O	-
+'s	O	-
+you	O	-
+and	O	-
+me	O	-
+,	O	-
+that	O	-
+'s	O	-
+my	O	-
+whole	O	-
+world	O	-
+
+They	O	-
+whisper	O	-
+in	O	-
+the	O	-
+hallway	O	-
+,	O	-
+"	O	-
+She	O	-
+'s	O	-
+a	O	-
+bad	O	-
+,	O	-
+bad	O	-
+girl	O	-
+"	O	-
+(	O	-
+Okay	O	-
+)	O	-
+
+The	O	-
+whole	O	-
+school	O	-
+is	O	-
+rolling	O	-
+fake	O	-
+dice	O	-
+
+You	O	-
+play	O	-
+stupid	O	-
+games	O	-
+,	O	-
+you	O	-
+win	O	-
+stupid	O	-
+prizes	O	-
+
+It	O	-
+'s	O	-
+you	O	-
+and	O	-
+me	O	-
+,	O	-
+there	O	-
+'s	O	-
+nothing	O	-
+like	O	-
+this	O	-
+
+Miss	B-PER	North American
+Americana	I-PER	North American
+and	O	-
+The	B-PER	North American
+Heartbreak	I-PER	North American
+Prince	I-PER	North American
+(	O	-
+Okay	O	-
+)	O	-
+
+We	O	-
+'re	O	-
+so	O	-
+sad	O	-
+,	O	-
+we	O	-
+paint	O	-
+the	O	-
+town	O	-
+blue	O	-
+
+Voted	O	-
+most	O	-
+likely	O	-
+to	O	-
+run	O	-
+away	O	-
+with	O	-
+you	O	-
+
+My	O	-
+team	O	-
+is	O	-
+losing	O	-
+,	O	-
+battered	O	-
+and	O	-
+bruising	O	-
+
+I	O	-
+see	O	-
+the	O	-
+high	O	-
+fives	O	-
+between	O	-
+the	O	-
+bad	O	-
+guys	O	-
+
+Leave	O	-
+with	O	-
+my	O	-
+head	O	-
+hung	O	-
+,	O	-
+you	O	-
+are	O	-
+the	O	-
+only	O	-
+one	O	-
+
+Who	O	-
+seems	O	-
+to	O	-
+care	O	-
+
+American	O	-
+stories	O	-
+burning	O	-
+before	O	-
+me	O	-
+
+I	O	-
+'m	O	-
+feeling	O	-
+helpless	O	-
+,	O	-
+the	O	-
+damsels	O	-
+are	O	-
+depressed	O	-
+
+Boys	O	-
+will	O	-
+be	O	-
+boys	O	-
+then	O	-
+,	O	-
+where	O	-
+are	O	-
+the	O	-
+wise	O	-
+men	O	-
+?	O	-
+
+Darling	O	-
+,	O	-
+I	O	-
+'m	O	-
+scared	O	-
+(	O	-
+Ah	O	-
+)	O	-
+
+No	O	-
+cameras	O	-
+catch	O	-
+my	O	-
+muffled	O	-
+cries	O	-
+
+I	O	-
+counted	O	-
+days	O	-
+,	O	-
+I	O	-
+counted	O	-
+miles	O	-
+
+To	O	-
+see	O	-
+you	O	-
+there	O	-
+,	O	-
+to	O	-
+see	O	-
+you	O	-
+there	O	-
+
+And	O	-
+now	O	-
+the	O	-
+storm	O	-
+is	O	-
+coming	O	-
+,	O	-
+but	O	-
+
+It	O	-
+'s	O	-
+you	O	-
+and	O	-
+me	O	-
+,	O	-
+that	O	-
+'s	O	-
+my	O	-
+whole	O	-
+world	O	-
+
+They	O	-
+whisper	O	-
+in	O	-
+the	O	-
+hallway	O	-
+,	O	-
+"	O	-
+She	O	-
+'s	O	-
+a	O	-
+bad	O	-
+,	O	-
+bad	O	-
+girl	O	-
+"	O	-
+(	O	-
+Okay	O	-
+)	O	-
+
+The	O	-
+whole	O	-
+school	O	-
+is	O	-
+rolling	O	-
+fake	O	-
+dice	O	-
+
+You	O	-
+play	O	-
+stupid	O	-
+games	O	-
+,	O	-
+you	O	-
+win	O	-
+stupid	O	-
+prizes	O	-
+
+It	O	-
+'s	O	-
+you	O	-
+and	O	-
+me	O	-
+,	O	-
+there	O	-
+'s	O	-
+nothing	O	-
+like	O	-
+this	O	-
+
+Miss	B-PER	North American
+Americana	I-PER	North American
+and	O	-
+The	B-PER	North American
+Heartbreak	I-PER	North American
+Prince	I-PER	North American
+(	O	-
+Okay	O	-
+)	O	-
+
+We	O	-
+'re	O	-
+so	O	-
+sad	O	-
+,	O	-
+we	O	-
+paint	O	-
+the	O	-
+town	O	-
+blue	O	-
+
+Voted	O	-
+most	O	-
+likely	O	-
+to	O	-
+run	O	-
+away	O	-
+with	O	-
+you	O	-
+
+And	O	-
+I	O	-
+do	O	-
+n't	O	-
+want	O	-
+you	O	-
+to	O	-
+(	O	-
+Go	O	-
+)	O	-
+,	O	-
+I	O	-
+do	O	-
+n't	O	-
+really	O	-
+wan	O	-
+na	O	-
+(	O	-
+Fight	O	-
+)	O	-
+
+'	O	-
+Cause	O	-
+nobody	O	-
+'s	O	-
+gon	O	-
+na	O	-
+(	O	-
+Win	O	-
+)	O	-
+,	O	-
+I	O	-
+think	O	-
+you	O	-
+should	O	-
+come	O	-
+home	O	-
+
+And	O	-
+I	O	-
+do	O	-
+n't	O	-
+want	O	-
+you	O	-
+to	O	-
+(	O	-
+Go	O	-
+)	O	-
+,	O	-
+I	O	-
+do	O	-
+n't	O	-
+really	O	-
+wan	O	-
+na	O	-
+(	O	-
+Fight	O	-
+)	O	-
+
+'	O	-
+Cause	O	-
+nobody	O	-
+'s	O	-
+gon	O	-
+na	O	-
+(	O	-
+Win	O	-
+)	O	-
+,	O	-
+I	O	-
+think	O	-
+you	O	-
+should	O	-
+come	O	-
+home	O	-
+
+And	O	-
+I	O	-
+do	O	-
+n't	O	-
+want	O	-
+you	O	-
+to	O	-
+(	O	-
+Go	O	-
+)	O	-
+,	O	-
+I	O	-
+do	O	-
+n't	O	-
+really	O	-
+wan	O	-
+na	O	-
+(	O	-
+Fight	O	-
+)	O	-
+
+'	O	-
+Cause	O	-
+nobody	O	-
+'s	O	-
+gon	O	-
+na	O	-
+(	O	-
+Win	O	-
+)	O	-
+,	O	-
+just	O	-
+thought	O	-
+you	O	-
+should	O	-
+know	O	-
+
+And	O	-
+I	O	-
+'ll	O	-
+never	O	-
+let	O	-
+you	O	-
+(	O	-
+Go	O	-
+)	O	-
+'	O	-
+cause	O	-
+I	O	-
+know	O	-
+this	O	-
+is	O	-
+a	O	-
+(	O	-
+Fight	O	-
+)	O	-
+
+That	O	-
+someday	O	-
+we	O	-
+'re	O	-
+gon	O	-
+na	O	-
+(	O	-
+Win	O	-
+)	O	-
+
+It	O	-
+'s	O	-
+you	O	-
+and	O	-
+me	O	-
+,	O	-
+that	O	-
+'s	O	-
+my	O	-
+whole	O	-
+world	O	-
+
+They	O	-
+whisper	O	-
+in	O	-
+the	O	-
+hallway	O	-
+,	O	-
+"	O	-
+She	O	-
+'s	O	-
+a	O	-
+bad	O	-
+,	O	-
+bad	O	-
+girl	O	-
+"	O	-
+
+Oh	O	-
+,	O	-
+I	O	-
+just	O	-
+thought	O	-
+you	O	-
+should	O	-
+know	O	-
+(	O	-
+You	O	-
+should	O	-
+know	O	-
+)	O	-
+
+It	O	-
+'s	O	-
+you	O	-
+and	O	-
+me	O	-
+,	O	-
+there	O	-
+'s	O	-
+nothing	O	-
+like	O	-
+this	O	-
+(	O	-
+Like	O	-
+this	O	-
+)	O	-
+
+Miss	B-PER	North American
+Americana	I-PER	North American
+and	O	-
+The	B-PER	North American
+Heartbreak	I-PER	North American
+Prince	I-PER	North American
+(	O	-
+Okay	O	-
+)	O	-
+
+We	O	-
+'re	O	-
+so	O	-
+sad	O	-
+,	O	-
+we	O	-
+paint	O	-
+the	O	-
+town	O	-
+blue	O	-
+(	O	-
+Paint	O	-
+it	O	-
+blue	O	-
+)	O	-
+
+Voted	O	-
+most	O	-
+likely	O	-
+to	O	-
+run	O	-
+away	O	-
+with	O	-
+you	O	-
+
+And	O	-
+I	O	-
+do	O	-
+n't	O	-
+want	O	-
+you	O	-
+to	O	-
+(	O	-
+Go	O	-
+)	O	-
+,	O	-
+I	O	-
+do	O	-
+n't	O	-
+really	O	-
+wan	O	-
+na	O	-
+(	O	-
+Fight	O	-
+)	O	-
+
+'	O	-
+Cause	O	-
+nobody	O	-
+'s	O	-
+gon	O	-
+na	O	-
+(	O	-
+Win	O	-
+)	O	-
+,	O	-
+I	O	-
+think	O	-
+you	O	-
+should	O	-
+come	O	-
+home	O	-
+
+And	O	-
+I	O	-
+'ll	O	-
+never	O	-
+let	O	-
+you	O	-
+(	O	-
+Go	O	-
+)	O	-
+'	O	-
+cause	O	-
+I	O	-
+know	O	-
+this	O	-
+is	O	-
+a	O	-
+(	O	-
+Fight	O	-
+)	O	-
+
+That	O	-
+someday	O	-
+we	O	-
+'re	O	-
+gon	O	-
+na	O	-
+(	O	-
+Win	O	-
+)	O	-
+,	O	-
+just	O	-
+thought	O	-
+you	O	-
+should	O	-
+know	O	-
+
+It	O	-
+'s	O	-
+you	O	-
+and	O	-
+me	O	-
+,	O	-
+that	O	-
+'s	O	-
+my	O	-
+whole	O	-
+world	O	-
+
+They	O	-
+whisper	O	-
+in	O	-
+the	O	-
+hallway	O	-
+,	O	-
+"	O	-
+She	O	-
+'s	O	-
+a	O	-
+bad	O	-
+,	O	-
+bad	O	-
+girl	O	-
+"	O	-
+
+"	O	-
+She	O	-
+'s	O	-
+a	O	-
+bad	O	-
+,	O	-
+bad	O	-
+girl	O	-
+"	O	-
+
+Nice	O	-
+to	O	-
+meet	O	-
+you	O	-
+,	O	-
+where	O	-
+you	O	-
+been	O	-
+?	O	-
+
+I	O	-
+could	O	-
+show	O	-
+you	O	-
+incredible	O	-
+things	O	-
+
+Magic	O	-
+,	O	-
+madness	O	-
+,	O	-
+heaven	O	-
+,	O	-
+sin	O	-
+
+Saw	O	-
+you	O	-
+there	O	-
+,	O	-
+and	O	-
+I	O	-
+thought	O	-
+
+"	O	-
+Oh	O	-
+my	O	-
+God	B-MISC	Non-cultural
+,	O	-
+look	O	-
+at	O	-
+that	O	-
+face	O	-
+
+You	O	-
+look	O	-
+like	O	-
+my	O	-
+next	O	-
+mistake	O	-
+
+Love	O	-
+'s	O	-
+a	O	-
+game	O	-
+,	O	-
+wan	O	-
+na	O	-
+play	O	-
+?	O	-
+"	O	-
+
+Ayy	O	-
+
+New	O	-
+money	O	-
+,	O	-
+suit	O	-
+and	O	-
+tie	O	-
+
+I	O	-
+can	O	-
+read	O	-
+you	O	-
+like	O	-
+a	O	-
+magazine	O	-
+
+Ai	O	-
+n't	O	-
+it	O	-
+funny	O	-
+?	O	-
+Rumors	O	-
+fly	O	-
+
+And	O	-
+I	O	-
+know	O	-
+you	O	-
+heard	O	-
+about	O	-
+me	O	-
+
+So	O	-
+hey	O	-
+,	O	-
+let	O	-
+'s	O	-
+be	O	-
+friends	O	-
+
+I	O	-
+'m	O	-
+dyin	O	-
+'	O	-
+to	O	-
+see	O	-
+how	O	-
+this	O	-
+one	O	-
+ends	O	-
+
+Grab	O	-
+your	O	-
+passport	O	-
+and	O	-
+my	O	-
+hand	O	-
+
+I	O	-
+can	O	-
+make	O	-
+the	O	-
+bad	O	-
+guys	O	-
+good	O	-
+for	O	-
+a	O	-
+weekend	O	-
+
+So	O	-
+it	O	-
+'s	O	-
+gon	O	-
+na	O	-
+be	O	-
+forever	O	-
+
+Or	O	-
+it	O	-
+'s	O	-
+gon	O	-
+na	O	-
+go	O	-
+down	O	-
+in	O	-
+flames	O	-
+
+You	O	-
+can	O	-
+tell	O	-
+me	O	-
+when	O	-
+it	O	-
+'s	O	-
+over	O	-
+,	O	-
+mm	O	-
+
+If	O	-
+the	O	-
+high	O	-
+was	O	-
+worth	O	-
+the	O	-
+pain	O	-
+
+Got	O	-
+a	O	-
+long	O	-
+list	O	-
+of	O	-
+ex-lovers	O	-
+
+They	O	-
+'ll	O	-
+tell	O	-
+you	O	-
+I	O	-
+'m	O	-
+insane	O	-
+
+'	O	-
+Cause	O	-
+you	O	-
+know	O	-
+I	O	-
+love	O	-
+the	O	-
+players	O	-
+
+And	O	-
+you	O	-
+love	O	-
+the	O	-
+game	O	-
+
+'	O	-
+Cause	O	-
+we	O	-
+'re	O	-
+young	O	-
+and	O	-
+we	O	-
+'re	O	-
+reckless	O	-
+
+We	O	-
+'ll	O	-
+take	O	-
+this	O	-
+way	O	-
+too	O	-
+far	O	-
+
+It	O	-
+'ll	O	-
+leave	O	-
+you	O	-
+breathless	O	-
+,	O	-
+hmm	O	-
+
+Or	O	-
+with	O	-
+a	O	-
+nasty	O	-
+scar	O	-
+
+Got	O	-
+a	O	-
+long	O	-
+list	O	-
+of	O	-
+ex-lovers	O	-
+
+They	O	-
+'ll	O	-
+tell	O	-
+you	O	-
+I	O	-
+'m	O	-
+insane	O	-
+
+But	O	-
+I	O	-
+'ve	O	-
+got	O	-
+a	O	-
+blank	O	-
+space	O	-
+,	O	-
+baby	O	-
+
+And	O	-
+I	O	-
+'ll	O	-
+write	O	-
+your	O	-
+name	O	-
+
+Cherry	O	-
+lips	O	-
+,	O	-
+crystal	O	-
+skies	O	-
+
+I	O	-
+could	O	-
+show	O	-
+you	O	-
+incredible	O	-
+things	O	-
+
+Stolen	O	-
+kisses	O	-
+,	O	-
+pretty	O	-
+lies	O	-
+
+You	O	-
+'re	O	-
+the	O	-
+King	B-PER	Non-cultural
+,	O	-
+baby	O	-
+,	O	-
+I	O	-
+'m	O	-
+your	O	-
+Queen	B-PER	Non-cultural
+
+Find	O	-
+out	O	-
+what	O	-
+you	O	-
+want	O	-
+
+Be	O	-
+that	O	-
+girl	O	-
+for	O	-
+a	O	-
+month	O	-
+
+Wait	O	-
+,	O	-
+the	O	-
+worst	O	-
+is	O	-
+yet	O	-
+to	O	-
+come	O	-
+
+Oh	O	-
+,	O	-
+no	O	-
+
+Screaming	O	-
+,	O	-
+crying	O	-
+,	O	-
+perfect	O	-
+storms	O	-
+
+I	O	-
+can	O	-
+make	O	-
+all	O	-
+the	O	-
+tables	O	-
+turn	O	-
+
+Rose	O	-
+garden	O	-
+filled	O	-
+with	O	-
+thorns	O	-
+
+Keep	O	-
+you	O	-
+second	O	-
+guessin	O	-
+'	O	-
+like	O	-
+
+"	O	-
+Oh	O	-
+my	O	-
+God	B-MISC	Non-cultural
+,	O	-
+who	O	-
+is	O	-
+she	O	-
+?	O	-
+"	O	-
+
+I	O	-
+get	O	-
+drunk	O	-
+on	O	-
+jealousy	O	-
+
+But	O	-
+you	O	-
+'ll	O	-
+come	O	-
+back	O	-
+each	O	-
+time	O	-
+you	O	-
+leave	O	-
+
+'	O	-
+Cause	O	-
+,	O	-
+darling	O	-
+,	O	-
+I	O	-
+'m	O	-
+a	O	-
+nightmare	O	-
+dressed	O	-
+like	O	-
+a	O	-
+daydream	O	-
+
+So	O	-
+it	O	-
+'s	O	-
+gon	O	-
+na	O	-
+be	O	-
+forever	O	-
+
+Or	O	-
+it	O	-
+'s	O	-
+gon	O	-
+na	O	-
+go	O	-
+down	O	-
+in	O	-
+flames	O	-
+
+You	O	-
+can	O	-
+tell	O	-
+me	O	-
+when	O	-
+it	O	-
+'s	O	-
+over	O	-
+,	O	-
+mm	O	-
+
+If	O	-
+the	O	-
+high	O	-
+was	O	-
+worth	O	-
+the	O	-
+pain	O	-
+
+Got	O	-
+a	O	-
+long	O	-
+list	O	-
+of	O	-
+ex-lovers	O	-
+
+They	O	-
+'ll	O	-
+tell	O	-
+you	O	-
+I	O	-
+'m	O	-
+insane	O	-
+
+'	O	-
+Cause	O	-
+you	O	-
+know	O	-
+I	O	-
+love	O	-
+the	O	-
+players	O	-
+
+And	O	-
+you	O	-
+love	O	-
+the	O	-
+game	O	-
+
+'	O	-
+Cause	O	-
+we	O	-
+'re	O	-
+young	O	-
+and	O	-
+we	O	-
+'re	O	-
+reckless	O	-
+
+We	O	-
+'ll	O	-
+take	O	-
+this	O	-
+way	O	-
+too	O	-
+far	O	-
+
+It	O	-
+'ll	O	-
+leave	O	-
+you	O	-
+breathless	O	-
+,	O	-
+hmm	O	-
+
+Or	O	-
+with	O	-
+a	O	-
+nasty	O	-
+scar	O	-
+
+Got	O	-
+a	O	-
+long	O	-
+list	O	-
+of	O	-
+ex-lovers	O	-
+
+They	O	-
+'ll	O	-
+tell	O	-
+you	O	-
+I	O	-
+'m	O	-
+insane	O	-
+
+But	O	-
+I	O	-
+'ve	O	-
+got	O	-
+a	O	-
+blank	O	-
+space	O	-
+,	O	-
+baby	O	-
+
+And	O	-
+I	O	-
+'ll	O	-
+write	O	-
+your	O	-
+name	O	-
+
+Boys	O	-
+only	O	-
+want	O	-
+love	O	-
+if	O	-
+it	O	-
+'s	O	-
+torture	O	-
+
+Do	O	-
+n't	O	-
+say	O	-
+I	O	-
+did	O	-
+n't	O	-
+,	O	-
+say	O	-
+I	O	-
+did	O	-
+n't	O	-
+warn	O	-
+ya	O	-
+
+Boys	O	-
+only	O	-
+want	O	-
+love	O	-
+if	O	-
+it	O	-
+'s	O	-
+torture	O	-
+
+Do	O	-
+n't	O	-
+say	O	-
+I	O	-
+did	O	-
+n't	O	-
+,	O	-
+say	O	-
+I	O	-
+did	O	-
+n't	O	-
+warn	O	-
+ya	O	-
+
+So	O	-
+it	O	-
+'s	O	-
+gon	O	-
+na	O	-
+be	O	-
+forever	O	-
+
+Or	O	-
+it	O	-
+'s	O	-
+gon	O	-
+na	O	-
+go	O	-
+down	O	-
+in	O	-
+flames	O	-
+
+You	O	-
+can	O	-
+tell	O	-
+me	O	-
+when	O	-
+it	O	-
+'s	O	-
+over	O	-
+,	O	-
+mm	O	-
+
+If	O	-
+the	O	-
+high	O	-
+was	O	-
+worth	O	-
+the	O	-
+pain	O	-
+
+Got	O	-
+a	O	-
+long	O	-
+list	O	-
+of	O	-
+ex-lovers	O	-
+
+They	O	-
+'ll	O	-
+tell	O	-
+you	O	-
+I	O	-
+'m	O	-
+insane	O	-
+
+'	O	-
+Cause	O	-
+you	O	-
+know	O	-
+I	O	-
+love	O	-
+the	O	-
+players	O	-
+
+And	O	-
+you	O	-
+love	O	-
+the	O	-
+game	O	-
+
+'	O	-
+Cause	O	-
+we	O	-
+'re	O	-
+young	O	-
+and	O	-
+we	O	-
+'re	O	-
+reckless	O	-
+
+We	O	-
+'ll	O	-
+take	O	-
+this	O	-
+way	O	-
+too	O	-
+far	O	-
+
+It	O	-
+'ll	O	-
+leave	O	-
+you	O	-
+breathless	O	-
+,	O	-
+hmm	O	-
+
+Or	O	-
+with	O	-
+a	O	-
+nasty	O	-
+scar	O	-
+
+Got	O	-
+a	O	-
+long	O	-
+list	O	-
+of	O	-
+ex-lovers	O	-
+
+They	O	-
+'ll	O	-
+tell	O	-
+you	O	-
+I	O	-
+'m	O	-
+insane	O	-
+
+But	O	-
+I	O	-
+'ve	O	-
+got	O	-
+a	O	-
+blank	O	-
+space	O	-
+,	O	-
+baby	O	-
+
+And	O	-
+I	O	-
+'ll	O	-
+write	O	-
+your	O	-
+name	O	-
+
+I	O	-
+sit	O	-
+and	O	-
+watch	O	-
+you	O	-
+reading	O	-
+with	O	-
+your	O	-
+head	O	-
+low	O	-
+
+I	O	-
+wake	O	-
+and	O	-
+watch	O	-
+you	O	-
+breathing	O	-
+with	O	-
+your	O	-
+eyes	O	-
+closed	O	-
+
+I	O	-
+sit	O	-
+and	O	-
+watch	O	-
+you	O	-
+
+I	O	-
+notice	O	-
+everything	O	-
+you	O	-
+do	O	-
+or	O	-
+do	O	-
+n't	O	-
+do	O	-
+
+You	O	-
+'re	O	-
+so	O	-
+much	O	-
+older	O	-
+and	O	-
+wiser	O	-
+,	O	-
+and	O	-
+I	O	-
+
+I	O	-
+wait	O	-
+by	O	-
+the	O	-
+door	O	-
+like	O	-
+I	O	-
+'m	O	-
+just	O	-
+a	O	-
+kid	O	-
+
+Use	O	-
+my	O	-
+best	O	-
+colors	O	-
+for	O	-
+your	O	-
+portrait	O	-
+
+Lay	O	-
+the	O	-
+table	O	-
+with	O	-
+the	O	-
+fancy	O	-
+shit	O	-
+
+And	O	-
+watch	O	-
+you	O	-
+tolerate	O	-
+it	O	-
+
+If	O	-
+it	O	-
+'s	O	-
+all	O	-
+in	O	-
+my	O	-
+head	O	-
+,	O	-
+tell	O	-
+me	O	-
+now	O	-
+
+Tell	O	-
+me	O	-
+I	O	-
+'ve	O	-
+got	O	-
+it	O	-
+wrong	O	-
+somehow	O	-
+
+I	O	-
+know	O	-
+my	O	-
+love	O	-
+should	O	-
+be	O	-
+celebrated	O	-
+
+But	O	-
+you	O	-
+tolerate	O	-
+it	O	-
+
+I	O	-
+greet	O	-
+you	O	-
+with	O	-
+a	O	-
+battle	O	-
+hero	O	-
+'s	O	-
+welcome	O	-
+
+I	O	-
+take	O	-
+your	O	-
+indiscretions	O	-
+all	O	-
+in	O	-
+good	O	-
+fun	O	-
+
+I	O	-
+sit	O	-
+and	O	-
+listеn	O	-
+,	O	-
+I	O	-
+polish	O	-
+plates	O	-
+until	O	-
+they	O	-
+gleam	O	-
+and	O	-
+glistеn	O	-
+
+You	O	-
+'re	O	-
+so	O	-
+much	O	-
+older	O	-
+and	O	-
+wiser	O	-
+and	O	-
+I	O	-
+
+I	O	-
+wait	O	-
+by	O	-
+the	O	-
+door	O	-
+like	O	-
+I	O	-
+'m	O	-
+just	O	-
+a	O	-
+kid	O	-
+
+Use	O	-
+my	O	-
+best	O	-
+colors	O	-
+for	O	-
+your	O	-
+portrait	O	-
+
+Lay	O	-
+the	O	-
+table	O	-
+with	O	-
+the	O	-
+fancy	O	-
+shit	O	-
+
+And	O	-
+watch	O	-
+you	O	-
+tolerate	O	-
+it	O	-
+
+If	O	-
+it	O	-
+'s	O	-
+all	O	-
+in	O	-
+my	O	-
+head	O	-
+,	O	-
+tell	O	-
+me	O	-
+now	O	-
+
+Tell	O	-
+me	O	-
+I	O	-
+'ve	O	-
+got	O	-
+it	O	-
+wrong	O	-
+somehow	O	-
+
+I	O	-
+know	O	-
+my	O	-
+love	O	-
+should	O	-
+be	O	-
+celebrated	O	-
+
+But	O	-
+you	O	-
+tolerate	O	-
+it	O	-
+
+While	O	-
+you	O	-
+were	O	-
+out	O	-
+building	O	-
+other	O	-
+worlds	O	-
+,	O	-
+where	O	-
+was	O	-
+I	O	-
+?	O	-
+
+Where	O	-
+'s	O	-
+that	O	-
+man	O	-
+who	O	-
+'d	O	-
+throw	O	-
+blankets	O	-
+over	O	-
+my	O	-
+barbed	O	-
+wire	O	-
+?	O	-
+
+I	O	-
+made	O	-
+you	O	-
+my	O	-
+temple	O	-
+,	O	-
+my	O	-
+mural	O	-
+,	O	-
+my	O	-
+sky	O	-
+
+Now	O	-
+I	O	-
+'m	O	-
+begging	O	-
+for	O	-
+footnotes	O	-
+in	O	-
+the	O	-
+story	O	-
+of	O	-
+your	O	-
+life	O	-
+
+Drawing	O	-
+hearts	O	-
+in	O	-
+the	O	-
+byline	O	-
+
+Always	O	-
+taking	O	-
+up	O	-
+too	O	-
+much	O	-
+space	O	-
+or	O	-
+time	O	-
+
+You	O	-
+assume	O	-
+I	O	-
+'m	O	-
+fine	O	-
+,	O	-
+but	O	-
+what	O	-
+would	O	-
+you	O	-
+do	O	-
+if	O	-
+I	O	-
+
+Break	O	-
+free	O	-
+and	O	-
+leave	O	-
+us	O	-
+in	O	-
+ruins	O	-
+
+Took	O	-
+this	O	-
+dagger	O	-
+in	O	-
+me	O	-
+and	O	-
+removed	O	-
+it	O	-
+
+Gain	O	-
+the	O	-
+weight	O	-
+of	O	-
+you	O	-
+,	O	-
+then	O	-
+lose	O	-
+it	O	-
+
+Believe	O	-
+me	O	-
+,	O	-
+I	O	-
+could	O	-
+do	O	-
+it	O	-
+
+If	O	-
+it	O	-
+'s	O	-
+all	O	-
+in	O	-
+my	O	-
+head	O	-
+,	O	-
+tell	O	-
+me	O	-
+now	O	-
+
+Tell	O	-
+me	O	-
+I	O	-
+'ve	O	-
+got	O	-
+it	O	-
+wrong	O	-
+somehow	O	-
+
+I	O	-
+know	O	-
+my	O	-
+love	O	-
+should	O	-
+be	O	-
+celebrated	O	-
+
+But	O	-
+you	O	-
+tolerate	O	-
+it	O	-
+
+I	O	-
+sit	O	-
+and	O	-
+watch	O	-
+you	O	-
+
+How	O	-
+many	O	-
+days	O	-
+did	O	-
+I	O	-
+spend	O	-
+thinking	O	-
+
+'	O	-
+Bout	O	-
+how	O	-
+you	O	-
+did	O	-
+me	O	-
+wrong	O	-
+,	O	-
+wrong	O	-
+,	O	-
+wrong	O	-
+?	O	-
+
+Lived	O	-
+in	O	-
+the	O	-
+shade	O	-
+you	O	-
+were	O	-
+throwing	O	-
+
+'	O	-
+Til	O	-
+all	O	-
+of	O	-
+my	O	-
+sunshine	O	-
+was	O	-
+gone	O	-
+,	O	-
+gone	O	-
+,	O	-
+gone	O	-
+
+And	O	-
+I	O	-
+could	O	-
+n't	O	-
+get	O	-
+away	O	-
+from	O	-
+ya	O	-
+
+In	O	-
+my	O	-
+feelings	O	-
+more	O	-
+than	O	-
+Drake	B-PER	North American
+,	O	-
+so	O	-
+yeah	O	-
+
+Your	O	-
+name	O	-
+on	O	-
+my	O	-
+lips	O	-
+,	O	-
+tongue-tied	O	-
+
+Free	O	-
+rent	O	-
+,	O	-
+living	O	-
+in	O	-
+my	O	-
+mind	O	-
+
+But	O	-
+then	O	-
+something	O	-
+happened	O	-
+one	O	-
+magical	O	-
+night	O	-
+
+I	O	-
+forgot	O	-
+that	O	-
+you	O	-
+existed	O	-
+
+And	O	-
+I	O	-
+thought	O	-
+that	O	-
+it	O	-
+would	O	-
+kill	O	-
+me	O	-
+,	O	-
+but	O	-
+it	O	-
+didn't	O	-
+
+And	O	-
+it	O	-
+was	O	-
+so	O	-
+nice	O	-
+
+So	O	-
+peaceful	O	-
+and	O	-
+quiet	O	-
+
+I	O	-
+forgot	O	-
+that	O	-
+you	O	-
+existed	O	-
+
+It	O	-
+is	O	-
+n't	O	-
+love	O	-
+,	O	-
+it	O	-
+is	O	-
+n't	O	-
+hate	O	-
+,	O	-
+it	O	-
+'s	O	-
+just	O	-
+indifference	O	-
+
+I	O	-
+forgot	O	-
+that	O	-
+you	O	-
+
+Got	O	-
+out	O	-
+some	O	-
+popcorn	O	-
+
+As	O	-
+soon	O	-
+as	O	-
+my	O	-
+rep	O	-
+started	O	-
+going	O	-
+down	O	-
+,	O	-
+down	O	-
+,	O	-
+down	O	-
+
+Laughed	O	-
+on	O	-
+the	O	-
+school	O	-
+yard	O	-
+
+As	O	-
+soon	O	-
+as	O	-
+I	O	-
+tripped	O	-
+up	O	-
+and	O	-
+hit	O	-
+the	O	-
+ground	O	-
+,	O	-
+ground	O	-
+,	O	-
+ground	O	-
+
+And	O	-
+I	O	-
+would	O	-
+'ve	O	-
+stuck	O	-
+around	O	-
+for	O	-
+ya	O	-
+
+Would	O	-
+'ve	O	-
+fought	O	-
+the	O	-
+whole	O	-
+town	O	-
+,	O	-
+so	O	-
+yeah	O	-
+
+Would	O	-
+'ve	O	-
+been	O	-
+right	O	-
+there	O	-
+,	O	-
+front	O	-
+row	O	-
+
+Even	O	-
+if	O	-
+nobody	O	-
+came	O	-
+to	O	-
+your	O	-
+show	O	-
+
+But	O	-
+you	O	-
+showed	O	-
+who	O	-
+you	O	-
+are	O	-
+,	O	-
+then	O	-
+one	O	-
+magical	O	-
+night	O	-
+
+I	O	-
+forgot	O	-
+that	O	-
+you	O	-
+existed	O	-
+
+And	O	-
+I	O	-
+thought	O	-
+that	O	-
+it	O	-
+would	O	-
+kill	O	-
+me	O	-
+,	O	-
+but	O	-
+it	O	-
+didn't	O	-
+
+And	O	-
+it	O	-
+was	O	-
+so	O	-
+nice	O	-
+
+So	O	-
+peaceful	O	-
+and	O	-
+quiet	O	-
+
+I	O	-
+forgot	O	-
+that	O	-
+you	O	-
+existed	O	-
+
+It	O	-
+is	O	-
+n't	O	-
+love	O	-
+,	O	-
+it	O	-
+is	O	-
+n't	O	-
+hate	O	-
+,	O	-
+it	O	-
+'s	O	-
+just	O	-
+indifference	O	-
+
+I	O	-
+forgot	O	-
+that	O	-
+you	O	-
+
+Sent	O	-
+me	O	-
+a	O	-
+clear	O	-
+message	O	-
+
+Taught	O	-
+me	O	-
+some	O	-
+hard	O	-
+lessons	O	-
+
+I	O	-
+just	O	-
+forget	O	-
+what	O	-
+they	O	-
+were	O	-
+
+It	O	-
+'s	O	-
+all	O	-
+just	O	-
+a	O	-
+blur	O	-
+
+I	O	-
+forgot	O	-
+that	O	-
+you	O	-
+existed	O	-
+
+And	O	-
+I	O	-
+thought	O	-
+that	O	-
+it	O	-
+would	O	-
+kill	O	-
+me	O	-
+,	O	-
+but	O	-
+it	O	-
+didn't	O	-
+
+And	O	-
+it	O	-
+was	O	-
+so	O	-
+nice	O	-
+
+So	O	-
+peaceful	O	-
+and	O	-
+quiet	O	-
+
+I	O	-
+forgot	O	-
+that	O	-
+you	O	-
+existed	O	-
+
+I	O	-
+did	O	-
+,	O	-
+I	O	-
+did	O	-
+,	O	-
+I	O	-
+did	O	-
+
+It	O	-
+is	O	-
+n't	O	-
+hate	O	-
+,	O	-
+it	O	-
+'s	O	-
+just	O	-
+indifference	O	-
+
+It	O	-
+is	O	-
+n't	O	-
+love	O	-
+,	O	-
+it	O	-
+is	O	-
+n't	O	-
+hate	O	-
+,	O	-
+it	O	-
+'s	O	-
+just	O	-
+indifference	O	-
+
+So	O	-
+,	O	-
+yeah	O	-
+
+Green	O	-
+was	O	-
+the	O	-
+color	O	-
+of	O	-
+the	O	-
+grass	O	-
+
+Where	O	-
+I	O	-
+used	O	-
+to	O	-
+read	O	-
+at	O	-
+Centennial	B-LOC	Oceanian
+Park	I-LOC	Oceanian
+
+I	O	-
+used	O	-
+to	O	-
+think	O	-
+I	O	-
+would	O	-
+meet	O	-
+somebody	O	-
+there	O	-
+
+Teal	O	-
+was	O	-
+the	O	-
+color	O	-
+of	O	-
+your	O	-
+shirt	O	-
+
+When	O	-
+you	O	-
+were	O	-
+sixteen	O	-
+at	O	-
+the	O	-
+yogurt	O	-
+shop	O	-
+
+You	O	-
+used	O	-
+to	O	-
+work	O	-
+at	O	-
+to	O	-
+make	O	-
+a	O	-
+little	O	-
+money	O	-
+
+Time	O	-
+,	O	-
+curious	O	-
+time	O	-
+
+Gave	O	-
+me	O	-
+no	O	-
+compasses	O	-
+,	O	-
+gave	O	-
+me	O	-
+no	O	-
+signs	O	-
+
+Were	O	-
+there	O	-
+clues	O	-
+I	O	-
+did	O	-
+n't	O	-
+see	O	-
+?	O	-
+
+And	O	-
+is	O	-
+n't	O	-
+it	O	-
+just	O	-
+so	O	-
+pretty	O	-
+to	O	-
+think	O	-
+
+All	O	-
+along	O	-
+there	O	-
+was	O	-
+some	O	-
+
+Invisible	O	-
+string	O	-
+
+Tying	O	-
+you	O	-
+to	O	-
+me	O	-
+?	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+
+Bad	O	-
+was	O	-
+the	O	-
+blood	O	-
+of	O	-
+the	O	-
+song	O	-
+in	O	-
+the	O	-
+cab	O	-
+
+On	O	-
+your	O	-
+first	O	-
+trip	O	-
+to	O	-
+LA	B-LOC	North American
+
+You	O	-
+ate	O	-
+at	O	-
+my	O	-
+favorite	O	-
+spot	O	-
+for	O	-
+dinner	O	-
+
+Bold	O	-
+was	O	-
+the	O	-
+waitress	O	-
+on	O	-
+our	O	-
+three-year	O	-
+trip	O	-
+
+Getting	O	-
+lunch	O	-
+down	O	-
+by	O	-
+the	O	-
+Lakes	B-LOC	North American
+
+She	O	-
+said	O	-
+I	O	-
+looked	O	-
+like	O	-
+an	O	-
+American	O	-
+singer	O	-
+
+Time	O	-
+,	O	-
+mystical	O	-
+time	O	-
+
+Cutting	O	-
+me	O	-
+open	O	-
+,	O	-
+then	O	-
+healing	O	-
+me	O	-
+fine	O	-
+
+Were	O	-
+there	O	-
+clues	O	-
+I	O	-
+did	O	-
+n't	O	-
+see	O	-
+?	O	-
+
+And	O	-
+is	O	-
+n't	O	-
+it	O	-
+just	O	-
+so	O	-
+pretty	O	-
+to	O	-
+think	O	-
+
+All	O	-
+along	O	-
+there	O	-
+was	O	-
+some	O	-
+
+Invisible	O	-
+string	O	-
+
+Tying	O	-
+you	O	-
+to	O	-
+me	O	-
+?	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+
+A	O	-
+string	O	-
+that	O	-
+pulled	O	-
+me	O	-
+
+Out	O	-
+of	O	-
+all	O	-
+the	O	-
+wrong	O	-
+arms	O	-
+,	O	-
+right	O	-
+into	O	-
+that	O	-
+dive	O	-
+bar	O	-
+
+Something	O	-
+wrapped	O	-
+all	O	-
+of	O	-
+my	O	-
+past	O	-
+mistakes	O	-
+in	O	-
+barbed	O	-
+wire	O	-
+
+Chains	O	-
+around	O	-
+my	O	-
+demons	O	-
+
+Wool	O	-
+to	O	-
+brave	O	-
+the	O	-
+seasons	O	-
+
+One	O	-
+single	O	-
+thread	O	-
+of	O	-
+gold	O	-
+
+Tied	O	-
+me	O	-
+to	O	-
+you	O	-
+
+Cold	O	-
+was	O	-
+the	O	-
+steel	O	-
+of	O	-
+my	O	-
+axe	O	-
+to	O	-
+grind	O	-
+
+For	O	-
+the	O	-
+boys	O	-
+who	O	-
+broke	O	-
+my	O	-
+heart	O	-
+
+Now	O	-
+I	O	-
+send	O	-
+their	O	-
+babies	O	-
+presents	O	-
+
+Gold	O	-
+was	O	-
+the	O	-
+color	O	-
+of	O	-
+the	O	-
+leaves	O	-
+
+When	O	-
+I	O	-
+showed	O	-
+you	O	-
+around	O	-
+Centennial	B-LOC	Oceanian
+Park	I-LOC	Oceanian
+
+Hell	O	-
+was	O	-
+the	O	-
+journey	O	-
+but	O	-
+it	O	-
+brought	O	-
+me	O	-
+heaven	O	-
+
+Time	O	-
+,	O	-
+wondrous	O	-
+time	O	-
+
+Gave	O	-
+me	O	-
+the	O	-
+blues	O	-
+and	O	-
+then	O	-
+purple-pink	O	-
+skies	O	-
+
+And	O	-
+it	O	-
+'s	O	-
+cool	O	-
+
+Baby	O	-
+,	O	-
+with	O	-
+me	O	-
+
+And	O	-
+is	O	-
+n't	O	-
+it	O	-
+just	O	-
+so	O	-
+pretty	O	-
+to	O	-
+think	O	-
+
+All	O	-
+along	O	-
+there	O	-
+was	O	-
+some	O	-
+
+Invisible	O	-
+string	O	-
+
+Tying	O	-
+you	O	-
+to	O	-
+me	O	-
+?	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+
+Me	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+
+(	O	-
+Ah-ah	O	-
+-	O	-
+ah	O	-
+)	O	-
+
+(	O	-
+Ah-ah	O	-
+-	O	-
+ah	O	-
+)	O	-
+
+Midnight	O	-
+
+You	O	-
+come	O	-
+and	O	-
+pick	O	-
+me	O	-
+up	O	-
+,	O	-
+no	O	-
+headlights	O	-
+
+A	O	-
+long	O	-
+drive	O	-
+
+Could	O	-
+end	O	-
+in	O	-
+burning	O	-
+flames	O	-
+or	O	-
+paradise	O	-
+
+Fade	O	-
+into	O	-
+view	O	-
+,	O	-
+oh	O	-
+
+It	O	-
+'s	O	-
+been	O	-
+a	O	-
+while	O	-
+since	O	-
+I	O	-
+have	O	-
+even	O	-
+heard	O	-
+from	O	-
+you	O	-
+
+(	O	-
+Heard	O	-
+from	O	-
+you	O	-
+)	O	-
+
+And	O	-
+I	O	-
+should	O	-
+just	O	-
+tell	O	-
+you	O	-
+to	O	-
+leave	O	-
+,	O	-
+'	O	-
+cause	O	-
+I	O	-
+
+Know	O	-
+exactly	O	-
+where	O	-
+it	O	-
+leads	O	-
+,	O	-
+but	O	-
+I	O	-
+
+Watch	O	-
+us	O	-
+go	O	-
+'	O	-
+round	O	-
+and	O	-
+'	O	-
+round	O	-
+each	O	-
+time	O	-
+
+You	O	-
+got	O	-
+that	O	-
+James	B-PER	North American
+Dean	I-PER	North American
+daydream	O	-
+look	O	-
+in	O	-
+your	O	-
+eye	O	-
+
+And	O	-
+I	O	-
+got	O	-
+that	O	-
+red	O	-
+lip	O	-
+classic	O	-
+thing	O	-
+that	O	-
+you	O	-
+like	O	-
+
+And	O	-
+when	O	-
+we	O	-
+go	O	-
+crashing	O	-
+down	O	-
+,	O	-
+we	O	-
+come	O	-
+back	O	-
+every	O	-
+time	O	-
+
+'	O	-
+Cause	O	-
+we	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+,	O	-
+we	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+
+You	O	-
+got	O	-
+that	O	-
+long	O	-
+hair	O	-
+,	O	-
+slicked	O	-
+back	O	-
+,	O	-
+white	O	-
+t-shirt	O	-
+
+And	O	-
+I	O	-
+got	O	-
+that	O	-
+good	O	-
+girl	O	-
+faith	O	-
+and	O	-
+a	O	-
+tight	O	-
+little	O	-
+skirt	O	-
+
+And	O	-
+when	O	-
+we	O	-
+go	O	-
+crashing	O	-
+down	O	-
+,	O	-
+we	O	-
+come	O	-
+back	O	-
+every	O	-
+time	O	-
+
+'	O	-
+Cause	O	-
+we	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+,	O	-
+we	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+
+So	O	-
+it	O	-
+goes	O	-
+
+He	O	-
+ca	O	-
+n't	O	-
+keep	O	-
+his	O	-
+wild	O	-
+eyes	O	-
+on	O	-
+the	O	-
+road	O	-
+(	O	-
+Mmm	O	-
+)	O	-
+
+Takes	O	-
+me	O	-
+home	O	-
+
+The	O	-
+lights	O	-
+are	O	-
+off	O	-
+,	O	-
+he	O	-
+'s	O	-
+taking	O	-
+off	O	-
+his	O	-
+coat	O	-
+(	O	-
+Mmm	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+I	O	-
+say	O	-
+,	O	-
+"	O	-
+I	O	-
+heard	O	-
+,	O	-
+oh	O	-
+
+That	O	-
+you	O	-
+'ve	O	-
+been	O	-
+out	O	-
+and	O	-
+about	O	-
+with	O	-
+some	O	-
+other	O	-
+girl	O	-
+"	O	-
+
+Some	O	-
+other	O	-
+girl	O	-
+
+He	O	-
+says	O	-
+,	O	-
+"	O	-
+What	O	-
+you	O	-
+heard	O	-
+is	O	-
+true	O	-
+,	O	-
+but	O	-
+I	O	-
+
+Ca	O	-
+n't	O	-
+stop	O	-
+thinking	O	-
+'	O	-
+bout	O	-
+you	O	-
+and	O	-
+I	O	-
+"	O	-
+
+I	O	-
+said	O	-
+,	O	-
+"	O	-
+I	O	-
+'ve	O	-
+been	O	-
+there	O	-
+too	O	-
+a	O	-
+few	O	-
+times	O	-
+"	O	-
+
+'	O	-
+Cause	O	-
+you	O	-
+got	O	-
+that	O	-
+James	B-PER	North American
+Dean	I-PER	North American
+daydream	O	-
+look	O	-
+in	O	-
+your	O	-
+eye	O	-
+
+And	O	-
+I	O	-
+got	O	-
+that	O	-
+red	O	-
+lip	O	-
+classic	O	-
+thing	O	-
+that	O	-
+you	O	-
+like	O	-
+
+And	O	-
+when	O	-
+we	O	-
+go	O	-
+crashing	O	-
+down	O	-
+,	O	-
+we	O	-
+come	O	-
+back	O	-
+every	O	-
+time	O	-
+
+'	O	-
+Cause	O	-
+we	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+,	O	-
+we	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+
+You	O	-
+got	O	-
+that	O	-
+long	O	-
+hair	O	-
+,	O	-
+slicked	O	-
+back	O	-
+,	O	-
+white	O	-
+t-shirt	O	-
+
+And	O	-
+I	O	-
+got	O	-
+that	O	-
+good	O	-
+girl	O	-
+faith	O	-
+and	O	-
+a	O	-
+tight	O	-
+little	O	-
+skirt	O	-
+
+(	O	-
+A	O	-
+tight	O	-
+little	O	-
+skirt	O	-
+)	O	-
+
+And	O	-
+when	O	-
+we	O	-
+go	O	-
+crashing	O	-
+down	O	-
+,	O	-
+we	O	-
+come	O	-
+back	O	-
+every	O	-
+time	O	-
+
+'	O	-
+Cause	O	-
+we	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+(	O	-
+We	O	-
+never	O	-
+go	O	-
+,	O	-
+we	O	-
+never	O	-
+go	O	-
+)	O	-
+
+We	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+
+Take	O	-
+me	O	-
+home	O	-
+
+Just	O	-
+take	O	-
+me	O	-
+home	O	-
+
+Yeah	O	-
+,	O	-
+just	O	-
+take	O	-
+me	O	-
+home	O	-
+
+Oh-oh	O	-
+,	O	-
+whoa-oh	O	-
+,	O	-
+oh	O	-
+
+(	O	-
+Out	O	-
+of	O	-
+style	O	-
+)	O	-
+
+Oh	O	-
+,	O	-
+you	O	-
+got	O	-
+that	O	-
+James	B-PER	North American
+Dean	I-PER	North American
+daydream	O	-
+look	O	-
+in	O	-
+your	O	-
+eye	O	-
+
+And	O	-
+I	O	-
+got	O	-
+that	O	-
+red	O	-
+lip	O	-
+classic	O	-
+thing	O	-
+that	O	-
+you	O	-
+like	O	-
+
+And	O	-
+when	O	-
+we	O	-
+go	O	-
+crashing	O	-
+down	O	-
+(	O	-
+And	O	-
+when	O	-
+we	O	-
+go	O	-
+)	O	-
+
+We	O	-
+come	O	-
+back	O	-
+every	O	-
+time	O	-
+
+'	O	-
+Cause	O	-
+we	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+,	O	-
+we	O	-
+never	O	-
+go	O	-
+out	O	-
+of	O	-
+style	O	-
+
+I	O	-
+know	O	-
+that	O	-
+you	O	-
+like	O	-
+me	O	-
+
+And	O	-
+it	O	-
+'s	O	-
+kinda	O	-
+frightenin	O	-
+'	O	-
+standin	O	-
+'	O	-
+here	O	-
+waitin	O	-
+'	O	-
+,	O	-
+waitin'	O	-
+
+And	O	-
+I	O	-
+became	O	-
+hypnotized	O	-
+by	O	-
+freckles	O	-
+and	O	-
+bright	O	-
+eyes	O	-
+,	O	-
+tongue-tied	O	-
+
+But	O	-
+now	O	-
+you	O	-
+'re	O	-
+so	O	-
+far	O	-
+away	O	-
+and	O	-
+I	O	-
+'m	O	-
+down	O	-
+
+Feelin	O	-
+'	O	-
+like	O	-
+a	O	-
+face	O	-
+in	O	-
+the	O	-
+crowd	O	-
+
+I	O	-
+'m	O	-
+reachin	O	-
+'	O	-
+for	O	-
+you	O	-
+,	O	-
+terrified	O	-
+
+'	O	-
+Cause	O	-
+you	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+I	O	-
+love	O	-
+
+I	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+you	O	-
+dream	O	-
+of	O	-
+
+A	O	-
+message	O	-
+in	O	-
+a	O	-
+bottle	O	-
+is	O	-
+all	O	-
+I	O	-
+can	O	-
+do	O	-
+
+Standin	O	-
+'	O	-
+here	O	-
+,	O	-
+hopin	O	-
+'	O	-
+it	O	-
+gets	O	-
+to	O	-
+you	O	-
+
+You	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+I	O	-
+keep	O	-
+,	O	-
+and	O	-
+I	O	-
+
+I	O	-
+could	O	-
+be	O	-
+the	O	-
+reason	O	-
+you	O	-
+ca	O	-
+n't	O	-
+sleep	O	-
+at	O	-
+night	O	-
+
+A	O	-
+mеssage	O	-
+in	O	-
+a	O	-
+bottle	O	-
+is	O	-
+all	O	-
+I	O	-
+can	O	-
+do	O	-
+
+Standin	O	-
+'	O	-
+herе	O	-
+,	O	-
+hopin	O	-
+'	O	-
+it	O	-
+gets	O	-
+to	O	-
+you	O	-
+
+These	O	-
+days	O	-
+I	O	-
+'m	O	-
+restless	O	-
+
+Workdays	O	-
+are	O	-
+endless	O	-
+,	O	-
+look	O	-
+how	O	-
+you	O	-
+made	O	-
+me	O	-
+,	O	-
+made	O	-
+me	O	-
+
+But	O	-
+time	O	-
+moves	O	-
+faster	O	-
+,	O	-
+replaying	O	-
+your	O	-
+laughter	O	-
+,	O	-
+disaster	O	-
+
+'	O	-
+Cause	O	-
+now	O	-
+you	O	-
+'re	O	-
+so	O	-
+far	O	-
+away	O	-
+and	O	-
+I	O	-
+'m	O	-
+down	O	-
+
+Feelin	O	-
+'	O	-
+like	O	-
+a	O	-
+face	O	-
+in	O	-
+the	O	-
+crowd	O	-
+
+I	O	-
+'m	O	-
+reachin	O	-
+'	O	-
+for	O	-
+you	O	-
+,	O	-
+terrified	O	-
+,	O	-
+'	O	-
+cause	O	-
+
+'	O	-
+Cause	O	-
+you	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+I	O	-
+love	O	-
+
+I	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+you	O	-
+dream	O	-
+of	O	-
+
+A	O	-
+message	O	-
+in	O	-
+a	O	-
+bottle	O	-
+is	O	-
+all	O	-
+I	O	-
+can	O	-
+do	O	-
+
+Standin	O	-
+'	O	-
+here	O	-
+,	O	-
+hopin	O	-
+'	O	-
+it	O	-
+gets	O	-
+to	O	-
+you	O	-
+(	O	-
+It	O	-
+gets	O	-
+to	O	-
+you	O	-
+)	O	-
+
+You	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+I	O	-
+keep	O	-
+,	O	-
+and	O	-
+I	O	-
+(	O	-
+I	O	-
+)	O	-
+
+I	O	-
+could	O	-
+be	O	-
+the	O	-
+reason	O	-
+you	O	-
+ca	O	-
+n't	O	-
+sleep	O	-
+at	O	-
+night	O	-
+(	O	-
+At	O	-
+night	O	-
+)	O	-
+
+A	O	-
+message	O	-
+in	O	-
+a	O	-
+bottle	O	-
+is	O	-
+all	O	-
+I	O	-
+can	O	-
+do	O	-
+
+Standin	O	-
+'	O	-
+here	O	-
+,	O	-
+hopin	O	-
+'	O	-
+it	O	-
+gets	O	-
+to	O	-
+you	O	-
+
+How	O	-
+is	O	-
+it	O	-
+in	O	-
+London	B-LOC	European
+?	O	-
+(	O	-
+London	B-LOC	European
+)	O	-
+
+Where	O	-
+were	O	-
+you	O	-
+while	O	-
+I	O	-
+'m	O	-
+wondering	O	-
+(	O	-
+Wondering	O	-
+)	O	-
+
+If	O	-
+I	O	-
+'ll	O	-
+ever	O	-
+see	O	-
+you	O	-
+again	O	-
+?	O	-
+
+You	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+I	O	-
+love	O	-
+,	O	-
+mm-mm	O	-
+
+And	O	-
+now	O	-
+I	O	-
+'m	O	-
+standin	O	-
+'	O	-
+here	O	-
+,	O	-
+hopin	O	-
+'	O	-
+it	O	-
+gets	O	-
+to	O	-
+you	O	-
+
+'	O	-
+Cause	O	-
+you	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+I	O	-
+love	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+I	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+you	O	-
+dream	O	-
+of	O	-
+
+A	O	-
+message	O	-
+in	O	-
+a	O	-
+bottle	O	-
+is	O	-
+all	O	-
+I	O	-
+can	O	-
+do	O	-
+
+Standin	O	-
+'	O	-
+here	O	-
+,	O	-
+hopin	O	-
+'	O	-
+it	O	-
+gets	O	-
+to	O	-
+you	O	-
+(	O	-
+It	O	-
+gets	O	-
+to	O	-
+you	O	-
+)	O	-
+
+You	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+I	O	-
+keep	O	-
+,	O	-
+and	O	-
+I	O	-
+
+I	O	-
+could	O	-
+be	O	-
+the	O	-
+reason	O	-
+you	O	-
+ca	O	-
+n't	O	-
+sleep	O	-
+at	O	-
+night	O	-
+(	O	-
+You	O	-
+ca	O	-
+n't	O	-
+sleep	O	-
+at	O	-
+night	O	-
+)	O	-
+
+A	O	-
+message	O	-
+in	O	-
+a	O	-
+bottle	O	-
+is	O	-
+all	O	-
+I	O	-
+can	O	-
+do	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+Standin	O	-
+'	O	-
+here	O	-
+,	O	-
+hopin	O	-
+'	O	-
+it	O	-
+gets	O	-
+to	O	-
+you	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+You	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+I	O	-
+love	O	-
+
+You	O	-
+could	O	-
+be	O	-
+the	O	-
+one	O	-
+that	O	-
+I	O	-
+love	O	-
+,	O	-
+I	O	-
+love	O	-
+
+And	O	-
+now	O	-
+I	O	-
+'m	O	-
+standin	O	-
+'	O	-
+here	O	-
+,	O	-
+hopin	O	-
+'	O	-
+this	O	-
+gets	O	-
+to	O	-
+you	O	-
+
+I	O	-
+remember	O	-
+when	O	-
+we	O	-
+broke	O	-
+up	O	-
+the	O	-
+first	O	-
+time	O	-
+
+Saying	O	-
+,	O	-
+"	O	-
+This	O	-
+is	O	-
+it	O	-
+,	O	-
+I	O	-
+'ve	O	-
+had	O	-
+enough	O	-
+,	O	-
+"	O	-
+'	O	-
+cause	O	-
+like	O	-
+
+We	O	-
+had	O	-
+n't	O	-
+seen	O	-
+each	O	-
+other	O	-
+in	O	-
+a	O	-
+month	O	-
+
+When	O	-
+you	O	-
+said	O	-
+you	O	-
+needed	O	-
+space	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Then	O	-
+you	O	-
+come	O	-
+around	O	-
+again	O	-
+and	O	-
+say	O	-
+
+"	O	-
+Baby	O	-
+,	O	-
+I	O	-
+miss	O	-
+you	O	-
+and	O	-
+I	O	-
+swear	O	-
+I	O	-
+'m	O	-
+gon	O	-
+na	O	-
+change	O	-
+,	O	-
+trust	O	-
+me	O	-
+"	O	-
+
+Remember	O	-
+how	O	-
+that	O	-
+lasted	O	-
+for	O	-
+a	O	-
+day	O	-
+?	O	-
+
+I	O	-
+say	O	-
+,	O	-
+"	O	-
+I	O	-
+hate	O	-
+you	O	-
+,	O	-
+"	O	-
+we	O	-
+break	O	-
+up	O	-
+,	O	-
+you	O	-
+call	O	-
+me	O	-
+,	O	-
+"	O	-
+I	O	-
+love	O	-
+you	O	-
+"	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+
+We	O	-
+called	O	-
+it	O	-
+off	O	-
+again	O	-
+last	O	-
+night	O	-
+,	O	-
+but	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+
+This	O	-
+time	O	-
+,	O	-
+I	O	-
+'m	O	-
+telling	O	-
+you	O	-
+,	O	-
+I	O	-
+'m	O	-
+telling	O	-
+you	O	-
+
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+You	O	-
+go	O	-
+talk	O	-
+to	O	-
+your	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+my	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+me	O	-
+
+But	O	-
+we	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+Like	O	-
+,	O	-
+ever	O	-
+
+I	O	-
+'m	O	-
+really	O	-
+gon	O	-
+na	O	-
+miss	O	-
+you	O	-
+picking	O	-
+fights	O	-
+
+And	O	-
+me	O	-
+falling	O	-
+for	O	-
+it	O	-
+,	O	-
+screaming	O	-
+that	O	-
+I	O	-
+'m	O	-
+right	O	-
+
+And	O	-
+you	O	-
+would	O	-
+hide	O	-
+away	O	-
+and	O	-
+find	O	-
+your	O	-
+peace	O	-
+of	O	-
+mind	O	-
+
+With	O	-
+some	O	-
+indie	O	-
+record	O	-
+that	O	-
+'s	O	-
+much	O	-
+cooler	O	-
+than	O	-
+mine	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+
+You	O	-
+called	O	-
+me	O	-
+up	O	-
+again	O	-
+tonight	O	-
+,	O	-
+but	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+
+This	O	-
+time	O	-
+,	O	-
+I	O	-
+'m	O	-
+telling	O	-
+you	O	-
+,	O	-
+I	O	-
+'m	O	-
+telling	O	-
+you	O	-
+
+We	O	-
+(	O	-
+We	O	-
+)	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+You	O	-
+go	O	-
+talk	O	-
+to	O	-
+your	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+my	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+me	O	-
+
+(	O	-
+Talk	O	-
+to	O	-
+me	O	-
+)	O	-
+But	O	-
+we	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Oh-oh	O	-
+-	O	-
+oh	O	-
+
+I	O	-
+used	O	-
+to	O	-
+think	O	-
+that	O	-
+we	O	-
+were	O	-
+forever	O	-
+,	O	-
+ever	O	-
+
+And	O	-
+I	O	-
+used	O	-
+to	O	-
+say	O	-
+,	O	-
+"	O	-
+Never	O	-
+say	O	-
+never	O	-
+"	O	-
+
+Ugh	O	-
+,	O	-
+so	O	-
+he	O	-
+calls	O	-
+me	O	-
+up	O	-
+and	O	-
+he	O	-
+'s	O	-
+like	O	-
+,	O	-
+"	O	-
+I	O	-
+still	O	-
+love	O	-
+you	O	-
+"	O	-
+
+And	O	-
+I	O	-
+'m	O	-
+like	O	-
+,	O	-
+"	O	-
+I	O	-
+just	O	-
+,	O	-
+I	O	-
+mean	O	-
+,	O	-
+this	O	-
+is	O	-
+exhausting	O	-
+,	O	-
+you	O	-
+know	O	-
+?	O	-
+
+Like	O	-
+,	O	-
+we	O	-
+are	O	-
+never	O	-
+getting	O	-
+back	O	-
+together	O	-
+,	O	-
+like	O	-
+,	O	-
+ever	O	-
+"	O	-
+
+(	O	-
+No	O	-
+)	O	-
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+(	O	-
+Ooh	O	-
+)	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+You	O	-
+go	O	-
+talk	O	-
+to	O	-
+your	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+my	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+me	O	-
+
+But	O	-
+we	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+(	O	-
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+,	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+,	O	-
+no	O	-
+)	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+(	O	-
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+,	O	-
+oh	O	-
+,	O	-
+oh	O	-
+)	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+You	O	-
+go	O	-
+talk	O	-
+to	O	-
+your	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+my	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+me	O	-
+
+(	O	-
+Talk	O	-
+to	O	-
+me	O	-
+)	O	-
+But	O	-
+we	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+I	O	-
+remember	O	-
+when	O	-
+we	O	-
+broke	O	-
+up	O	-
+the	O	-
+first	O	-
+time	O	-
+
+Saying	O	-
+,	O	-
+"	O	-
+This	O	-
+is	O	-
+it	O	-
+,	O	-
+I	O	-
+'ve	O	-
+had	O	-
+enough	O	-
+,	O	-
+"	O	-
+'	O	-
+cause	O	-
+like	O	-
+
+We	O	-
+had	O	-
+n't	O	-
+seen	O	-
+each	O	-
+other	O	-
+in	O	-
+a	O	-
+month	O	-
+
+When	O	-
+you	O	-
+said	O	-
+you	O	-
+needed	O	-
+space	O	-
+(	O	-
+What	O	-
+?	O	-
+)	O	-
+
+Then	O	-
+you	O	-
+come	O	-
+around	O	-
+again	O	-
+and	O	-
+say	O	-
+
+"	O	-
+Baby	O	-
+,	O	-
+I	O	-
+miss	O	-
+you	O	-
+and	O	-
+I	O	-
+swear	O	-
+I	O	-
+'m	O	-
+gon	O	-
+na	O	-
+change	O	-
+,	O	-
+trust	O	-
+me	O	-
+"	O	-
+
+Remember	O	-
+how	O	-
+that	O	-
+lasted	O	-
+for	O	-
+a	O	-
+day	O	-
+?	O	-
+
+I	O	-
+say	O	-
+,	O	-
+"	O	-
+I	O	-
+hate	O	-
+you	O	-
+,	O	-
+"	O	-
+we	O	-
+break	O	-
+up	O	-
+,	O	-
+you	O	-
+call	O	-
+me	O	-
+,	O	-
+"	O	-
+I	O	-
+love	O	-
+you	O	-
+"	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+
+We	O	-
+called	O	-
+it	O	-
+off	O	-
+again	O	-
+last	O	-
+night	O	-
+,	O	-
+but	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+
+This	O	-
+time	O	-
+,	O	-
+I	O	-
+'m	O	-
+telling	O	-
+you	O	-
+,	O	-
+I	O	-
+'m	O	-
+telling	O	-
+you	O	-
+
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+You	O	-
+go	O	-
+talk	O	-
+to	O	-
+your	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+my	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+me	O	-
+
+But	O	-
+we	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+Like	O	-
+,	O	-
+ever	O	-
+
+I	O	-
+'m	O	-
+really	O	-
+gon	O	-
+na	O	-
+miss	O	-
+you	O	-
+picking	O	-
+fights	O	-
+
+And	O	-
+me	O	-
+falling	O	-
+for	O	-
+it	O	-
+,	O	-
+screaming	O	-
+that	O	-
+I	O	-
+'m	O	-
+right	O	-
+
+And	O	-
+you	O	-
+would	O	-
+hide	O	-
+away	O	-
+and	O	-
+find	O	-
+your	O	-
+peace	O	-
+of	O	-
+mind	O	-
+
+With	O	-
+some	O	-
+indie	O	-
+record	O	-
+that	O	-
+'s	O	-
+much	O	-
+cooler	O	-
+than	O	-
+mine	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+
+You	O	-
+called	O	-
+me	O	-
+up	O	-
+again	O	-
+tonight	O	-
+,	O	-
+but	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+
+This	O	-
+time	O	-
+,	O	-
+I	O	-
+'m	O	-
+telling	O	-
+you	O	-
+,	O	-
+I	O	-
+'m	O	-
+telling	O	-
+you	O	-
+
+We	O	-
+(	O	-
+We	O	-
+)	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+You	O	-
+go	O	-
+talk	O	-
+to	O	-
+your	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+my	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+me	O	-
+
+(	O	-
+Talk	O	-
+to	O	-
+me	O	-
+)	O	-
+But	O	-
+we	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Oh-oh	O	-
+-	O	-
+oh	O	-
+
+I	O	-
+used	O	-
+to	O	-
+think	O	-
+that	O	-
+we	O	-
+were	O	-
+forever	O	-
+,	O	-
+ever	O	-
+
+And	O	-
+I	O	-
+used	O	-
+to	O	-
+say	O	-
+,	O	-
+"	O	-
+Never	O	-
+say	O	-
+never	O	-
+"	O	-
+
+Ugh	O	-
+,	O	-
+so	O	-
+he	O	-
+calls	O	-
+me	O	-
+up	O	-
+and	O	-
+he	O	-
+'s	O	-
+like	O	-
+,	O	-
+"	O	-
+I	O	-
+still	O	-
+love	O	-
+you	O	-
+"	O	-
+
+And	O	-
+I	O	-
+'m	O	-
+like	O	-
+,	O	-
+"	O	-
+I	O	-
+just	O	-
+,	O	-
+I	O	-
+mean	O	-
+,	O	-
+this	O	-
+is	O	-
+exhausting	O	-
+,	O	-
+you	O	-
+know	O	-
+?	O	-
+
+Like	O	-
+,	O	-
+we	O	-
+are	O	-
+never	O	-
+getting	O	-
+back	O	-
+together	O	-
+,	O	-
+like	O	-
+,	O	-
+ever	O	-
+"	O	-
+
+(	O	-
+No	O	-
+)	O	-
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+(	O	-
+Ooh	O	-
+)	O	-
+getting	O	-
+back	O	-
+together	O	-
+
+You	O	-
+go	O	-
+talk	O	-
+to	O	-
+your	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+my	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+me	O	-
+
+But	O	-
+we	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+(	O	-
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+,	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+,	O	-
+no	O	-
+)	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+We	O	-
+(	O	-
+Ooh-ooh	O	-
+-	O	-
+ooh-ooh	O	-
+-	O	-
+ooh	O	-
+,	O	-
+oh	O	-
+,	O	-
+oh	O	-
+)	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+You	O	-
+go	O	-
+talk	O	-
+to	O	-
+your	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+my	O	-
+friends	O	-
+,	O	-
+talk	O	-
+to	O	-
+me	O	-
+
+(	O	-
+Talk	O	-
+to	O	-
+me	O	-
+)	O	-
+But	O	-
+we	O	-
+are	O	-
+never	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+,	O	-
+ever	O	-
+
+Getting	O	-
+back	O	-
+together	O	-
+
+Honey	O	-
+,	O	-
+when	O	-
+I	O	-
+'m	O	-
+above	O	-
+the	O	-
+trees	O	-
+
+I	O	-
+see	O	-
+this	O	-
+for	O	-
+what	O	-
+it	O	-
+is	O	-
+
+But	O	-
+now	O	-
+I	O	-
+'m	O	-
+right	O	-
+down	O	-
+in	O	-
+it	O	-
+,	O	-
+all	O	-
+the	O	-
+years	O	-
+I	O	-
+'ve	O	-
+given	O	-
+
+Is	O	-
+just	O	-
+shit	O	-
+we	O	-
+'re	O	-
+dividin	O	-
+'	O	-
+up	O	-
+
+Showed	O	-
+you	O	-
+all	O	-
+of	O	-
+my	O	-
+hiding	O	-
+spots	O	-
+
+I	O	-
+was	O	-
+dancing	O	-
+when	O	-
+the	O	-
+music	O	-
+stopped	O	-
+
+And	O	-
+in	O	-
+the	O	-
+disbelief	O	-
+,	O	-
+I	O	-
+ca	O	-
+n't	O	-
+face	O	-
+reinvention	O	-
+
+I	O	-
+have	O	-
+n't	O	-
+met	O	-
+the	O	-
+new	O	-
+me	O	-
+yet	O	-
+
+There	O	-
+'ll	O	-
+be	O	-
+happiness	O	-
+after	O	-
+you	O	-
+
+But	O	-
+there	O	-
+was	O	-
+happiness	O	-
+because	O	-
+of	O	-
+you	O	-
+
+Both	O	-
+of	O	-
+these	O	-
+things	O	-
+can	O	-
+be	O	-
+true	O	-
+
+There	O	-
+is	O	-
+happiness	O	-
+
+Past	O	-
+the	O	-
+blood	O	-
+and	O	-
+bruise	O	-
+
+Past	O	-
+the	O	-
+curses	O	-
+and	O	-
+cries	O	-
+
+Beyond	O	-
+the	O	-
+terror	O	-
+in	O	-
+the	O	-
+nightfall	O	-
+
+Haunted	O	-
+by	O	-
+the	O	-
+look	O	-
+in	O	-
+my	O	-
+eyes	O	-
+
+That	O	-
+would	O	-
+'ve	O	-
+loved	O	-
+you	O	-
+for	O	-
+a	O	-
+lifetime	O	-
+
+Leave	O	-
+it	O	-
+all	O	-
+behind	O	-
+
+And	O	-
+there	O	-
+is	O	-
+happiness	O	-
+
+Tell	O	-
+me	O	-
+,	O	-
+when	O	-
+did	O	-
+your	O	-
+winning	O	-
+smile	O	-
+
+Begin	O	-
+to	O	-
+look	O	-
+like	O	-
+a	O	-
+smirk	O	-
+?	O	-
+
+When	O	-
+did	O	-
+all	O	-
+our	O	-
+lessons	O	-
+start	O	-
+to	O	-
+look	O	-
+like	O	-
+weapons	O	-
+
+Pointed	O	-
+at	O	-
+my	O	-
+deepest	O	-
+hurt	O	-
+?	O	-
+
+I	O	-
+hope	O	-
+she	O	-
+'ll	O	-
+be	O	-
+a	O	-
+beautiful	O	-
+fool	O	-
+
+Who	O	-
+takes	O	-
+my	O	-
+spot	O	-
+next	O	-
+to	O	-
+you	O	-
+
+No	O	-
+,	O	-
+I	O	-
+did	O	-
+n't	O	-
+mean	O	-
+that	O	-
+
+Sorry	O	-
+,	O	-
+I	O	-
+ca	O	-
+n't	O	-
+see	O	-
+facts	O	-
+through	O	-
+all	O	-
+of	O	-
+my	O	-
+fury	O	-
+
+You	O	-
+have	O	-
+n't	O	-
+met	O	-
+the	O	-
+new	O	-
+me	O	-
+yet	O	-
+
+There	O	-
+'ll	O	-
+be	O	-
+happiness	O	-
+after	O	-
+me	O	-
+
+But	O	-
+there	O	-
+was	O	-
+happiness	O	-
+because	O	-
+of	O	-
+me	O	-
+
+Both	O	-
+of	O	-
+these	O	-
+things	O	-
+,	O	-
+I	O	-
+believe	O	-
+
+There	O	-
+is	O	-
+happiness	O	-
+
+In	O	-
+our	O	-
+history	O	-
+,	O	-
+across	O	-
+our	O	-
+great	O	-
+divide	O	-
+
+There	O	-
+is	O	-
+a	O	-
+glorious	O	-
+sunrise	O	-
+
+Dappled	O	-
+with	O	-
+the	O	-
+flickers	O	-
+of	O	-
+light	O	-
+
+From	O	-
+the	O	-
+dress	O	-
+I	O	-
+wore	O	-
+at	O	-
+midnight	O	-
+,	O	-
+leave	O	-
+it	O	-
+all	O	-
+behind	O	-
+
+And	O	-
+there	O	-
+is	O	-
+happiness	O	-
+
+I	O	-
+ca	O	-
+n't	O	-
+make	O	-
+it	O	-
+go	O	-
+away	O	-
+by	O	-
+making	O	-
+you	O	-
+a	O	-
+villain	O	-
+
+I	O	-
+guess	O	-
+it	O	-
+'s	O	-
+the	O	-
+price	O	-
+I	O	-
+paid	O	-
+for	O	-
+seven	O	-
+years	O	-
+in	O	-
+Heaven	B-LOC	Non-cultural
+
+And	O	-
+I	O	-
+pulled	O	-
+your	O	-
+body	O	-
+into	O	-
+mine	O	-
+
+Every	O	-
+goddamn	O	-
+night	O	-
+,	O	-
+now	O	-
+I	O	-
+get	O	-
+fake	O	-
+niceties	O	-
+
+No	O	-
+one	O	-
+teaches	O	-
+you	O	-
+what	O	-
+to	O	-
+do	O	-
+
+When	O	-
+a	O	-
+good	O	-
+man	O	-
+hurts	O	-
+you	O	-
+
+And	O	-
+you	O	-
+know	O	-
+you	O	-
+hurt	O	-
+him	O	-
+too	O	-
+
+Honey	O	-
+,	O	-
+when	O	-
+I	O	-
+'m	O	-
+above	O	-
+the	O	-
+trees	O	-
+
+I	O	-
+see	O	-
+it	O	-
+for	O	-
+what	O	-
+it	O	-
+is	O	-
+
+But	O	-
+now	O	-
+my	O	-
+eyes	O	-
+leak	O	-
+acid	O	-
+rain	O	-
+on	O	-
+the	O	-
+pillow	O	-
+where	O	-
+you	O	-
+used	O	-
+to	O	-
+lay	O	-
+your	O	-
+head	O	-
+
+After	O	-
+giving	O	-
+you	O	-
+the	O	-
+best	O	-
+I	O	-
+had	O	-
+
+Tell	O	-
+me	O	-
+what	O	-
+to	O	-
+give	O	-
+after	O	-
+that	O	-
+
+All	O	-
+you	O	-
+want	O	-
+from	O	-
+me	O	-
+now	O	-
+is	O	-
+the	O	-
+green	O	-
+light	O	-
+of	O	-
+forgiveness	O	-
+
+You	O	-
+have	O	-
+n't	O	-
+met	O	-
+the	O	-
+new	O	-
+me	O	-
+yet	O	-
+
+And	O	-
+I	O	-
+think	O	-
+she	O	-
+'ll	O	-
+give	O	-
+you	O	-
+that	O	-
+
+There	O	-
+'ll	O	-
+be	O	-
+happiness	O	-
+after	O	-
+you	O	-
+
+But	O	-
+there	O	-
+was	O	-
+happiness	O	-
+because	O	-
+of	O	-
+you	O	-
+too	O	-
+
+Both	O	-
+of	O	-
+these	O	-
+things	O	-
+can	O	-
+be	O	-
+true	O	-
+
+There	O	-
+is	O	-
+happiness	O	-
+
+In	O	-
+our	O	-
+history	O	-
+,	O	-
+across	O	-
+our	O	-
+great	O	-
+divide	O	-
+
+There	O	-
+is	O	-
+a	O	-
+glorious	O	-
+sunrise	O	-
+
+Dappled	O	-
+with	O	-
+the	O	-
+flickers	O	-
+of	O	-
+light	O	-
+
+From	O	-
+the	O	-
+dress	O	-
+I	O	-
+wore	O	-
+at	O	-
+midnight	O	-
+,	O	-
+leave	O	-
+it	O	-
+all	O	-
+behind	O	-
+
+Oh	O	-
+,	O	-
+leave	O	-
+it	O	-
+all	O	-
+behind	O	-
+
+Leave	O	-
+it	O	-
+all	O	-
+behind	O	-
+
+And	O	-
+there	O	-
+is	O	-
+happiness	O	-
+
+My	O	-
+love	O	-
+was	O	-
+as	O	-
+cruel	O	-
+as	O	-
+the	O	-
+cities	O	-
+I	O	-
+lived	O	-
+in	O	-
+
+Everyone	O	-
+looked	O	-
+worse	O	-
+in	O	-
+the	O	-
+light	O	-
+
+There	O	-
+are	O	-
+so	O	-
+many	O	-
+lines	O	-
+that	O	-
+I	O	-
+'ve	O	-
+crossed	O	-
+unforgiven	O	-
+
+I	O	-
+'ll	O	-
+tell	O	-
+you	O	-
+the	O	-
+truth	O	-
+,	O	-
+but	O	-
+never	O	-
+goodbye	O	-
+
+I	O	-
+do	O	-
+n't	O	-
+wan	O	-
+na	O	-
+look	O	-
+at	O	-
+anything	O	-
+else	O	-
+now	O	-
+that	O	-
+I	O	-
+saw	O	-
+you	O	-
+
+I	O	-
+do	O	-
+n't	O	-
+wan	O	-
+na	O	-
+think	O	-
+of	O	-
+anything	O	-
+else	O	-
+now	O	-
+that	O	-
+I	O	-
+thought	O	-
+of	O	-
+you	O	-
+
+I	O	-
+'ve	O	-
+been	O	-
+sleeping	O	-
+so	O	-
+long	O	-
+in	O	-
+a	O	-
+20-year	O	-
+dark	O	-
+night	O	-
+
+And	O	-
+now	O	-
+I	O	-
+see	O	-
+daylight	O	-
+,	O	-
+I	O	-
+only	O	-
+see	O	-
+daylight	O	-
+
+Luck	O	-
+of	O	-
+the	O	-
+draw	O	-
+only	O	-
+draws	O	-
+the	O	-
+unlucky	O	-
+
+And	O	-
+so	O	-
+I	O	-
+became	O	-
+the	O	-
+butt	O	-
+of	O	-
+the	O	-
+joke	O	-
+
+I	O	-
+wounded	O	-
+the	O	-
+good	O	-
+and	O	-
+I	O	-
+trusted	O	-
+the	O	-
+wicked	O	-
+
+Clearing	O	-
+the	O	-
+air	O	-
+,	O	-
+I	O	-
+breathed	O	-
+in	O	-
+the	O	-
+smoke	O	-
+
+Maybe	O	-
+you	O	-
+ran	O	-
+with	O	-
+the	O	-
+wolves	O	-
+and	O	-
+refused	O	-
+to	O	-
+settle	O	-
+down	O	-
+
+Maybe	O	-
+I	O	-
+'ve	O	-
+stormed	O	-
+out	O	-
+of	O	-
+every	O	-
+single	O	-
+room	O	-
+in	O	-
+this	O	-
+town	O	-
+
+Threw	O	-
+out	O	-
+our	O	-
+cloaks	O	-
+and	O	-
+our	O	-
+daggers	O	-
+because	O	-
+it	O	-
+'s	O	-
+morning	O	-
+now	O	-
+
+It	O	-
+'s	O	-
+brighter	O	-
+now	O	-
+,	O	-
+now	O	-
+
+I	O	-
+do	O	-
+n't	O	-
+wan	O	-
+na	O	-
+look	O	-
+at	O	-
+anything	O	-
+else	O	-
+now	O	-
+that	O	-
+I	O	-
+saw	O	-
+you	O	-
+
+(	O	-
+I	O	-
+can	O	-
+never	O	-
+look	O	-
+away	O	-
+)	O	-
+
+I	O	-
+do	O	-
+n't	O	-
+wan	O	-
+na	O	-
+think	O	-
+of	O	-
+anything	O	-
+else	O	-
+now	O	-
+that	O	-
+I	O	-
+thought	O	-
+of	O	-
+you	O	-
+
+(	O	-
+Things	O	-
+will	O	-
+never	O	-
+be	O	-
+the	O	-
+same	O	-
+)	O	-
+
+I	O	-
+'ve	O	-
+been	O	-
+sleeping	O	-
+so	O	-
+long	O	-
+in	O	-
+a	O	-
+20-year	O	-
+dark	O	-
+night	O	-
+
+(	O	-
+Now	O	-
+I	O	-
+'m	O	-
+wide	O	-
+awake	O	-
+)	O	-
+
+And	O	-
+now	O	-
+I	O	-
+see	O	-
+daylight	O	-
+(	O	-
+Daylight	O	-
+)	O	-
+,	O	-
+I	O	-
+only	O	-
+see	O	-
+daylight	O	-
+(	O	-
+Daylight	O	-
+)	O	-
+
+I	O	-
+only	O	-
+see	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+
+I	O	-
+only	O	-
+see	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+
+And	O	-
+I	O	-
+can	O	-
+still	O	-
+see	O	-
+it	O	-
+all	O	-
+(	O	-
+In	O	-
+my	O	-
+mind	O	-
+)	O	-
+
+All	O	-
+of	O	-
+you	O	-
+,	O	-
+all	O	-
+of	O	-
+me	O	-
+(	O	-
+Intertwined	O	-
+)	O	-
+
+I	O	-
+once	O	-
+believed	O	-
+love	O	-
+would	O	-
+be	O	-
+(	O	-
+Black	O	-
+and	O	-
+white	O	-
+)	O	-
+
+But	O	-
+it	O	-
+'s	O	-
+golden	O	-
+(	O	-
+Golden	O	-
+)	O	-
+
+And	O	-
+I	O	-
+can	O	-
+still	O	-
+see	O	-
+it	O	-
+all	O	-
+(	O	-
+In	O	-
+my	O	-
+head	O	-
+)	O	-
+
+Back	O	-
+and	O	-
+forth	O	-
+from	O	-
+New	B-LOC	North American
+York	I-LOC	North American
+(	O	-
+Sneaking	O	-
+in	O	-
+your	O	-
+bed	O	-
+)	O	-
+
+I	O	-
+once	O	-
+believed	O	-
+love	O	-
+would	O	-
+be	O	-
+(	O	-
+Burning	O	-
+red	O	-
+)	O	-
+
+But	O	-
+it	O	-
+'s	O	-
+golden	O	-
+
+Like	O	-
+daylight	O	-
+,	O	-
+like	O	-
+daylight	O	-
+
+Like	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+
+I	O	-
+do	O	-
+n't	O	-
+wan	O	-
+na	O	-
+look	O	-
+at	O	-
+anything	O	-
+else	O	-
+now	O	-
+that	O	-
+I	O	-
+saw	O	-
+you	O	-
+
+(	O	-
+I	O	-
+can	O	-
+never	O	-
+look	O	-
+away	O	-
+)	O	-
+
+And	O	-
+I	O	-
+do	O	-
+n't	O	-
+wan	O	-
+na	O	-
+think	O	-
+of	O	-
+anything	O	-
+else	O	-
+now	O	-
+that	O	-
+I	O	-
+thought	O	-
+of	O	-
+you	O	-
+
+(	O	-
+Things	O	-
+will	O	-
+never	O	-
+be	O	-
+the	O	-
+same	O	-
+)	O	-
+
+I	O	-
+'ve	O	-
+been	O	-
+sleeping	O	-
+so	O	-
+long	O	-
+in	O	-
+a	O	-
+20-year	O	-
+dark	O	-
+night	O	-
+
+(	O	-
+Now	O	-
+I	O	-
+'m	O	-
+wide	O	-
+awake	O	-
+)	O	-
+
+And	O	-
+now	O	-
+I	O	-
+see	O	-
+daylight	O	-
+(	O	-
+I	O	-
+see	O	-
+daylight	O	-
+)	O	-
+,	O	-
+I	O	-
+only	O	-
+see	O	-
+daylight	O	-
+(	O	-
+Ah	O	-
+)	O	-
+
+I	O	-
+only	O	-
+see	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+
+I	O	-
+only	O	-
+see	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+(	O	-
+Ah	O	-
+)	O	-
+
+(	O	-
+And	O	-
+I	O	-
+can	O	-
+still	O	-
+see	O	-
+it	O	-
+all	O	-
+)	O	-
+
+I	O	-
+only	O	-
+see	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+
+(	O	-
+And	O	-
+I	O	-
+can	O	-
+still	O	-
+see	O	-
+it	O	-
+all	O	-
+,	O	-
+back	O	-
+and	O	-
+forth	O	-
+from	O	-
+New	B-LOC	North American
+York	I-LOC	North American
+)	O	-
+
+I	O	-
+only	O	-
+see	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+,	O	-
+daylight	O	-
+
+(	O	-
+I	O	-
+once	O	-
+believed	O	-
+love	O	-
+would	O	-
+be	O	-
+burning	O	-
+red	O	-
+)	O	-
+
+Like	O	-
+daylight	O	-
+
+It	O	-
+'s	O	-
+golden	O	-
+like	O	-
+daylight	O	-
+
+You	O	-
+got	O	-
+ta	O	-
+step	O	-
+into	O	-
+the	O	-
+daylight	O	-
+and	O	-
+let	O	-
+it	O	-
+go	O	-
+
+Just	O	-
+let	O	-
+it	O	-
+go	O	-
+,	O	-
+let	O	-
+it	O	-
+go	O	-
+
+I	O	-
+wan	O	-
+na	O	-
+be	O	-
+defined	O	-
+by	O	-
+the	O	-
+things	O	-
+that	O	-
+I	O	-
+love	O	-
+
+Not	O	-
+the	O	-
+things	O	-
+I	O	-
+hate	O	-
+
+Not	O	-
+the	O	-
+things	O	-
+I	O	-
+'m	O	-
+afraid	O	-
+of	O	-
+,	O	-
+I	O	-
+'m	O	-
+afraid	O	-
+of	O	-
+
+Or	O	-
+the	O	-
+things	O	-
+that	O	-
+haunt	O	-
+me	O	-
+in	O	-
+the	O	-
+middle	O	-
+of	O	-
+the	O	-
+night	O	-
+
+I	O	-
+,	O	-
+I	O	-
+just	O	-
+think	O	-
+that	O	-
+
+You	O	-
+are	O	-
+what	O	-
+you	O	-
+love	O	-
+

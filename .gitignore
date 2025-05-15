@@ -1,7 +1,6 @@
 .history
 .venv
 __pycach__
-/annotation
 /logs
 /models
 /xlmr-cultural-3

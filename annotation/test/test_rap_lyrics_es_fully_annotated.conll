@@ -1,0 +1,3579 @@
+Mami	O	-
+dime	O	-
+lo	O	-
+que	O	-
+quieras	O	-
+
+Que	O	-
+no	O	-
+te	O	-
+voy	O	-
+a	O	-
+escuchar	O	-
+
+Dentro	O	-
+de	O	-
+mí	O	-
+nada	O	-
+queda	O	-
+
+Están	O	-
+luchando	O	-
+el	O	-
+bien	O	-
+y	O	-
+el	O	-
+mal	O	-
+
+Estoy	O	-
+metido	O	-
+en	O	-
+una	O	-
+rueda	O	-
+
+Que	O	-
+no	O	-
+para	O	-
+de	O	-
+girar	O	-
+
+No	O	-
+se	O	-
+si	O	-
+estoy	O	-
+dentro	O	-
+o	O	-
+fuera	O	-
+
+Vivo	O	-
+en	O	-
+otra	O	-
+realidad	O	-
+
+Mami	O	-
+dime	O	-
+lo	O	-
+que	O	-
+quieras	O	-
+
+Que	O	-
+no	O	-
+te	O	-
+voy	O	-
+a	O	-
+escuchar	O	-
+
+Dentro	O	-
+de	O	-
+mí	O	-
+nada	O	-
+queda	O	-
+
+Están	O	-
+luchando	O	-
+el	O	-
+bien	O	-
+y	O	-
+el	O	-
+mal	O	-
+
+Estoy	O	-
+metido	O	-
+en	O	-
+una	O	-
+rueda	O	-
+
+Que	O	-
+no	O	-
+para	O	-
+de	O	-
+girar	O	-
+
+No	O	-
+se	O	-
+si	O	-
+estoy	O	-
+dentro	O	-
+o	O	-
+fuera	O	-
+
+Vivo	O	-
+en	O	-
+otra	O	-
+realidad	O	-
+
+Chasquean	O	-
+los	O	-
+dedos	O	-
+,	O	-
+West	B-MISC	North American
+Side	I-MISC	North American
+Story	I-MISC	North American
+
+No	O	-
+tengo	O	-
+miedo	O	-
+si	O	-
+voy	O	-
+a	O	-
+morir	O	-
+
+Blanco	O	-
+y	O	-
+negro	O	-
+,	O	-
+Border	B-MISC	Non-cultural
+Collie	I-MISC	Non-cultural
+
+Dentro	O	-
+de	O	-
+mí	O	-
+,	O	-
+there’s	O	-
+nobody	O	-
+
+Fugitivos	O	-
+,	O	-
+Clyde	B-PER	North American
+y	O	-
+Bonnie	B-PER	North American
+
+Apolo	B-MISC	North American
+11	I-MISC	North American
+,	O	-
+Michael	B-PER	North American
+Collins	I-PER	North American
+
+En	O	-
+la	O	-
+estación	O	-
+de	O	-
+Solaris	B-LOC	European
+
+Every	O	-
+breath	O	-
+you	O	-
+take	O	-
+,	O	-
+The	B-ORG	North American
+Police	I-ORG	North American
+
+God	O	-
+save	O	-
+fellas	O	-
+
+Tú	O	-
+y	O	-
+yo	O	-
+en	O	-
+Maison	B-ORG	European
+Margielas	I-ORG	European
+,	O	-
+(	O	-
+yeaah	O	-
+)	O	-
+
+Tú	O	-
+y	O	-
+yo	O	-
+en	O	-
+buenas	O	-
+y	O	-
+malas	O	-
+,	O	-
+mami	O	-
+
+Tú	O	-
+y	O	-
+yo	O	-
+adentro	O	-
+y	O	-
+afuera	O	-
+
+La	O	-
+meto	O	-
+bajo	O	-
+la	O	-
+barrera	O	-
+
+Y	O	-
+después	O	-
+les	O	-
+miro	O	-
+las	O	-
+caras	O	-
+
+Aaay	O	-
+,	O	-
+si	O	-
+yo	O	-
+te	O	-
+contara	O	-
+
+Lo	O	-
+que	O	-
+hay	O	-
+detrás	O	-
+de	O	-
+esa	O	-
+ladera	O	-
+
+Cactus	B-PER	European
+,	O	-
+Pétalo	B-PER	European
+y	O	-
+Burbuja	B-PER	European
+
+Siempre	O	-
+haces	O	-
+que	O	-
+algo	O	-
+en	O	-
+mí	O	-
+cruja	O	-
+
+Esas	O	-
+flores	O	-
+ya	O	-
+no	O	-
+me	O	-
+relajan	O	-
+
+Ya	O	-
+no	O	-
+me	O	-
+bajan	O	-
+,	O	-
+hacen	O	-
+que	O	-
+suba	O	-
+
+Siempre	O	-
+siento	O	-
+que	O	-
+hay	O	-
+alguien	O	-
+que	O	-
+me	O	-
+empuja	O	-
+
+Como	O	-
+Drácula	B-PER	European
+duermo	O	-
+en	O	-
+una	O	-
+caja	O	-
+
+Hace	O	-
+tiempo	O	-
+que	O	-
+les	O	-
+tengo	O	-
+ventaja	O	-
+
+Lo	O	-
+que	O	-
+aprendí	O	-
+me	O	-
+lo	O	-
+enseñó	O	-
+una	O	-
+bruja	O	-
+
+Mami	O	-
+dime	O	-
+lo	O	-
+que	O	-
+quieras	O	-
+
+Que	O	-
+no	O	-
+te	O	-
+voy	O	-
+a	O	-
+escuchar	O	-
+
+Dentro	O	-
+de	O	-
+mí	O	-
+nada	O	-
+queda	O	-
+
+Están	O	-
+luchando	O	-
+el	O	-
+bien	O	-
+y	O	-
+el	O	-
+mal	O	-
+
+Estoy	O	-
+metido	O	-
+en	O	-
+una	O	-
+rueda	O	-
+
+Que	O	-
+no	O	-
+para	O	-
+de	O	-
+girar	O	-
+
+No	O	-
+se	O	-
+si	O	-
+estoy	O	-
+dentro	O	-
+o	O	-
+fuera	O	-
+
+Vivo	O	-
+en	O	-
+otra	O	-
+realidad	O	-
+
+Mami	O	-
+dime	O	-
+lo	O	-
+que	O	-
+quieras	O	-
+
+Que	O	-
+no	O	-
+te	O	-
+voy	O	-
+a	O	-
+escuchar	O	-
+
+Dentro	O	-
+de	O	-
+mí	O	-
+nada	O	-
+queda	O	-
+
+Están	O	-
+luchando	O	-
+el	O	-
+bien	O	-
+y	O	-
+el	O	-
+mal	O	-
+
+Estoy	O	-
+metido	O	-
+en	O	-
+una	O	-
+rueda	O	-
+
+Que	O	-
+no	O	-
+para	O	-
+de	O	-
+girar	O	-
+
+No	O	-
+se	O	-
+si	O	-
+estoy	O	-
+dentro	O	-
+o	O	-
+fuera	O	-
+
+Vivo	O	-
+en	O	-
+otra	O	-
+realidad	O	-
+
+Tu	O	-
+y	O	-
+yo	O	-
+en	O	-
+París	B-LOC	European
+ye	O	-
+
+En	O	-
+la	O	-
+casa	O	-
+Beetlejuice	B-MISC	North American
+ye	O	-
+
+No	O	-
+creo	O	-
+que	O	-
+nadie	O	-
+nos	O	-
+pille	O	-
+
+Tu	O	-
+eres	O	-
+Mónica	B-PER	European
+y	O	-
+yo	O	-
+Vincent	B-PER	European
+
+Mami	O	-
+ven	O	-
+hazme	O	-
+un	O	-
+esguince	O	-
+
+Mami	O	-
+ven	O	-
+ponme	O	-
+en	O	-
+un	O	-
+trance	O	-
+
+No	O	-
+creo	O	-
+que	O	-
+nadie	O	-
+nos	O	-
+alcance	O	-
+
+Vamos	O	-
+a	O	-
+vivir	O	-
+a	O	-
+Pilsen	B-LOC	European
+
+Baby	O	-
+no	O	-
+se	O	-
+que	O	-
+me	O	-
+dices	O	-
+
+Te	O	-
+regalo	O	-
+el	O	-
+Omnitrix	B-MISC	North American
+ye	O	-
+
+Ya	O	-
+no	O	-
+quiero	O	-
+convertirme	O	-
+
+Estoy	O	-
+llorando	O	-
+como	O	-
+Myrtle	B-PER	North American
+
+Todo	O	-
+cambia	O	-
+si	O	-
+me	O	-
+sigues	O	-
+
+Tu	O	-
+y	O	-
+yo	O	-
+metidos	O	-
+en	O	-
+Silver	B-LOC	North American
+Lake	I-LOC	North American
+
+Sigo	O	-
+en	O	-
+The	B-PER	North American
+Smiths	I-PER	North American
+como	O	-
+Morrisey	B-PER	North American
+
+Si	O	-
+vais	O	-
+por	O	-
+mi	O	-
+cuerda	O	-
+resbalaréis	O	-
+
+La	O	-
+niña	O	-
+de	O	-
+Ring	B-MISC	North American
+,	O	-
+Héctor	B-PER	European
+Bellerín	I-PER	European
+
+Pinto	O	-
+tu	O	-
+valla	O	-
+,	O	-
+Huckleberry	B-PER	North American
+Finn	I-PER	North American
+
+Puta	O	-
+pues	O	-
+claro	O	-
+que	O	-
+sale	O	-
+de	O	-
+mí	O	-
+
+Los	O	-
+ojos	O	-
+abiertos	O	-
+me	O	-
+creo	O	-
+Amélie	B-PER	European
+
+En	O	-
+todas	O	-
+partes	O	-
+Mónica	B-PER	European
+Cardui	I-PER	European
+
+Tenía	O	-
+corazón	O	-
+pero	O	-
+lo	O	-
+perdí	O	-
+
+Era	O	-
+un	O	-
+niño	O	-
+triste	O	-
+como	O	-
+lo	O	-
+era	O	-
+Finn	B-PER	North American
+
+Y	O	-
+entonces	O	-
+viniste	O	-
+a	O	-
+salvarme	O	-
+de	O	-
+mí	O	-
+
+Mami	O	-
+dime	O	-
+lo	O	-
+que	O	-
+quieras	O	-
+
+Que	O	-
+no	O	-
+te	O	-
+voy	O	-
+a	O	-
+escuchar	O	-
+
+Dentro	O	-
+de	O	-
+mí	O	-
+nada	O	-
+queda	O	-
+
+Están	O	-
+luchando	O	-
+el	O	-
+bien	O	-
+y	O	-
+el	O	-
+mal	O	-
+
+Estoy	O	-
+metido	O	-
+en	O	-
+una	O	-
+rueda	O	-
+
+Que	O	-
+no	O	-
+para	O	-
+de	O	-
+girar	O	-
+
+No	O	-
+se	O	-
+si	O	-
+estoy	O	-
+dentro	O	-
+o	O	-
+fuera	O	-
+
+Vivo	O	-
+en	O	-
+otra	O	-
+realidad	O	-
+
+Mami	O	-
+dime	O	-
+lo	O	-
+que	O	-
+quieras	O	-
+
+Que	O	-
+no	O	-
+te	O	-
+voy	O	-
+a	O	-
+escuchar	O	-
+
+Dentro	O	-
+de	O	-
+mí	O	-
+nada	O	-
+queda	O	-
+
+Están	O	-
+luchando	O	-
+el	O	-
+bien	O	-
+y	O	-
+el	O	-
+mal	O	-
+
+Estoy	O	-
+metido	O	-
+en	O	-
+una	O	-
+rueda	O	-
+
+Que	O	-
+no	O	-
+para	O	-
+de	O	-
+girar	O	-
+
+No	O	-
+se	O	-
+si	O	-
+estoy	O	-
+dentro	O	-
+o	O	-
+fuera	O	-
+
+Vivo	O	-
+en	O	-
+otra	O	-
+realidad	O	-
+
+Mmm	O	-
+,	O	-
+yah	O	-
+
+Ay	O	-
+
+Mucho	O	-
+Cachi	B-MISC	Non-cultural
+Richi	I-MISC	Non-cultural
+,	O	-
+mucho	O	-
+buche	O	-
+
+(	O	-
+Mucho	O	-
+,	O	-
+mucho	O	-
+)	O	-
+,	O	-
+ah	O	-
+
+Mucho	O	-
+buche	O	-
+,	O	-
+mucho	O	-
+Cachi	B-MISC	Non-cultural
+Richi	I-MISC	Non-cultural
+
+Mucho	O	-
+coche'	O	-
+,	O	-
+mucho	O	-
+Mitsubishi	B-ORG	Eastern Asian
+
+Mucho	O	-
+buche	O	-
+,	O	-
+mucho	O	-
+Cachi	B-MISC	Non-cultural
+Richi	I-MISC	Non-cultural
+
+Mucho'	O	-
+cooking	O	-
+,	O	-
+chicken	O	-
+in	O	-
+the	O	-
+kitchen	O	-
+
+Tu	O	-
+estilo	O	-
+es	O	-
+como	O	-
+mi	O	-
+inglés	O	-
+,	O	-
+de	O	-
+garrafón	O	-
+de	O	-
+agua	O	-
+Vichy	B-ORG	European
+
+Hay	O	-
+mucho	O	-
+papichulo	O	-
+pero	O	-
+poca'	O	-
+bitches	O	-
+
+Mucho	O	-
+capo	O	-
+,	O	-
+pero	O	-
+poco	O	-
+capisci	O	-
+
+Mucho'	O	-
+inventan	O	-
+mucho	O	-
+,	O	-
+como	O	-
+Da	B-PER	European
+Vinci	I-PER	European
+
+Mucho	O	-
+macho	O	-
+,	O	-
+mucho	O	-
+mamarracho	O	-
+
+Mucho	O	-
+tacho	O	-
+como	O	-
+mucho	O	-
+techo	O	-
+
+Muchas	O	-
+tocha'	O	-
+,	O	-
+mucho	O	-
+pa'l	O	-
+pecho	O	-
+
+Mucho	O	-
+a	O	-
+pachas	O	-
+,	O	-
+mucho	O	-
+cacho	O	-
+chacho	O	-
+
+No	O	-
+me	O	-
+acuerdo	O	-
+mucho	O	-
+,	O	-
+fuma	O	-
+mucho	O	-
+hachís	O	-
+
+Mucho	O	-
+no	O	-
+te	O	-
+escucho	O	-
+,	O	-
+así	O	-
+mucho	O	-
+más	O	-
+chachi	O	-
+
+Hay	O	-
+mucho	O	-
+aguilucho	O	-
+,	O	-
+mucho	O	-
+paparazzi	B-PER	European
+
+Mucho	O	-
+Micromachine	O	-
+en	O	-
+la	O	-
+machine	O	-
+
+Sean	O	-
+mariachis	O	-
+,	O	-
+cuenta	O	-
+hasta	O	-
+8	O	-
+,	O	-
+no	O	-
+lo	O	-
+hagas	O	-
+pocho	O	-
+
+Echo	O	-
+mucha	O	-
+cosa'	O	-
+a	O	-
+mi	O	-
+bizcocho	O	-
+
+He	O	-
+hecho	O	-
+mucha	O	-
+cosa'	O	-
+por	O	-
+un	O	-
+chocho	O	-
+
+Muchas	O	-
+mienten	O	-
+mucho	O	-
+como	O	-
+Pinocho	B-PER	European
+
+Mucho	O	-
+capricho	O	-
+,	O	-
+mucho	O	-
+cuchi-cuchi	O	-
+
+Yo	O	-
+muy	O	-
+chamberga	O	-
+,	O	-
+pero	O	-
+tu	O	-
+mucho	O	-
+Gucci	B-ORG	European
+
+Yo	O	-
+mucha	O	-
+hucha	O	-
+y	O	-
+tu	O	-
+mucho	O	-
+derroche	O	-
+
+No	O	-
+me	O	-
+mandes	O	-
+mucho	O	-
+,	O	-
+pilla	O	-
+un	O	-
+Tamagochi	B-ORG	Eastern Asian
+
+Perfilo	O	-
+mis	O	-
+letra'	O	-
+y	O	-
+mi	O	-
+mostacho	O	-
+
+Veo	O	-
+muchos	O	-
+falsos	O	-
+como	O	-
+mis	O	-
+guaracho'	O	-
+
+Veo	O	-
+mucho	O	-
+doble	O	-
+y	O	-
+no	O	-
+voy	O	-
+borracho	O	-
+
+Yo	O	-
+sí	O	-
+soy	O	-
+Mucho	O	-
+,	O	-
+pero	O	-
+no	O	-
+el	O	-
+Muchacho	O	-
+
+Steve	B-PER	European
+Lean	I-PER	European
+
+Soy	O	-
+un	O	-
+demonio	O	-
+bueno	O	-
+como	O	-
+Meliodas	B-PER	Eastern Asian
+(	O	-
+Wow	O	-
+)	O	-
+
+Pero	O	-
+no	O	-
+permito	O	-
+que	O	-
+nadie	O	-
+me	O	-
+joda	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Rappers	O	-
+se	O	-
+enfadan	O	-
+porque	O	-
+no	O	-
+les	O	-
+doy	O	-
+bola	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Porque	O	-
+en	O	-
+mis	O	-
+conciertos	O	-
+siempre	O	-
+hay	O	-
+mucha	O	-
+cola	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Porque	O	-
+me	O	-
+la	O	-
+suda	O	-
+su	O	-
+puta	O	-
+vida	O	-
+entera	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Me	O	-
+la	O	-
+suda	O	-
+todo	O	-
+menos	O	-
+su	O	-
+morena	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Cuando	O	-
+me	O	-
+escucha	O	-
+siempre	O	-
+dice	O	-
+que	O	-
+vuela	O	-
+
+Cuando	O	-
+me	O	-
+la	O	-
+chupa	O	-
+ella	O	-
+siempre	O	-
+e	O	-
+'	O	-
+muy	O	-
+buena	O	-
+
+Yo	O	-
+te	O	-
+regalo	O	-
+mi	O	-
+visión	O	-
+entera	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+Me	O	-
+queda	O	-
+otra	O	-
+puta	O	-
+misión	O	-
+allí	O	-
+afuera	O	-
+
+De	O	-
+nuevo	O	-
+Stickito	B-PER	European
+ha	O	-
+salvado	O	-
+a	O	-
+la	O	-
+Tierra	B-LOC	European
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+Soy	O	-
+lo	O	-
+mejorcito	O	-
+de	O	-
+la	O	-
+nueva	O	-
+ola	O	-
+
+También	O	-
+lo	O	-
+más	O	-
+fresco	O	-
+de	O	-
+la	O	-
+vieja	O	-
+escuela	O	-
+,	O	-
+eh	O	-
+
+(	O	-
+Quieren	O	-
+hacerme	O	-
+mil	O	-
+guerras	O	-
+;	O	-
+guerras	O	-
+)	O	-
+
+(	O	-
+La	O	-
+luz	O	-
+del	O	-
+sol	O	-
+le	O	-
+quema	O	-
+)	O	-
+
+(	O	-
+Además	O	-
+con	O	-
+tantas	O	-
+hienas	O	-
+;	O	-
+go-go	O	-
+-	O	-
+go-go	O	-
+-	O	-
+go-go	O	-
+-	O	-
+go	O	-
+;	O	-
+eh-yeah	O	-
+)	O	-
+
+Cuando	O	-
+me	O	-
+pongo	O	-
+el	O	-
+pelo	O	-
+mora'o	O	-
+como	O	-
+Trunks	B-PER	Eastern Asian
+
+Les	O	-
+quiere	O	-
+acabar	O	-
+pegajoso	O	-
+como	O	-
+kush	B-MISC	North American
+
+Levanta	O	-
+ya	O	-
+,	O	-
+M-A	B-PER	European
+-	I-PER	European
+N-U	I-PER	European
+
+Tío	O	-
+,	O	-
+tu'	O	-
+pana'	O	-
+son	O	-
+motherfucking	O	-
+noobs	O	-
+
+Yo	O	-
+sé	O	-
+quién	O	-
+soy	O	-
+,	O	-
+no	O	-
+sé	O	-
+si	O	-
+sabe'	O	-
+tú	O	-
+(	O	-
+Tú	O	-
+,	O	-
+uh	O	-
+)	O	-
+
+Quiero	O	-
+un	O	-
+McLaren	B-ORG	European
+,	O	-
+brrum-brrum	O	-
+-	O	-
+brrum	O	-
+
+Miro	O	-
+tu	O	-
+foto	O	-
+y	O	-
+hago	O	-
+zoom	O	-
+
+Quiero	O	-
+tu	O	-
+pompa	O	-
+,	O	-
+Bubbaloo	B-ORG	Latin
+
+Estoy	O	-
+conecta'o	O	-
+como	O	-
+Bluetooth	B-ORG	Non-cultural
+
+Si	O	-
+no	O	-
+subo	O	-
+es	O	-
+porque	O	-
+no	O	-
+hago	O	-
+el	O	-
+payaso	O	-
+como	O	-
+tú	O	-
+(	O	-
+Tú	O	-
+,	O	-
+tú	O	-
+)	O	-
+
+(	O	-
+En	O	-
+la	O	-
+puta	O	-
+vida	O	-
+tu	O	-
+vas	O	-
+a	O	-
+entrar	O	-
+en	O	-
+mi	O	-
+crew	O	-
+)	O	-
+
+(	O	-
+Dios	O	-
+me	O	-
+bendiga	O	-
+to'	O	-
+los	O	-
+mío'	O	-
+están	O	-
+brush	O	-
+)	O	-
+
+Arigato	B-MISC	Eastern Asian
+Meliodas	B-PER	Eastern Asian
+
+Saste	O	-
+okaerinasai	O	-
+,	O	-
+demo	O	-
+[	O	-
+?	O	-
+]	O	-
+
+Soy	O	-
+un	O	-
+demonio	O	-
+bueno	O	-
+como	O	-
+Meliodas	B-PER	Eastern Asian
+(	O	-
+Wow	O	-
+)	O	-
+
+Pero	O	-
+no	O	-
+permito	O	-
+que	O	-
+nadie	O	-
+me	O	-
+joda	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Rappers	B-PER	North American
+se	O	-
+enfadan	O	-
+porque	O	-
+no	O	-
+les	O	-
+doy	O	-
+bola	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Porque	O	-
+en	O	-
+mis	O	-
+conciertos	O	-
+siempre	O	-
+hay	O	-
+mucha	O	-
+cola	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Porque	O	-
+me	O	-
+la	O	-
+suda	O	-
+su	O	-
+puta	O	-
+vida	O	-
+entera	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Me	O	-
+la	O	-
+suda	O	-
+todo	O	-
+menos	O	-
+su	O	-
+morena	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Cuando	O	-
+me	O	-
+escucha	O	-
+siempre	O	-
+dice	O	-
+que	O	-
+vuela	O	-
+
+Cuando	O	-
+me	O	-
+la	O	-
+chupa	O	-
+ella	O	-
+siempre	O	-
+e	O	-
+'	O	-
+muy	O	-
+buena	O	-
+
+Yo	O	-
+te	O	-
+regalo	O	-
+mi	O	-
+visión	O	-
+entera	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+Me	O	-
+queda	O	-
+otra	O	-
+puta	O	-
+misión	O	-
+allí	O	-
+afuera	O	-
+
+De	O	-
+nuevo	O	-
+Stickito	B-PER	European
+ha	O	-
+salvado	O	-
+a	O	-
+la	O	-
+Tierra	B-LOC	European
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+Soy	O	-
+lo	O	-
+mejorcito	O	-
+de	O	-
+la	O	-
+nueva	O	-
+ola	O	-
+
+También	O	-
+lo	O	-
+más	O	-
+fresco	O	-
+de	O	-
+la	O	-
+vieja	O	-
+escuela	O	-
+,	O	-
+eh	O	-
+
+(	O	-
+Quieren	O	-
+hacerme	O	-
+mil	O	-
+guerras	O	-
+;	O	-
+guerras	O	-
+)	O	-
+
+(	O	-
+La	O	-
+luz	O	-
+del	O	-
+sol	O	-
+le	O	-
+quema	O	-
+)	O	-
+
+(	O	-
+Además	O	-
+con	O	-
+tantas	O	-
+hienas	O	-
+)	O	-
+
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+
+Exploto	O	-
+como	O	-
+TNT	B-ORG	European
+(	O	-
+Yeah	O	-
+)	O	-
+
+Mamita	O	-
+,	O	-
+perdóname	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Ella	O	-
+todo	O	-
+lo	O	-
+hace	O	-
+bien	O	-
+(	O	-
+Yeah	O	-
+)	O	-
+
+Yo	O	-
+solo	O	-
+sigo	O	-
+a	O	-
+mis	O	-
+pies	O	-
+,	O	-
+eh	O	-
+
+Porque	O	-
+tú	O	-
+eres	O	-
+mi	O	-
+bebé	O	-
+,	O	-
+yeah	O	-
+
+Mami	O	-
+,	O	-
+yo	O	-
+soy	O	-
+tu	O	-
+bebé	O	-
+,	O	-
+yeah	O	-
+
+Tú	O	-
+mi	O	-
+Barbie	B-ORG	North American
+,	O	-
+yo	O	-
+tu	O	-
+Ken	B-PER	North American
+,	O	-
+eh	O	-
+,	O	-
+eh	O	-
+
+Quieren	O	-
+venir	O	-
+a	O	-
+joder	O	-
+,	O	-
+eh	O	-
+
+Ahora	O	-
+que	O	-
+estoy	O	-
+todo	O	-
+Zen	O	-
+,	O	-
+eh	O	-
+
+Pero	O	-
+no	O	-
+van	O	-
+a	O	-
+poder	O	-
+,	O	-
+eh	O	-
+
+Porque	O	-
+estoy	O	-
+al	O	-
+cien	O	-
+por	O	-
+cien	O	-
+
+Y	O	-
+ahora	O	-
+me	O	-
+visto	O	-
+,	O	-
+me	O	-
+voy	O	-
+a	O	-
+quitar	O	-
+mi	O	-
+cruz	O	-
+de	O	-
+Cristo	B-PER	European
+
+Yo	O	-
+siempre	O	-
+insisto	O	-
+,	O	-
+pero	O	-
+si	O	-
+me	O	-
+quiere	O	-
+no	O	-
+rechisto	O	-
+
+Soy	O	-
+un	O	-
+demonio	O	-
+bueno	O	-
+como	O	-
+Meliodas	B-PER	Eastern Asian
+(	O	-
+Wow	O	-
+)	O	-
+
+Pero	O	-
+no	O	-
+permito	O	-
+que	O	-
+nadie	O	-
+me	O	-
+joda	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Rappers	O	-
+se	O	-
+enfadan	O	-
+porque	O	-
+no	O	-
+les	O	-
+doy	O	-
+bola	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Porque	O	-
+en	O	-
+mis	O	-
+conciertos	O	-
+siempre	O	-
+hay	O	-
+mucha	O	-
+cola	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Porque	O	-
+me	O	-
+la	O	-
+suda	O	-
+su	O	-
+puta	O	-
+vida	O	-
+entera	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Me	O	-
+la	O	-
+suda	O	-
+todo	O	-
+menos	O	-
+su	O	-
+morena	O	-
+(	O	-
+Wow	O	-
+)	O	-
+
+Cuando	O	-
+me	O	-
+escucha	O	-
+siempre	O	-
+dice	O	-
+que	O	-
+vuela	O	-
+
+Cuando	O	-
+me	O	-
+la	O	-
+chupa	O	-
+ella	O	-
+siempre	O	-
+e	O	-
+'	O	-
+muy	O	-
+buena	O	-
+
+Yo	O	-
+te	O	-
+regalo	O	-
+mi	O	-
+visión	O	-
+entera	O	-
+(	O	-
+Yeah	O	-
+,	O	-
+yeah	O	-
+,	O	-
+yeah	O	-
+)	O	-
+
+Me	O	-
+queda	O	-
+otra	O	-
+puta	O	-
+misión	O	-
+allí	O	-
+afuera	O	-
+
+De	O	-
+nuevo	O	-
+Stickito	B-PER	European
+ha	O	-
+salvado	O	-
+a	O	-
+la	O	-
+Tierra	B-LOC	European
+
+Soy	O	-
+lo	O	-
+mejorcito	O	-
+de	O	-
+la	O	-
+nueva	O	-
+ola	O	-
+
+También	O	-
+lo	O	-
+más	O	-
+fresco	O	-
+de	O	-
+la	O	-
+vieja	O	-
+escuela	O	-
+,	O	-
+eh	O	-
+
+(	O	-
+Quieren	O	-
+hacerme	O	-
+mil	O	-
+guerras	O	-
+;	O	-
+guerras	O	-
+)	O	-
+
+(	O	-
+La	O	-
+luz	O	-
+del	O	-
+sol	O	-
+le	O	-
+quema	O	-
+)	O	-
+
+(	O	-
+Además	O	-
+con	O	-
+tantas	O	-
+hienas	O	-
+;	O	-
+go-go	O	-
+-	O	-
+go-go	O	-
+-	O	-
+go-go	O	-
+-	O	-
+go	O	-
+;	O	-
+eh-yeah	O	-
+)	O	-
+
+No	O	-
+estás	O	-
+escribiendo	O	-
+
+Estoy	O	-
+con	O	-
+mi	O	-
+tren	O	-
+,	O	-
+¿	O	-
+te	O	-
+gusta	O	-
+?	O	-
+Lo	O	-
+acabo	O	-
+de	O	-
+comprar	O	-
+
+¿	O	-
+Y	O	-
+desde	O	-
+cuándo	O	-
+no	O	-
+escribís	O	-
+nada	O	-
+?	O	-
+
+Estuve	O	-
+de	O	-
+viaje	O	-
+
+Quizás	O	-
+ya	O	-
+no	O	-
+tengas	O	-
+nada	O	-
+que	O	-
+decir	O	-
+.	O	-
+Mira	O	-
+aquí	O	-
+te	O	-
+marqué	O	-
+varios	O	-
+trabajos	O	-
+posibles	O	-
+
+No	O	-
+necesito	O	-
+que	O	-
+me	O	-
+busques	O	-
+trabajo	O	-
+,	O	-
+estoy	O	-
+bien	O	-
+así	O	-
+,	O	-
+soy	O	-
+poeta	O	-
+
+¿	O	-
+Qué	O	-
+oficio	O	-
+es	O	-
+ser	O	-
+poeta	O	-
+?	O	-
+¿	O	-
+Dónde	O	-
+dice	O	-
+aquí	O	-
+?	O	-
+“	O	-
+Se	O	-
+busca	O	-
+poeta	O	-
+,	O	-
+buena	O	-
+remuneración	O	-
+”	O	-
+
+Traigo	O	-
+seis	O	-
+millones	O	-
+de	O	-
+maneras	O	-
+de	O	-
+morir	O	-
+,	O	-
+solo	O	-
+una	O	-
+de	O	-
+vivir	O	-
+
+Soy	O	-
+B-Boy	B-MISC	North American
+hasta	O	-
+la	O	-
+muerte	O	-
+es	O	-
+lo	O	-
+que	O	-
+quiero	O	-
+decir	O	-
+
+No	O	-
+me	O	-
+compares	O	-
+a	O	-
+un	O	-
+rapero	O	-
+que	O	-
+rima	O	-
+por	O	-
+rimar	O	-
+
+Javier	B-PER	European
+Ibarra	I-PER	European
+es	I-PER	-
+único	O	-
+un	O	-
+icono	O	-
+del	O	-
+puto	O	-
+rap	O	-
+
+He	O	-
+rimado	O	-
+miles	O	-
+de	O	-
+palabras	O	-
+y	O	-
+aun	O	-
+quiero	O	-
+más	O	-
+
+Sobre	O	-
+el	O	-
+ritmo	O	-
+sabes	O	-
+que	O	-
+les	O	-
+enseñé	O	-
+mil	O	-
+formas	O	-
+
+Podéis	O	-
+llamar	O	-
+a	O	-
+esto	O	-
+la	O	-
+era	O	-
+Kase	B-PER	European
+.	I-PER	European
+O	I-PER	European
+
+Lo	O	-
+siento	O	-
+en	O	-
+esta	O	-
+letra	O	-
+no	O	-
+hay	O	-
+mensaje	O	-
+,	O	-
+el	O	-
+mensaje	O	-
+soy	O	-
+yo	O	-
+
+Solo	O	-
+traigo	O	-
+,	O	-
+pura	O	-
+competición	O	-
+en	O	-
+el	O	-
+track	O	-
+:	O	-
+
+No	O	-
+hay	O	-
+pasta	O	-
+,	O	-
+no	O	-
+hay	O	-
+fama	O	-
+,	O	-
+solo	O	-
+importa	O	-
+el	O	-
+rap	O	-
+
+Todo	O	-
+por	O	-
+ser	O	-
+el	O	-
+rey	O	-
+del	O	-
+micro	O	-
+vitalicio	O	-
+
+Si	O	-
+nadie	O	-
+me	O	-
+ganó	O	-
+,	O	-
+y	O	-
+nadie	O	-
+me	O	-
+ganará	O	-
+,	O	-
+mi	O	-
+esfuerzo	O	-
+es	O	-
+enfermizo	O	-
+
+Tú	O	-
+quieres	O	-
+llegar	O	-
+donde	O	-
+estoy	O	-
+yo	O	-
+,	O	-
+¿	O	-
+en	O	-
+dos	O	-
+días	O	-
+?	O	-
+
+Ayer	O	-
+eras	O	-
+mi	O	-
+fan	O	-
+,	O	-
+hoy	O	-
+eres	O	-
+dios	O	-
+,	O	-
+¡	O	-
+tonterías	O	-
+!	O	-
+
+Que	O	-
+decías	O	-
+,	O	-
+a	O	-
+mi	O	-
+chaval	O	-
+me	O	-
+pagan	O	-
+los	O	-
+flows	O	-
+
+Pero	O	-
+sin	O	-
+duda	O	-
+el	O	-
+mejor	O	-
+premio	O	-
+es	O	-
+el	O	-
+aplauso	O	-
+en	O	-
+los	O	-
+shows	O	-
+
+Autodidacta	O	-
+,	O	-
+nadie	O	-
+sabe	O	-
+el	O	-
+truco	O	-
+
+Genética	O	-
+y	O	-
+laringe	O	-
+,	O	-
+ingeniería	O	-
+letrística	O	-
+en	O	-
+el	O	-
+surco	O	-
+
+Tú	O	-
+ya	O	-
+sabes	O	-
+quien	O	-
+,	O	-
+los	O	-
+brothers	O	-
+y	O	-
+el	O	-
+Rubén	B-PER	European
+
+Pasamos	O	-
+hora	O	-
+tras	O	-
+hora	O	-
+en	O	-
+el	O	-
+estudio	O	-
+hasta	O	-
+que	O	-
+quede	O	-
+bien	O	-
+
+Mil	O	-
+pensamientos	O	-
+por	O	-
+segundo	O	-
+esto	O	-
+no	O	-
+es	O	-
+vida	O	-
+
+Cuál	O	-
+de	O	-
+las	O	-
+voces	O	-
+es	O	-
+la	O	-
+que	O	-
+escucha	O	-
+el	O	-
+homicida	O	-
+
+No	O	-
+sé	O	-
+pero	O	-
+te	O	-
+oigo	O	-
+y	O	-
+me	O	-
+entran	O	-
+ganas	O	-
+de	O	-
+matar	O	-
+
+De	O	-
+cagar	O	-
+y	O	-
+vomitar	O	-
+,	O	-
+de	O	-
+romper	O	-
+tu	O	-
+compact	B-ORG	North American
+
+No	O	-
+nos	O	-
+culpes	O	-
+de	O	-
+errores	O	-
+que	O	-
+no	O	-
+hemos	O	-
+cometido	O	-
+y	O	-
+tú	O	-
+sí	O	-
+
+Ahora	O	-
+ves	O	-
+el	O	-
+tuyo	O	-
+orgullo	O	-
+engullo	O	-
+crudo	O	-
+como	O	-
+el	O	-
+sushi	B-MISC	Eastern Asian
+
+MC	B-PER	North American
+pussy	B-MISC	North American
+puta	O	-
+cursi	O	-
+,	O	-
+no	O	-
+me	O	-
+hables	O	-
+de	O	-
+jacuzzi	B-MISC	European
+
+El	O	-
+único	O	-
+que	O	-
+has	O	-
+visto	O	-
+lo	O	-
+pagaste	O	-
+en	O	-
+un	O	-
+puti	O	-
+
+Y	O	-
+eso	O	-
+lo	O	-
+puede	O	-
+hacer	O	-
+cualquiera	O	-
+,	O	-
+mas	O	-
+esta	O	-
+mi	O	-
+manera	O	-
+
+Es	O	-
+única	O	-
+en	O	-
+el	O	-
+puto	O	-
+espacio	O	-
+sideral	O	-
+,	O	-
+te	O	-
+mando	O	-
+fuera	O	-
+
+Como	O	-
+Erik	B-PER	European
+soy	O	-
+el	O	-
+puto	O	-
+jefe	O	-
+y	O	-
+te	O	-
+despido	O	-
+
+Te	O	-
+digo	O	-
+:	O	-
+"	O	-
+Fuera	O	-
+del	O	-
+rap	O	-
+,	O	-
+cabrón	O	-
+"	O	-
+,	O	-
+condénote	O	-
+al	O	-
+olvido	O	-
+,	O	-
+yo	O	-
+
+Vengo	O	-
+con	O	-
+rimas	O	-
+kilométricas	O	-
+,	O	-
+no	O	-
+competirás	O	-
+
+Luego	O	-
+me	O	-
+dirás	O	-
+:	O	-
+“	O	-
+Jodo	O	-
+cabrón	O	-
+como	O	-
+deliras	O	-
+,	O	-
+”	O	-
+
+Toma	O	-
+medidas	O	-
+,	O	-
+cura	O	-
+tu	O	-
+rap	O	-
+de	O	-
+estas	O	-
+heridas	O	-
+
+Chupa	O	-
+de	O	-
+mi	O	-
+flash	B-ORG	North American
+,	O	-
+bebe	O	-
+bebidas	O	-
+energéticas	O	-
+
+Para	O	-
+asustar	O	-
+a	O	-
+mis	O	-
+métricas	O	-
+
+Ponte	O	-
+una	O	-
+máscara	O	-
+más	O	-
+fea	O	-
+coleguita	O	-
+,	O	-
+anda	O	-
+quita	O	-
+
+Mi	O	-
+rap	O	-
+hermafrodita	O	-
+es	O	-
+una	O	-
+puta	O	-
+baba	O	-
+que	O	-
+se	O	-
+folla	O	-
+igual	O	-
+a	O	-
+chicos	O	-
+y	O	-
+chicas	O	-
+
+Si	O	-
+quieres	O	-
+grita	O	-
+,	O	-
+igual	O	-
+solo	O	-
+te	O	-
+mete	O	-
+la	O	-
+puntita	O	-
+
+Más	O	-
+tú	O	-
+quieres	O	-
+gordo	O	-
+borbotón	O	-
+de	O	-
+leche	O	-
+calentita	O	-
+
+Y	O	-
+flipas	O	-
+con	O	-
+los	O	-
+flows	B-MISC	North American
+del	O	-
+cosmopolita	O	-
+,	O	-
+universal	O	-
+es	O	-
+mi	O	-
+jodida	O	-
+retórica	O	-
+
+Pregunta	O	-
+por	O	-
+ahí	O	-
+,	O	-
+cuantos	O	-
+gozan	O	-
+de	O	-
+mi	O	-
+herencia	O	-
+
+Me	O	-
+considero	O	-
+del	O	-
+género	O	-
+referencia	O	-
+
+Esa	O	-
+tendencia	O	-
+a	O	-
+negar	O	-
+la	O	-
+evidencia	O	-
+
+Se	O	-
+acabó	O	-
+,	O	-
+el	O	-
+que	O	-
+nos	O	-
+odie	O	-
+que	O	-
+se	O	-
+arme	O	-
+de	O	-
+paciencia	O	-
+
+No	O	-
+puedes	O	-
+copiar	O	-
+la	O	-
+esencia	O	-
+tonto	O	-
+del	O	-
+culo	O	-
+
+Puedes	O	-
+decirle	O	-
+al	O	-
+cirujano	O	-
+que	O	-
+te	O	-
+ponga	O	-
+mis	O	-
+pómulos	O	-
+
+Pero	O	-
+no	O	-
+te	O	-
+hagas	O	-
+el	O	-
+tonto	O	-
+,	O	-
+co	O	-
+,	O	-
+no	O	-
+culpes	O	-
+al	O	-
+público	O	-
+
+Huele	O	-
+mal	O	-
+y	O	-
+es	O	-
+tu	O	-
+estilo	O	-
+culofónico	O	-
+
+Ciego	O	-
+de	O	-
+mí	O	-
+mismo	O	-
+,	O	-
+sí	O	-
+,	O	-
+de	O	-
+mi	O	-
+egocentrismo	O	-
+
+Pero	O	-
+siento	O	-
+por	O	-
+el	O	-
+ritmo	O	-
+un	O	-
+poderoso	O	-
+magnetismo	O	-
+
+Y	O	-
+es	O	-
+que	O	-
+,	O	-
+el	O	-
+rap	O	-
+es	O	-
+mi	O	-
+amigo	O	-
+de	O	-
+toda	O	-
+la	O	-
+vida	O	-
+
+Para	O	-
+un	O	-
+chalao	O	-
+como	O	-
+yo	O	-
+,	O	-
+la	O	-
+única	O	-
+salida	O	-
+
+No	O	-
+hago	O	-
+música	O	-
+de	O	-
+club	O	-
+,	O	-
+no	O	-
+espero	O	-
+que	O	-
+me	O	-
+pinche	O	-
+el	O	-
+DJ	B-PER	North American
+
+Bueno	O	-
+si	O	-
+pincha	O	-
+el	O	-
+Rumba	B-PER	European
+igual	O	-
+hasta	O	-
+me	O	-
+oiréis	O	-
+
+Si	O	-
+pincha	O	-
+el	O	-
+Potas	B-PER	European
+sonaré	O	-
+tras	O	-
+Pump	B-MISC	North American
+That	I-MISC	North American
+Bass	I-MISC	North American
+
+Si	O	-
+pincha	O	-
+el	O	-
+Señor	B-PER	European
+Rojo	I-PER	European
+,	O	-
+tras	O	-
+Isaac	B-PER	Nort American
+Hayes	I-PER	Nort American
+
+No	O	-
+espero	O	-
+que	O	-
+te	O	-
+aprendas	O	-
+esta	O	-
+letra	O	-
+
+Solo	O	-
+que	O	-
+me	O	-
+escuches	O	-
+en	O	-
+el	O	-
+coche	O	-
+
+Y	O	-
+desde	O	-
+la	O	-
+acera	O	-
+la	O	-
+gente	O	-
+diga	O	-
+:	O	-
+“	O	-
+¿	O	-
+Qué	O	-
+cruda	O	-
+música	O	-
+es	O	-
+esa	O	-
+?	O	-
+”	O	-
+
+¡	O	-
+Que	O	-
+pesa'o	O	-
+!	O	-
+,	O	-
+esta	O	-
+es	O	-
+la	O	-
+mierda	O	-
+que	O	-
+escucha	O	-
+hasta	O	-
+la	O	-
+hija	O	-
+de	O	-
+la	O	-
+princesa	O	-
+
+Te	O	-
+advierto	O	-
+que	O	-
+han	O	-
+dicho	O	-
+que	O	-
+hoy	O	-
+se	O	-
+casó	O	-
+Alberto	B-PER	European
+
+Y	O	-
+que	O	-
+uno	O	-
+de	O	-
+los	O	-
+invitados	O	-
+se	O	-
+dejó	O	-
+el	O	-
+coche	O	-
+abierto	O	-
+
+Que	O	-
+Javat	B-PER	European
+ha	O	-
+muerto	O	-
+y	O	-
+de	O	-
+esto	O	-
+lo	O	-
+cierto	O	-
+
+Es	O	-
+que	O	-
+hoy	O	-
+ofrezco	O	-
+un	O	-
+concierto	O	-
+pispa	O	-
+al	O	-
+experto	O	-
+
+En	O	-
+narración	O	-
+de	O	-
+verdadero	O	-
+interés	O	-
+
+En	O	-
+el	O	-
+capítulo	O	-
+de	O	-
+hoy	O	-
+
+Meto	O	-
+a	O	-
+los	O	-
+toy	O	-
+.	O	-
+.	O	-
+.	O	-
+¡	O	-
+yacos	O	-
+!	O	-
+en	O	-
+sus	O	-
+propios	O	-
+esfínteres	O	-
+
+Bájalo	O	-
+de	O	-
+internet	O	-
+
+Dios	O	-
+lleva	O	-
+mi	O	-
+rima	O	-
+en	O	-
+un	O	-
+carro	O	-
+tirao	O	-
+por	O	-
+tigres	O	-
+
+Hay	O	-
+un	O	-
+barranco	O	-
+lleno	O	-
+de	O	-
+ellos	O	-
+si	O	-
+me	O	-
+sigues	O	-
+te	O	-
+lo	O	-
+enseño	O	-
+
+Será	O	-
+como	O	-
+un	O	-
+mal	O	-
+sueño	O	-
+
+Despeño	O	-
+toys	B-PER	North American
+del	O	-
+puto	O	-
+gremio	O	-
+
+Merezco	O	-
+un	O	-
+premio	O	-
+,	O	-
+yo	O	-
+solo	O	-
+soy	O	-
+un	O	-
+vago	O	-
+fumador	O	-
+bohemio	O	-
+
+¿	O	-
+Pero	O	-
+tú	O	-
+tienes	O	-
+un	O	-
+sello	O	-
+o	O	-
+una	O	-
+empresa	O	-
+de	O	-
+pasteles	O	-
+?	O	-
+
+Incluye	O	-
+una	O	-
+calcamonía	O	-
+guapa	O	-
+al	O	-
+menos	O	-
+con	O	-
+el	O	-
+disco	O	-
+quieres	O	-
+
+¿	O	-
+Te	O	-
+gusta	O	-
+mucho	O	-
+el	O	-
+rap	O	-
+?	O	-
+,	O	-
+no	O	-
+tienes	O	-
+porque	O	-
+ser	O	-
+MC	B-PER	North American
+hijo	O	-
+
+¿	O	-
+Por	O	-
+qué	O	-
+no	O	-
+quieres	O	-
+el	O	-
+consejo	O	-
+que	O	-
+te	O	-
+dejo	O	-
+?	O	-
+
+A	O	-
+mi	O	-
+plín	O	-
+lo	O	-
+hago	O	-
+por	O	-
+ti	O	-
+,	O	-
+te	O	-
+ahorro	O	-
+sustos	O	-
+
+Y	O	-
+un	O	-
+camino	O	-
+de	O	-
+piedras	O	-
+y	O	-
+serpientes	O	-
+tras	O	-
+los	O	-
+arbustos	O	-
+
+Brusco	O	-
+y	O	-
+cruel	O	-
+,	O	-
+negocio	O	-
+del	O	-
+ocio	O	-
+
+Cuando	O	-
+la	O	-
+gente	O	-
+se	O	-
+aburre	O	-
+de	O	-
+ti	O	-
+,	O	-
+a	O	-
+tomar	O	-
+por	O	-
+
+Busca	O	-
+otro	O	-
+público	O	-
+socio	O	-
+
+No	O	-
+te	O	-
+hagas	O	-
+cruces	O	-
+por	O	-
+saber	O	-
+mi	O	-
+poción	O	-
+
+Traigo	O	-
+emoción	O	-
+al	O	-
+punto	O	-
+de	O	-
+cocción	O	-
+
+Alta	O	-
+cocina	O	-
+de	O	-
+rima	O	-
+,	O	-
+convierto	O	-
+raps	O	-
+en	O	-
+gelatina	O	-
+
+Pasto	O	-
+de	O	-
+letrinas	O	-
+,	O	-
+no	O	-
+te	O	-
+imaginas	O	-
+
+Mi	O	-
+dentista	O	-
+me	O	-
+preguntó	O	-
+que	O	-
+a	O	-
+qué	O	-
+me	O	-
+dedicaba	O	-
+
+Me	O	-
+dio	O	-
+por	O	-
+decir	O	-
+la	O	-
+verdad	O	-
+pensó	O	-
+que	O	-
+deliraba	O	-
+
+Miraba	O	-
+el	O	-
+tubo	O	-
+de	O	-
+la	O	-
+anestesia	O	-
+con	O	-
+cara	O	-
+rara	O	-
+
+En	O	-
+el	O	-
+futuro	O	-
+a	O	-
+su	O	-
+sobrina	O	-
+me	O	-
+pidió	O	-
+que	O	-
+le	O	-
+firmara	O	-
+
+Y	O	-
+mi	O	-
+vecina	O	-
+,	O	-
+Que	O	-
+qué	O	-
+tal	O	-
+con	O	-
+la	O	-
+orquesta	O	-
+,	O	-
+"	O	-
+Eh	O	-
+,	O	-
+guay	O	-
+,	O	-
+guay	O	-
+"	O	-
+
+Cómo	O	-
+explicarle	O	-
+que	O	-
+estoy	O	-
+en	O	-
+la	O	-
+cresta	O	-
+
+Y	O	-
+que	O	-
+el	O	-
+rap	O	-
+está	O	-
+fuera	O	-
+de	O	-
+control	O	-
+cómo	O	-
+mi	O	-
+barba	O	-
+
+Y	O	-
+que	O	-
+el	O	-
+tema	O	-
+es	O	-
+tu	O	-
+fea	O	-
+mariposa	O	-
+comercial	O	-
+contra	O	-
+mi	O	-
+larva	O	-
+
+Tengo	O	-
+los	O	-
+nervios	O	-
+destrozados	O	-
+depresión	O	-
+tras	O	-
+depresión	O	-
+
+No	O	-
+es	O	-
+fácil	O	-
+ser	O	-
+quien	O	-
+soy	O	-
+pero	O	-
+
+Cuando	O	-
+me	O	-
+siento	O	-
+el	O	-
+mejor	O	-
+como	O	-
+hoy	O	-
+
+Veo	O	-
+la	O	-
+luz	O	-
+y	O	-
+pienso	O	-
+,	O	-
+buf	O	-
+vaya	O	-
+cruz	O	-
+que	O	-
+llevas	O	-
+tu	O	-
+homeboy	B-PER	North American
+
+Y	O	-
+es	O	-
+que	O	-
+no	O	-
+sé	O	-
+,	O	-
+no	O	-
+sé	O	-
+,	O	-
+no	O	-
+tienen	O	-
+letras	O	-
+que	O	-
+respalden	O	-
+tanta	O	-
+pose	O	-
+
+Los	O	-
+dejo	O	-
+en	O	-
+boxes	B-LOC	North American
+,	O	-
+no	O	-
+me	O	-
+tosen	O	-
+
+Posesión	O	-
+del	O	-
+canon	O	-
+exclusivo	O	-
+es	O	-
+mi	O	-
+ventaja	O	-
+
+Mantengo	O	-
+el	O	-
+fuego	O	-
+vivo	O	-
+,	O	-
+para	O	-
+el	O	-
+B-Boy	B-PER	North American
+de	O	-
+bombo	O	-
+y	O	-
+caja	O	-
+
+Flipo	O	-
+con	O	-
+el	O	-
+ritmo	O	-
+y	O	-
+pienso	O	-
+bon	B-MISC	European
+voyage	I-MISC	European
+
+Miro	O	-
+afuera	O	-
+y	O	-
+todas	O	-
+las	O	-
+luces	O	-
+van	O	-
+pa'trás	O	-
+
+Me	O	-
+siento	O	-
+en	O	-
+la	O	-
+cabina	O	-
+de	O	-
+un	O	-
+Concorde	B-ORG	European
+
+Sobre	O	-
+este	O	-
+ritmo	O	-
+pura	O	-
+sangre	O	-
+tras	O	-
+un	O	-
+lustro	O	-
+
+Matando	O	-
+tu	O	-
+hambre	O	-
+con	O	-
+hambre	O	-
+
+Ahora	O	-
+escucha	O	-
+mi	O	-
+jazz	B-MISC	North American
+,	O	-
+Droga	B-MISC	European
+Pura	I-MISC	European
+como	O	-
+Elpho	B-PER	European
+
+¿	O	-
+delirios	O	-
+de	O	-
+grandeza	O	-
+?	O	-
+No	O	-
+,	O	-
+he	O	-
+vuelto	O	-
+a	O	-
+ganar	O	-
+sin	O	-
+esfuerzo	O	-
+
+Les	O	-
+entretengo	O	-
+
+Con	O	-
+música	O	-
+dura	O	-
+
+Y	O	-
+palabras	O	-
+duras	O	-
+
+Así	O	-
+es	O	-
+como	O	-
+vengo	O	-
+
+Vengo	O	-
+montao	O	-
+en	O	-
+un	O	-
+Gran	O	-
+Jeep	B-ORG	North American
+
+Un	O	-
+bic	B-ORG	European
+,	O	-
+un	O	-
+block	O	-
+,	O	-
+un	O	-
+lápiz	O	-
+,	O	-
+un	O	-
+fat	B-MISC	North American
+beat	I-MISC	North American
+
+¿	O	-
+Te	O	-
+crees	O	-
+Brad	B-PER	North American
+Pitt	I-PER	North American
+?	O	-
+¿	O	-
+Ah	O	-
+,	O	-
+sí	O	-
+?	O	-
+
+Mas	O	-
+pareces	O	-
+un	O	-
+Back	B-PER	North American
+Street	I-PER	North American
+por	O	-
+la	O	-
+foto	O	-
+del	O	-
+maxi	O	-
+
+Mi	O	-
+rap	O	-
+no	O	-
+se	O	-
+hace	O	-
+en	O	-
+un	O	-
+pispás	O	-
+,	O	-
+quizás	O	-
+tu	O	-
+disfraz	O	-
+si	O	-
+
+Extra	O	-
+,	O	-
+extra	O	-
+,	O	-
+mi	O	-
+mierda	O	-
+es	O	-
+maestra	O	-
+
+Puesta	O	-
+en	O	-
+vuestra	O	-
+mierda	O	-
+se	O	-
+demuestra	O	-
+
+Esta	O	-
+vez	O	-
+la	O	-
+mezcla	O	-
+es	O	-
+perfecta	O	-
+
+Javat	B-PER	European
+afecta	O	-
+,	O	-
+Rumba	B-PER	European
+selecta	O	-
+
+Ritmo	O	-
+hip-hop	B-MISC	North American
+que	O	-
+el	O	-
+B-Boy	B-PER	North American
+se	O	-
+inyecta	O	-
+
+Alza	O	-
+el	O	-
+espíritu	O	-
+y	O	-
+el	O	-
+alma	O	-
+abyectas	O	-
+
+Rapero	O	-
+trapero	O	-
+canelo	O	-
+que	O	-
+no	O	-
+conectas	O	-
+
+Se	O	-
+ofrece	O	-
+en	O	-
+sacrificio	O	-
+para	O	-
+el	O	-
+dios	O	-
+de	O	-
+la	O	-
+secta	O	-
+
+Dicen	O	-
+que	O	-
+las	O	-
+flores	O	-
+se	O	-
+marchitan	O	-
+
+Pero	O	-
+yo	O	-
+tengo	O	-
+riegos	O	-
+árabes	O	-
+en	O	-
+el	O	-
+jardín	O	-
+,	O	-
+de	O	-
+mi	O	-
+mezquita	O	-
+
+El	O	-
+roncito	O	-
+sabor	O	-
+madera	O	-
+,	O	-
+Fernandito	B-PER	European
+MalaManera	I-PER	European
+
+Salgo	O	-
+del	O	-
+metro	O	-
+y	O	-
+me	O	-
+enciendo	O	-
+una	O	-
+palmera	B-MISC	European
+
+Qué	O	-
+bonita	O	-
+es	O	-
+la	O	-
+mañana	O	-
+cuando	O	-
+hay	O	-
+alguien	O	-
+que	O	-
+te	O	-
+espera	O	-
+
+Gitana	O	-
+canastera	O	-
+con	O	-
+ojos	O	-
+de	O	-
+pantera	O	-
+
+Nunca	O	-
+está	O	-
+en	O	-
+la	O	-
+casa	O	-
+,	O	-
+siempre	O	-
+esta	O	-
+por	O	-
+fuera	O	-
+
+Quién	O	-
+quisiera	O	-
+,	O	-
+quién	O	-
+pudiera	O	-
+
+Caerse	O	-
+en	O	-
+esa	O	-
+jaula	O	-
+y	O	-
+dejar	O	-
+que	O	-
+le	O	-
+mordieran	O	-
+
+No	O	-
+encuentro	O	-
+a	O	-
+campanilla	B-PER	European
+,	O	-
+buscarla	O	-
+en	O	-
+mi	O	-
+cartera	O	-
+
+Ratas	O	-
+de	O	-
+alcantarilla	O	-
+,	O	-
+predators	B-ORG	North American
+riñonera	O	-
+
+No	O	-
+te	O	-
+lo	O	-
+repito	O	-
+,	O	-
+si	O	-
+te	O	-
+preguntan	O	-
+los	O	-
+chivatos	O	-
+
+No	O	-
+comprendo	O	-
+,	O	-
+non	B-MISC	European
+capito	I-MISC	European
+
+No	O	-
+parlo	O	-
+el	O	-
+españolo	O	-
+,	O	-
+tú	O	-
+te	O	-
+haces	O	-
+el	O	-
+mongolo	B-PER	European
+
+Recoge	O	-
+tu	O	-
+macuto	B-MISC	European
+,	O	-
+no	O	-
+pierdas	O	-
+ni	O	-
+un	O	-
+minuto	O	-
+
+Este	O	-
+beat	B-MISC	North American
+es	O	-
+una	O	-
+MILF	B-PER	North American
+,	O	-
+la	O	-
+reviento	O	-
+como	O	-
+un	O	-
+puto	O	-
+
+La	O	-
+pongo	O	-
+a	O	-
+cuatro	O	-
+patas	O	-
+,	O	-
+yo	O	-
+lo	O	-
+hago	O	-
+modo	O	-
+bruto	O	-
+
+Sara	B-PER	European
+,	O	-
+tu	O	-
+porro	O	-
+no	O	-
+me	O	-
+tira	O	-
+
+Todo	O	-
+es	O	-
+una	O	-
+mentira	O	-
+,	O	-
+como	O	-
+Amancio	B-PER	European
+y	O	-
+Zara	B-PER	European
+
+Ahí	O	-
+estaba	O	-
+,	O	-
+esperando	O	-
+a	O	-
+que	O	-
+lo	O	-
+hiciera	O	-
+
+Un	O	-
+cuchillo	O	-
+entre	O	-
+las	O	-
+manos	O	-
+y	O	-
+la	O	-
+cara	O	-
+demacrada	O	-
+
+Bendita	O	-
+democracia	O	-
+,	O	-
+fuck	O	-
+
+Spain	B-LOC	European
+is	O	-
+gangsta	B-MISC	North American
+shit	I-MISC	North American
+,	O	-
+we	O	-
+are	O	-
+politics	O	-
+mafia	O	-
+
+Mente	O	-
+sucia	O	-
+,	O	-
+funerales	O	-
+y	O	-
+desgracias	O	-
+
+No	O	-
+me	O	-
+des	O	-
+la	O	-
+mano	O	-
+,	O	-
+no	O	-
+me	O	-
+des	O	-
+las	O	-
+gracias	O	-
+
+De	O	-
+pico	O	-
+pardo	O	-
+,	O	-
+mi	O	-
+adicción	O	-
+a	O	-
+los	O	-
+petardos	O	-
+
+Y	O	-
+a	O	-
+los	O	-
+dardos	O	-
+que	O	-
+tú	O	-
+me	O	-
+lanzabas	O	-
+
+Muerto	O	-
+en	O	-
+vida	O	-
+,	O	-
+volvería	O	-
+a	O	-
+a	O	-
+tropezarme	O	-
+
+Y	O	-
+a	O	-
+levantarme	O	-
+y	O	-
+tú	O	-
+ni	O	-
+te	O	-
+enterarías	O	-
+
+Mantenlo	O	-
+crudo	O	-
+,	O	-
+puro	O	-
+y	O	-
+sin	O	-
+tonterías	O	-
+
+Lo	O	-
+tuyo	O	-
+es	O	-
+parafina	B-MISC	European
+,	O	-
+lo	O	-
+mio	O	-
+jia-jia	B-MISC	Eastern Asian
+
+Tu	O	-
+chari	B-PER	European
+canta	O	-
+pop	B-MISC	North American
+,	O	-
+la	O	-
+mía	O	-
+por	O	-
+bulería	B-MISC	European
+
+Con	O	-
+Gabriel	B-PER	European
+Escobar	I-PER	European
+,	O	-
+primo	O	-
+,	O	-
+más	O	-
+te	O	-
+gustaría	O	-
+
+*	O	-
+sonido	O	-
+telefónico	O	-
+*	O	-
+
+Ey	O	-
+you	O	-
+,	O	-
+qué	O	-
+pasa	O	-
+chico	O	-
+,	O	-
+qué	O	-
+pasa	O	-
+tron	O	-
+
+Camarera	O	-
+con	O	-
+perico	O	-
+,	O	-
+discoteca	O	-
+,	O	-
+Megatron	B-ORG	North American
+
+El	O	-
+niño	O	-
+chico	O	-
+ha	O	-
+tumbado	O	-
+al	O	-
+gigantón	O	-
+
+El	O	-
+musculitos	O	-
+no	O	-
+salva	O	-
+del	O	-
+palizón	O	-
+
+Eso	O	-
+está	O	-
+claro	O	-
+,	O	-
+no	O	-
+voy	O	-
+del	O	-
+palo	O	-
+mi	O	-
+niño	O	-
+malo	O	-
+
+Tu	O	-
+historieta	O	-
+de	O	-
+Dalí	B-PER	European
+la	O	-
+pinto	O	-
+con	O	-
+un	O	-
+Pilot	B-ORG	European
+
+Saben	O	-
+que	O	-
+me	O	-
+lo	O	-
+pulo	O	-
+,	O	-
+que	O	-
+me	O	-
+lo	O	-
+follo	O	-
+a	O	-
+pelo	O	-
+
+El	O	-
+primero	O	-
+de	O	-
+la	O	-
+isla	O	-
+,	O	-
+Colón	B-PER	European
+,	O	-
+Marco	B-PER	European
+Polo	I-PER	European
+
+No	O	-
+cojas	O	-
+caramelos	O	-
+de	O	-
+desconocidos	O	-
+
+Que	O	-
+te	O	-
+huelen	O	-
+el	O	-
+pelo	O	-
+,	O	-
+te	O	-
+siguen	O	-
+con	O	-
+sigilo	O	-
+
+MDMA	B-MISC	North American
+cocinado	O	-
+por	O	-
+abuelos	O	-
+
+Esos	O	-
+raperos	O	-
+están	O	-
+nerviosos	O	-
+,	O	-
+estoy	O	-
+cogiendo	O	-
+vuelo	O	-
+
+Créetelo	O	-
+,	O	-
+que	O	-
+empezamos	O	-
+desde	O	-
+cero	O	-
+
+Asúmelo	O	-
+,	O	-
+que	O	-
+te	O	-
+quise	O	-
+y	O	-
+que	O	-
+te	O	-
+quiero	O	-
+
+Entiéndelo	O	-
+,	O	-
+yo	O	-
+siempre	O	-
+seré	O	-
+el	O	-
+primero	O	-
+
+En	O	-
+cogerte	O	-
+las	O	-
+estrellas	O	-
+desde	O	-
+el	O	-
+cielo	O	-
+
+Estrellarlas	O	-
+contra	O	-
+el	O	-
+suelo	O	-
+,	O	-
+vuelo	O	-
+,	O	-
+vuelo	O	-
+que	O	-
+vuelo	O	-
+
+Fernando	B-PER	European
+,	O	-
+eres	O	-
+un	O	-
+chulo	O	-
+como	O	-
+era	O	-
+tu	O	-
+abuelo	O	-
+
+Bueno	O	-
+,	O	-
+por	O	-
+lo	O	-
+menos	O	-
+me	O	-
+lo	O	-
+creo	O	-
+
+Las	O	-
+señoras	O	-
+de	O	-
+mi	O	-
+barrio	O	-
+dicen	O	-
+'	O	-
+'	O	-
+suena	O	-
+muy	O	-
+feo''	O	-
+
+Qué	O	-
+pasa	O	-
+
+Fernando	B-PER	European
+Costa	I-PER	European
+2017	O	-
+se	O	-
+ha	O	-
+colao'	O	-
+en	O	-
+tu	O	-
+casa	O	-
