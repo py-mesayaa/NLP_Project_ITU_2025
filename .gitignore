@@ -1,6 +1,6 @@
 .history
 .venv
-__pycach__
+__pycache__/
 /logs
 /models
 /xlmr-cultural-3
